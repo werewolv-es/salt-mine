@@ -1,1 +1,1184 @@
-[{"__type":"Werewolf.GameEngine.Creation.GameCreatedEvent, Werewolf.GameEngine","CreatedBy":"Guardian27","GameId":"bew-022","TimeStamp":"\/Date(1564690743425)\/"},{"__type":"Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine","PlayerName":"Guardian27","GameId":"bew-022","TimeStamp":"\/Date(1564690745440)\/"},{"__type":"Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine","PlayerName":"XII","GameId":"bew-022","TimeStamp":"\/Date(1564690756769)\/"},{"__type":"Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","GameId":"bew-022","TimeStamp":"\/Date(1564690760020)\/"},{"__type":"Werewolf.GameEngine.Creation.PlayerLeftEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Reason":"Quit","GameId":"bew-022","TimeStamp":"\/Date(1564690760098)\/"},{"__type":"Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","GameId":"bew-022","TimeStamp":"\/Date(1564690760988)\/"},{"__type":"Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine","PlayerName":"Phyton","GameId":"bew-022","TimeStamp":"\/Date(1564690761832)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"whoops","GameId":"bew-022","TimeStamp":"\/Date(1564690763660)\/"},{"__type":"Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","GameId":"bew-022","TimeStamp":"\/Date(1564690776856)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"Okay ready?","GameId":"bew-022","TimeStamp":"\/Date(1564690890679)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"o/","GameId":"bew-022","TimeStamp":"\/Date(1564690901492)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":":3","GameId":"bew-022","TimeStamp":"\/Date(1564690906883)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"XII","Message":"1 wolf, 4 villagers, everyone with dream catchers, all villagers with crossbows, wolf with an arcanum.","GameId":"bew-022","TimeStamp":"\/Date(1564690913557)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"XII","Message":"!","GameId":"bew-022","TimeStamp":"\/Date(1564690915823)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"I don't have that many dream catchers and crossbows","GameId":"bew-022","TimeStamp":"\/Date(1564690936073)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"XII","Message":"/me looks at Kirschstein expectantly","GameId":"bew-022","TimeStamp":"\/Date(1564690955644)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"I haven't even decided how many items are going to each person yet","GameId":"bew-022","TimeStamp":"\/Date(1564690972786)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"we'll see how drunk / hungover / generous i'm feeling on saturday","GameId":"bew-022","TimeStamp":"\/Date(1564690982343)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"XII","Message":"XD","GameId":"bew-022","TimeStamp":"\/Date(1564690989834)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"Rawr.","GameId":"bew-022","TimeStamp":"\/Date(1564690990412)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"*books ticket to Manchester to make Kirschstein drunk*","GameId":"bew-022","TimeStamp":"\/Date(1564691002881)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"Starting","GameId":"bew-022","TimeStamp":"\/Date(1564691008071)\/"},{"__type":"Werewolf.GameEngine.Creation.GameStartedEvent, Werewolf.GameEngine","FirstDayLength":0,"NightLength":0,"DayLength":0,"DayDiscussionLength":0,"DefenceLength":0,"TrialLength":0,"LynchType":"MostVotes","PhaseTimeType":"VariableSpud","RoleAnnouncementMessageType":"Full","RoleList":["Shapeshifter","Seer","Villager","Villager","Tanner"],"Host":"Guardian27","NumberOfMasonLeaders":0,"NumberOfDirewolves":0,"NumberOfWolves":0,"NumberOfShapeshifters":0,"NumberOfBloodhounds":0,"NumberOfLycans":0,"NumberOfSeers":0,"NumberOfProtectors":0,"NumberOfHuntsmen":0,"NumberOfGravediggers":0,"NumberOfGraverobbers":0,"NumberOfRevivers":0,"NumberOfHarlots":0,"NumberOfVampires":0,"NumberOfFamiliarStalkers":0,"NumberOfAlphaWolves":0,"NumberOfStalkers":0,"NumberOfMilitia":0,"NumberOfMessiahs":0,"NumberOfDjinn":0,"NumberOfSuccubi":0,"NumberOfWitches":0,"NumberOfShamans":0,"NumberOfPuppetmasters":0,"NumberOfTarotReaders":0,"NumberOfWitchHunters":0,"NumberOfBeholders":0,"NumberOfZealots":0,"NumberOfSleepWalkers":0,"NumberOfDemonlords":0,"NumberOfHellhounds":0,"GameId":"bew-022","TimeStamp":"\/Date(1564691014116)\/"},{"__type":"Werewolf.GameEngine.Creation.NoLynchEnabled, Werewolf.GameEngine","GameId":"bew-022","TimeStamp":"\/Date(1564691014131)\/"},{"__type":"Werewolf.GameEngine.Creation.GameSetToVariableLengthSpeedGameCycle, Werewolf.GameEngine","GameId":"bew-022","TimeStamp":"\/Date(1564691014147)\/"},{"__type":"Werewolf.GameEngine.Core.AnonymisedGameStartedEvent, Werewolf.GameEngine","ThemeId":"Overwatch","GameId":"bew-022","TimeStamp":"\/Date(1564691014162)\/"},{"__type":"Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine","OriginalName":"XII","NewName":"Torbjorn","NewAvatarUrl":"/content/images/avatars/Overwatch/Torbjorn.png","GameId":"bew-022","TimeStamp":"\/Date(1564691014178)\/"},{"__type":"Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine","OriginalName":"Guardian27","NewName":"Brigitte","NewAvatarUrl":"/content/images/avatars/Overwatch/Brigitte.png","GameId":"bew-022","TimeStamp":"\/Date(1564691014287)\/"},{"__type":"Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine","OriginalName":"Phyton","NewName":"Ana","NewAvatarUrl":"/content/images/avatars/Overwatch/Ana.png","GameId":"bew-022","TimeStamp":"\/Date(1564691014522)\/"},{"__type":"Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine","OriginalName":"Giovanniboyy","NewName":"Winston","NewAvatarUrl":"/content/images/avatars/Overwatch/Winston.png","GameId":"bew-022","TimeStamp":"\/Date(1564691014662)\/"},{"__type":"Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine","OriginalName":"Kirschstein","NewName":"Genji","NewAvatarUrl":"/content/images/avatars/Overwatch/Genji.png","GameId":"bew-022","TimeStamp":"\/Date(1564691014787)\/"},{"__type":"Werewolf.GameEngine.PlayerActivity.InactivitySmitingEnabled, Werewolf.GameEngine","GameId":"bew-022","TimeStamp":"\/Date(1564691014912)\/"},{"__type":"Werewolf.GameEngine.Roles.TannerAssignedEvent, Werewolf.GameEngine","PlayerName":"Phyton","GameId":"bew-022","TimeStamp":"\/Date(1564691014944)\/"},{"__type":"Werewolf.GameEngine.Items.AccurrumAllocated, Werewolf.GameEngine","PlayerName":"Phyton","ItemId":"a66d414f893f4aff9897a74dec4596d1","GameId":"bew-022","TimeStamp":"\/Date(1564691014959)\/"},{"__type":"Werewolf.GameEngine.Items.WolfPeltAllocated, Werewolf.GameEngine","PlayerName":"Phyton","ItemId":"f15941d815a244d6b2ef1d6662423bf5","GameId":"bew-022","TimeStamp":"\/Date(1564691014959)\/"},{"__type":"Werewolf.GameEngine.Roles.VillagerAssignedEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","GameId":"bew-022","TimeStamp":"\/Date(1564691014979)\/"},{"__type":"Werewolf.GameEngine.Roles.ShapeshifterAssignedEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","GameId":"bew-022","TimeStamp":"\/Date(1564691014991)\/"},{"__type":"Werewolf.GameEngine.Roles.SeerAssignedEvent, Werewolf.GameEngine","PlayerName":"XII","GameId":"bew-022","TimeStamp":"\/Date(1564691015088)\/"},{"__type":"Werewolf.GameEngine.Roles.VillagerAssignedEvent, Werewolf.GameEngine","PlayerName":"Guardian27","GameId":"bew-022","TimeStamp":"\/Date(1564691015102)\/"},{"__type":"Werewolf.GameEngine.Core.ModeratorMessageEvent, Werewolf.GameEngine","Message":"There are: 1 Tanner, 2 Villagers, 1 Shapeshifter and 1 Seer.","GameId":"bew-022","TimeStamp":"\/Date(1564691015132)\/"},{"__type":"Werewolf.GameEngine.Items.ItemsInGameAnnounced, Werewolf.GameEngine","RandomlyAssigned":[],"AssignedToRoles":{"Tanner":["Accurrum","WolfPelt"]},"GameId":"bew-022","TimeStamp":"\/Date(1564691015148)\/"},{"__type":"Werewolf.GameEngine.Creation.GameSetupFinished, Werewolf.GameEngine","GameId":"bew-022","TimeStamp":"\/Date(1564691015148)\/"},{"__type":"Werewolf.GameEngine.Chatting.WerewolfNightMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"I am a Shapeshifter","Recipients":["Giovanniboyy"],"Eavesdroppers":["Default-Eavesdropper","Default-Eavesdropper"],"GameId":"bew-022","TimeStamp":"\/Date(1564691015230)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"oh nice","GameId":"bew-022","TimeStamp":"\/Date(1564691024042)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"wow","GameId":"bew-022","TimeStamp":"\/Date(1564691030198)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"Dat Tanner","GameId":"bew-022","TimeStamp":"\/Date(1564691031651)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"Tanner OP","GameId":"bew-022","TimeStamp":"\/Date(1564691035526)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"MANA MANA","GameId":"bew-022","TimeStamp":"\/Date(1564691037247)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"pls nerf","GameId":"bew-022","TimeStamp":"\/Date(1564691038167)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"MANA MANA","GameId":"bew-022","TimeStamp":"\/Date(1564691041682)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"Nurf","GameId":"bew-022","TimeStamp":"\/Date(1564691042948)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"MANA MANA","GameId":"bew-022","TimeStamp":"\/Date(1564691045354)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"dududududu","GameId":"bew-022","TimeStamp":"\/Date(1564691050495)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Phyton","Message":"Why bew why?","GameId":"bew-022","TimeStamp":"\/Date(1564691050510)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"Bew = EVULS","GameId":"bew-022","TimeStamp":"\/Date(1564691057026)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Phyton","Message":"Evuls bew.","GameId":"bew-022","TimeStamp":"\/Date(1564691067261)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"Make him less evuls","GameId":"bew-022","TimeStamp":"\/Date(1564691075948)\/"},{"__type":"Werewolf.GameEngine.Phases.Night.NightStartsSoonWarningGiven, Werewolf.GameEngine","FlavourText":"Daylight dwindles...","GameId":"bew-022","TimeStamp":"\/Date(1564691076229)\/"},{"__type":"Werewolf.GameEngine.Phases.Night.NightStartedEvent, Werewolf.GameEngine","NightNumber":1,"PhaseLength":0,"GameId":"bew-022","TimeStamp":"\/Date(1564691111287)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"Giovanniboyy","PlayerNames":["Phyton","Kirschstein","XII","Guardian27"],"ActionName":"Kill","Message":"The wolfpack have 1 kill tonight","GameId":"bew-022","TimeStamp":"\/Date(1564691111287)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidSecondaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"Giovanniboyy","PlayerNames":["Giovanniboyy"],"ActionName":"Shift","GameId":"bew-022","TimeStamp":"\/Date(1564691111287)\/"},{"__type":"Werewolf.GameEngine.Items.ItemAvailable, Werewolf.GameEngine","ItemIndex":0,"ItemName":"Accurrum","Description":"The Accurrum can be used once per game. The day after it is activated will be shorter than normal","PlayerWithItem":"Phyton","ActionName":"Activate","PlayerNames":["Phyton"],"GameId":"bew-022","TimeStamp":"\/Date(1564691111302)\/"},{"__type":"Werewolf.GameEngine.Items.ItemAvailable, Werewolf.GameEngine","ItemIndex":1,"ItemName":"Wolf Pelt","Description":"A Wolf Pelt will protect you from one night kill, but it will make you appear as a Werewolf to the Seer","PlayerWithItem":"Phyton","PlayerNames":[],"GameId":"bew-022","TimeStamp":"\/Date(1564691111302)\/"},{"__type":"Werewolf.GameEngine.Roles.NightTargetChosenEvent, Werewolf.GameEngine","Confirmation":"Tonight you will check $Guardian27","PlayerWithRole":"XII","Role":"Seer","Target":"Guardian27","GameId":"bew-022","TimeStamp":"\/Date(1564691117534)\/"},{"__type":"Werewolf.GameEngine.Phases.Night.WerewolfVoteEvent, Werewolf.GameEngine","Werewolf":"Giovanniboyy","Target":"XII","Recipients":["Giovanniboyy"],"MaxKillCount":1,"ThisKill":1,"GameId":"bew-022","TimeStamp":"\/Date(1564691129187)\/"},{"__type":"Werewolf.GameEngine.Chatting.WerewolfNightMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"DIE DWARF DIE","Recipients":["Giovanniboyy"],"Eavesdroppers":["Default-Eavesdropper"],"GameId":"bew-022","TimeStamp":"\/Date(1564691134765)\/"},{"__type":"Werewolf.GameEngine.Items.ItemNightTargetChosen, Werewolf.GameEngine","PlayerWithRole":"Phyton","Target":"Phyton","ItemId":"a66d414f893f4aff9897a74dec4596d1","ItemName":"Accurrum","Confirmation":"Tonight you will activate the Accurrum. Tomorrow's daytime will be shorter. $$","GameId":"bew-022","TimeStamp":"\/Date(1564691136347)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.DayStartsSoonWarningGiven, Werewolf.GameEngine","FlavourText":"Dawn...","GameId":"bew-022","TimeStamp":"\/Date(1564691136703)\/"},{"__type":"Werewolf.GameEngine.Roles.Village.Seer.RoleRevealedToSeerEvent, Werewolf.GameEngine","SeerName":"XII","Target":"Guardian27","Role":"member of the village","GameId":"bew-022","TimeStamp":"\/Date(1564691171251)\/"},{"__type":"Werewolf.GameEngine.Phases.Night.PlayerKilledEvent, Werewolf.GameEngine","PlayerName":"XII","CauseOfDeath":"Werewolf","GameId":"bew-022","TimeStamp":"\/Date(1564691171251)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.DayStartedEvent, Werewolf.GameEngine","DayNumber":2,"PhaseLength":0,"DiscussionLength":0,"GameId":"bew-022","TimeStamp":"\/Date(1564691171251)\/"},{"__type":"Werewolf.GameEngine.Items.Accurrum.AccurrumActivated, Werewolf.GameEngine","PlayerName":"Phyton","GameId":"bew-022","TimeStamp":"\/Date(1564691171251)\/"},{"__type":"Werewolf.GameEngine.Items.ItemConsumed, Werewolf.GameEngine","ItemId":"a66d414f893f4aff9897a74dec4596d1","PlayerName":"Phyton","GameId":"bew-022","TimeStamp":"\/Date(1564691171251)\/"},{"__type":"Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine","PlayerName":"XII","Message":"Knew it.","Recipients":["XII"],"GameId":"bew-022","TimeStamp":"\/Date(1564691179039)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"Rip today","GameId":"bew-022","TimeStamp":"\/Date(1564691180758)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"As expected","GameId":"bew-022","TimeStamp":"\/Date(1564691182039)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Phyton","Message":"Morning","GameId":"bew-022","TimeStamp":"\/Date(1564691182727)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"bet he still gets POTG","GameId":"bew-022","TimeStamp":"\/Date(1564691182883)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"Of course he does","GameId":"bew-022","TimeStamp":"\/Date(1564691187805)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"Is torbjorn that op?","GameId":"bew-022","TimeStamp":"\/Date(1564691193033)\/"},{"__type":"Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine","PlayerName":"XII","Message":"Fucking top of the list.","Recipients":["XII"],"GameId":"bew-022","TimeStamp":"\/Date(1564691195876)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.VillageNominationsOpenedEvent, Werewolf.GameEngine","TimeLeft":0,"GameId":"bew-022","TimeStamp":"\/Date(1564691196237)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.NoLynchOptionAvailable, Werewolf.GameEngine","GameId":"bew-022","TimeStamp":"\/Date(1564691196237)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Phyton","Message":"Winston is a Wolf.","GameId":"bew-022","TimeStamp":"\/Date(1564691201945)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"He just sits there and his turret does everything","GameId":"bew-022","TimeStamp":"\/Date(1564691208675)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"??","GameId":"bew-022","TimeStamp":"\/Date(1564691211972)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"Me?","GameId":"bew-022","TimeStamp":"\/Date(1564691213660)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Phyton","Message":"Not sure which one. ","GameId":"bew-022","TimeStamp":"\/Date(1564691214066)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"it's not a real Torb POTG if Torb is alive in it","GameId":"bew-022","TimeStamp":"\/Date(1564691214269)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Phyton","Message":"You!","GameId":"bew-022","TimeStamp":"\/Date(1564691217175)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.VillageNominationEvent, Werewolf.GameEngine","PlayerName":"Phyton","Target":"Giovanniboyy","GameId":"bew-022","TimeStamp":"\/Date(1564691219863)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.VillageNominationEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Target":"Phyton","GameId":"bew-022","TimeStamp":"\/Date(1564691222238)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.VillageNominationEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Target":"Giovanniboyy","GameId":"bew-022","TimeStamp":"\/Date(1564691224378)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"Well","GameId":"bew-022","TimeStamp":"\/Date(1564691229614)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"Winston what do you have to say for yourself?","GameId":"bew-022","TimeStamp":"\/Date(1564691231068)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"Crap","GameId":"bew-022","TimeStamp":"\/Date(1564691232396)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Phyton","Message":"No no. You dies evuls. ","GameId":"bew-022","TimeStamp":"\/Date(1564691232568)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"We do actually have to lynch as well","GameId":"bew-022","TimeStamp":"\/Date(1564691237489)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"Or any cc?","GameId":"bew-022","TimeStamp":"\/Date(1564691238958)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"I'm the Seer... Brigitte is Village","GameId":"bew-022","TimeStamp":"\/Date(1564691238958)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Phyton","Message":"....","GameId":"bew-022","TimeStamp":"\/Date(1564691244880)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Phyton","Message":"Best CC ever.","GameId":"bew-022","TimeStamp":"\/Date(1564691252333)\/"},{"__type":"Werewolf.GameEngine.Phases.Night.NightStartsSoonWarningGiven, Werewolf.GameEngine","FlavourText":"The hour of dusk approaches...","GameId":"bew-022","TimeStamp":"\/Date(1564691256333)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"I most certainly am.","GameId":"bew-022","TimeStamp":"\/Date(1564691256928)\/"},{"__type":"Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine","PlayerName":"XII","Message":"Haha.","Recipients":["XII"],"GameId":"bew-022","TimeStamp":"\/Date(1564691262177)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"You're just trying to get yourself lynched aren't you, Tanner?","GameId":"bew-022","TimeStamp":"\/Date(1564691265318)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"But this bad cc","GameId":"bew-022","TimeStamp":"\/Date(1564691265787)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.VillageNominationEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","Target":"Phyton","GameId":"bew-022","TimeStamp":"\/Date(1564691268036)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"Could it be he tanner?","GameId":"bew-022","TimeStamp":"\/Date(1564691268428)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.VillageNominationRetractedEvent, Werewolf.GameEngine","Target":"Phyton","PlayerName":"Kirschstein","GameId":"bew-022","TimeStamp":"\/Date(1564691272505)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.VillageNominationEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","Target":"Giovanniboyy","GameId":"bew-022","TimeStamp":"\/Date(1564691272505)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Phyton","Message":"Tanner?","GameId":"bew-022","TimeStamp":"\/Date(1564691274633)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Phyton","Message":"Aw no. ","GameId":"bew-022","TimeStamp":"\/Date(1564691276755)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"It's a shit cc","GameId":"bew-022","TimeStamp":"\/Date(1564691278287)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"No u","GameId":"bew-022","TimeStamp":"\/Date(1564691284072)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"No w","GameId":"bew-022","TimeStamp":"\/Date(1564691285990)\/"},{"__type":"Werewolf.GameEngine.Phases.Night.NightStartedEvent, Werewolf.GameEngine","NightNumber":2,"PhaseLength":0,"GameId":"bew-022","TimeStamp":"\/Date(1564691291615)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.PlayerLynchedEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","GameId":"bew-022","TimeStamp":"\/Date(1564691291615)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"Giovanniboyy","PlayerNames":["Phyton","Kirschstein","Guardian27"],"ActionName":"Kill","Message":"The wolfpack have 1 kill tonight","GameId":"bew-022","TimeStamp":"\/Date(1564691291615)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidSecondaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"Giovanniboyy","PlayerNames":["Giovanniboyy"],"ActionName":"Shift","GameId":"bew-022","TimeStamp":"\/Date(1564691291615)\/"},{"__type":"Werewolf.GameEngine.Items.ItemAvailable, Werewolf.GameEngine","ItemIndex":0,"ItemName":"Wolf Pelt","Description":"A Wolf Pelt will protect you from one night kill, but it will make you appear as a Werewolf to the Seer","PlayerWithItem":"Phyton","PlayerNames":[],"GameId":"bew-022","TimeStamp":"\/Date(1564691291615)\/"},{"__type":"Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"Tanner who?","Recipients":["XII","Giovanniboyy"],"GameId":"bew-022","TimeStamp":"\/Date(1564691295881)\/"},{"__type":"Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"Don't know her","Recipients":["XII","Giovanniboyy"],"GameId":"bew-022","TimeStamp":"\/Date(1564691300099)\/"},{"__type":"Werewolf.GameEngine.Phases.After.VillageVictoryEvent, Werewolf.GameEngine","WinningPlayers":["Kirschstein","XII","Guardian27"],"GameId":"bew-022","TimeStamp":"\/Date(1564691300881)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"lol","PlayerName":"Phyton","OriginalName":"Phyton","GameId":"bew-022","TimeStamp":"\/Date(1564691305912)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"wut","PlayerName":"Guardian27","OriginalName":"Guardian27","GameId":"bew-022","TimeStamp":"\/Date(1564691309284)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"lol","PlayerName":"Giovanniboyy","OriginalName":"Giovanniboyy","GameId":"bew-022","TimeStamp":"\/Date(1564691309299)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"lol Ana","PlayerName":"Kirschstein","OriginalName":"Kirschstein","GameId":"bew-022","TimeStamp":"\/Date(1564691309409)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"WHYYYYY?","PlayerName":"Phyton","OriginalName":"Phyton","GameId":"bew-022","TimeStamp":"\/Date(1564691310315)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"LOL","PlayerName":"Guardian27","OriginalName":"Guardian27","GameId":"bew-022","TimeStamp":"\/Date(1564691311690)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"Amazing","PlayerName":"Kirschstein","OriginalName":"Kirschstein","GameId":"bew-022","TimeStamp":"\/Date(1564691316948)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"Beautiful!","PlayerName":"Guardian27","OriginalName":"Guardian27","GameId":"bew-022","TimeStamp":"\/Date(1564691320995)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"I'm too good to lies. ","PlayerName":"Phyton","OriginalName":"Phyton","GameId":"bew-022","TimeStamp":"\/Date(1564691328761)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"-_-","PlayerName":"Phyton","OriginalName":"Phyton","GameId":"bew-022","TimeStamp":"\/Date(1564691329933)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"Torb got the seer hit","PlayerName":"Kirschstein","OriginalName":"Kirschstein","GameId":"bew-022","TimeStamp":"\/Date(1564691333683)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"from beyond the grave","PlayerName":"Kirschstein","OriginalName":"Kirschstein","GameId":"bew-022","TimeStamp":"\/Date(1564691336261)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"So yea","PlayerName":"Kirschstein","OriginalName":"Kirschstein","GameId":"bew-022","TimeStamp":"\/Date(1564691337578)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"Torb dead and POTG","PlayerName":"Kirschstein","OriginalName":"Kirschstein","GameId":"bew-022","TimeStamp":"\/Date(1564691340730)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"confirmed","PlayerName":"Kirschstein","OriginalName":"Kirschstein","GameId":"bew-022","TimeStamp":"\/Date(1564691341765)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"Brigette is village, fwiw.","PlayerName":"XII","OriginalName":"XII","GameId":"bew-022","TimeStamp":"\/Date(1564691347542)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"lmao","PlayerName":"Giovanniboyy","OriginalName":"Giovanniboyy","GameId":"bew-022","TimeStamp":"\/Date(1564691355402)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"Really? Didn't notice ^^","PlayerName":"Guardian27","OriginalName":"Guardian27","GameId":"bew-022","TimeStamp":"\/Date(1564691359253)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"Amazing, absolutely amazing","PlayerName":"Kirschstein","OriginalName":"Kirschstein","GameId":"bew-022","TimeStamp":"\/Date(1564691362738)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"lmao","PlayerName":"Phyton","OriginalName":"Phyton","GameId":"bew-022","TimeStamp":"\/Date(1564691364316)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"That's what I said!","PlayerName":"Giovanniboyy","OriginalName":"Giovanniboyy","GameId":"bew-022","TimeStamp":"\/Date(1564691367619)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"Ana support of the game","PlayerName":"Guardian27","OriginalName":"Guardian27","GameId":"bew-022","TimeStamp":"\/Date(1564691379106)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"No u","PlayerName":"Phyton","OriginalName":"Phyton","GameId":"bew-022","TimeStamp":"\/Date(1564691385050)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"I can't believe I hit a Wolf.","PlayerName":"Phyton","OriginalName":"Phyton","GameId":"bew-022","TimeStamp":"\/Date(1564691394248)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"Winston (to the Dead) Thu 20:28 Tanner who? Thu 20:28 Don't know her","PlayerName":"Giovanniboyy","OriginalName":"Giovanniboyy","GameId":"bew-022","TimeStamp":"\/Date(1564691395219)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"-_-","PlayerName":"Phyton","OriginalName":"Phyton","GameId":"bew-022","TimeStamp":"\/Date(1564691397951)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"go on bew, do one more","PlayerName":"Kirschstein","OriginalName":"Kirschstein","GameId":"bew-022","TimeStamp":"\/Date(1564691406999)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"then i need to disappear","PlayerName":"Kirschstein","OriginalName":"Kirschstein","GameId":"bew-022","TimeStamp":"\/Date(1564691410421)\/"}]
+[
+    {
+        "__type": "Werewolf.GameEngine.Creation.GameCreatedEvent, Werewolf.GameEngine",
+        "CreatedBy": "Guardian27",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564690743425)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564690745440)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564690756769)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564690760020)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.PlayerLeftEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Reason": "Quit",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564690760098)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564690760988)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564690761832)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "whoops",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564690763660)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564690776856)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "Okay ready?",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564690890679)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "o/",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564690901492)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": ":3",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564690906883)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "1 wolf, 4 villagers, everyone with dream catchers, all villagers with crossbows, wolf with an arcanum.",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564690913557)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "!",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564690915823)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "I don't have that many dream catchers and crossbows",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564690936073)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "/me looks at Kirschstein expectantly",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564690955644)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "I haven't even decided how many items are going to each person yet",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564690972786)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "we'll see how drunk / hungover / generous i'm feeling on saturday",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564690982343)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "XD",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564690989834)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "Rawr.",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564690990412)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "*books ticket to Manchester to make Kirschstein drunk*",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691002881)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "Starting",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691008071)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.GameStartedEvent, Werewolf.GameEngine",
+        "FirstDayLength": 0,
+        "NightLength": 0,
+        "DayLength": 0,
+        "DayDiscussionLength": 0,
+        "DefenceLength": 0,
+        "TrialLength": 0,
+        "LynchType": "MostVotes",
+        "PhaseTimeType": "VariableSpud",
+        "RoleAnnouncementMessageType": "Full",
+        "RoleList": [
+            "Shapeshifter",
+            "Seer",
+            "Villager",
+            "Villager",
+            "Tanner"
+        ],
+        "Host": "Guardian27",
+        "NumberOfMasonLeaders": 0,
+        "NumberOfDirewolves": 0,
+        "NumberOfWolves": 0,
+        "NumberOfShapeshifters": 0,
+        "NumberOfBloodhounds": 0,
+        "NumberOfLycans": 0,
+        "NumberOfSeers": 0,
+        "NumberOfProtectors": 0,
+        "NumberOfHuntsmen": 0,
+        "NumberOfGravediggers": 0,
+        "NumberOfGraverobbers": 0,
+        "NumberOfRevivers": 0,
+        "NumberOfHarlots": 0,
+        "NumberOfVampires": 0,
+        "NumberOfFamiliarStalkers": 0,
+        "NumberOfAlphaWolves": 0,
+        "NumberOfStalkers": 0,
+        "NumberOfMilitia": 0,
+        "NumberOfMessiahs": 0,
+        "NumberOfDjinn": 0,
+        "NumberOfSuccubi": 0,
+        "NumberOfWitches": 0,
+        "NumberOfShamans": 0,
+        "NumberOfPuppetmasters": 0,
+        "NumberOfTarotReaders": 0,
+        "NumberOfWitchHunters": 0,
+        "NumberOfBeholders": 0,
+        "NumberOfZealots": 0,
+        "NumberOfSleepWalkers": 0,
+        "NumberOfDemonlords": 0,
+        "NumberOfHellhounds": 0,
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691014116)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.NoLynchEnabled, Werewolf.GameEngine",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691014131)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.GameSetToVariableLengthSpeedGameCycle, Werewolf.GameEngine",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691014147)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Core.AnonymisedGameStartedEvent, Werewolf.GameEngine",
+        "ThemeId": "Overwatch",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691014162)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine",
+        "OriginalName": "XII",
+        "NewName": "Torbjorn",
+        "NewAvatarUrl": "/content/images/avatars/Overwatch/Torbjorn.png",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691014178)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine",
+        "OriginalName": "Guardian27",
+        "NewName": "Brigitte",
+        "NewAvatarUrl": "/content/images/avatars/Overwatch/Brigitte.png",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691014287)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine",
+        "OriginalName": "Phyton",
+        "NewName": "Ana",
+        "NewAvatarUrl": "/content/images/avatars/Overwatch/Ana.png",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691014522)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine",
+        "OriginalName": "Giovanniboyy",
+        "NewName": "Winston",
+        "NewAvatarUrl": "/content/images/avatars/Overwatch/Winston.png",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691014662)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine",
+        "OriginalName": "Kirschstein",
+        "NewName": "Genji",
+        "NewAvatarUrl": "/content/images/avatars/Overwatch/Genji.png",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691014787)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.PlayerActivity.InactivitySmitingEnabled, Werewolf.GameEngine",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691014912)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.TannerAssignedEvent, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691014944)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Items.AccurrumAllocated, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "ItemId": "a66d414f893f4aff9897a74dec4596d1",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691014959)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Items.WolfPeltAllocated, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "ItemId": "f15941d815a244d6b2ef1d6662423bf5",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691014959)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.VillagerAssignedEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691014979)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ShapeshifterAssignedEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691014991)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.SeerAssignedEvent, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691015088)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.VillagerAssignedEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691015102)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Core.ModeratorMessageEvent, Werewolf.GameEngine",
+        "Message": "There are: 1 Tanner, 2 Villagers, 1 Shapeshifter and 1 Seer.",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691015132)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.GameSetupFinished, Werewolf.GameEngine",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691015148)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.WerewolfNightMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "I am a Shapeshifter",
+        "Recipients": [
+            "Giovanniboyy"
+        ],
+        "Eavesdroppers": [
+            "Default-Eavesdropper",
+            "Default-Eavesdropper"
+        ],
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691015230)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "oh nice",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691024042)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "wow",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691030198)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "Dat Tanner",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691031651)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "Tanner OP",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691035526)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "MANA MANA",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691037247)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "pls nerf",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691038167)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "MANA MANA",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691041682)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "Nurf",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691042948)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "MANA MANA",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691045354)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "dududududu",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691050495)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "Why bew why?",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691050510)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "Bew = EVULS",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691057026)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "Evuls bew.",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691067261)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "Make him less evuls",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691075948)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Night.NightStartsSoonWarningGiven, Werewolf.GameEngine",
+        "FlavourText": "Daylight dwindles...",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691076229)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Night.NightStartedEvent, Werewolf.GameEngine",
+        "NightNumber": 1,
+        "PhaseLength": 0,
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691111287)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "Giovanniboyy",
+        "PlayerNames": [
+            "Phyton",
+            "Kirschstein",
+            "XII",
+            "Guardian27"
+        ],
+        "ActionName": "Kill",
+        "Message": "The wolfpack have 1 kill tonight",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691111287)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidSecondaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "Giovanniboyy",
+        "PlayerNames": [
+            "Giovanniboyy"
+        ],
+        "ActionName": "Shift",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691111287)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Items.ItemAvailable, Werewolf.GameEngine",
+        "ItemIndex": 0,
+        "ItemName": "Accurrum",
+        "Description": "The Accurrum can be used once per game. The day after it is activated will be shorter than normal",
+        "PlayerWithItem": "Phyton",
+        "ActionName": "Activate",
+        "PlayerNames": [
+            "Phyton"
+        ],
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691111302)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Items.ItemAvailable, Werewolf.GameEngine",
+        "ItemIndex": 1,
+        "ItemName": "Wolf Pelt",
+        "Description": "A Wolf Pelt will protect you from one night kill, but it will make you appear as a Werewolf to the Seer",
+        "PlayerWithItem": "Phyton",
+        "PlayerNames": [],
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691111302)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.NightTargetChosenEvent, Werewolf.GameEngine",
+        "Confirmation": "Tonight you will check $Guardian27",
+        "PlayerWithRole": "XII",
+        "Role": "Seer",
+        "Target": "Guardian27",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691117534)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Night.WerewolfVoteEvent, Werewolf.GameEngine",
+        "Werewolf": "Giovanniboyy",
+        "Target": "XII",
+        "Recipients": [
+            "Giovanniboyy"
+        ],
+        "MaxKillCount": 1,
+        "ThisKill": 1,
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691129187)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.WerewolfNightMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "DIE DWARF DIE",
+        "Recipients": [
+            "Giovanniboyy"
+        ],
+        "Eavesdroppers": [
+            "Default-Eavesdropper"
+        ],
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691134765)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Items.ItemNightTargetChosen, Werewolf.GameEngine",
+        "PlayerWithRole": "Phyton",
+        "Target": "Phyton",
+        "ItemId": "a66d414f893f4aff9897a74dec4596d1",
+        "ItemName": "Accurrum",
+        "Confirmation": "Tonight you will activate the Accurrum. Tomorrow's daytime will be shorter. $$",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691136347)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.DayStartsSoonWarningGiven, Werewolf.GameEngine",
+        "FlavourText": "Dawn...",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691136703)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.Village.Seer.RoleRevealedToSeerEvent, Werewolf.GameEngine",
+        "SeerName": "XII",
+        "Target": "Guardian27",
+        "Role": "member of the village",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691171251)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Night.PlayerKilledEvent, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "CauseOfDeath": "Werewolf",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691171251)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.DayStartedEvent, Werewolf.GameEngine",
+        "DayNumber": 2,
+        "PhaseLength": 0,
+        "DiscussionLength": 0,
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691171251)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Items.Accurrum.AccurrumActivated, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691171251)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Items.ItemConsumed, Werewolf.GameEngine",
+        "ItemId": "a66d414f893f4aff9897a74dec4596d1",
+        "PlayerName": "Phyton",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691171251)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "Knew it.",
+        "Recipients": [
+            "XII"
+        ],
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691179039)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "Rip today",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691180758)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "As expected",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691182039)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "Morning",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691182727)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "bet he still gets POTG",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691182883)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "Of course he does",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691187805)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "Is torbjorn that op?",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691193033)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "Fucking top of the list.",
+        "Recipients": [
+            "XII"
+        ],
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691195876)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.VillageNominationsOpenedEvent, Werewolf.GameEngine",
+        "TimeLeft": 0,
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691196237)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.NoLynchOptionAvailable, Werewolf.GameEngine",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691196237)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "Winston is a Wolf.",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691201945)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "He just sits there and his turret does everything",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691208675)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "??",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691211972)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "Me?",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691213660)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "Not sure which one. ",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691214066)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "it's not a real Torb POTG if Torb is alive in it",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691214269)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "You!",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691217175)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.VillageNominationEvent, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Target": "Giovanniboyy",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691219863)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.VillageNominationEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Target": "Phyton",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691222238)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.VillageNominationEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Target": "Giovanniboyy",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691224378)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "Well",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691229614)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "Winston what do you have to say for yourself?",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691231068)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "Crap",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691232396)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "No no. You dies evuls. ",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691232568)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "We do actually have to lynch as well",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691237489)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "Or any cc?",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691238958)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "I'm the Seer... Brigitte is Village",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691238958)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "....",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691244880)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "Best CC ever.",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691252333)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Night.NightStartsSoonWarningGiven, Werewolf.GameEngine",
+        "FlavourText": "The hour of dusk approaches...",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691256333)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "I most certainly am.",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691256928)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "Haha.",
+        "Recipients": [
+            "XII"
+        ],
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691262177)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "You're just trying to get yourself lynched aren't you, Tanner?",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691265318)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "But this bad cc",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691265787)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.VillageNominationEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Target": "Phyton",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691268036)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "Could it be he tanner?",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691268428)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.VillageNominationRetractedEvent, Werewolf.GameEngine",
+        "Target": "Phyton",
+        "PlayerName": "Kirschstein",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691272505)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.VillageNominationEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Target": "Giovanniboyy",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691272505)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "Tanner?",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691274633)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "Aw no. ",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691276755)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "It's a shit cc",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691278287)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "No u",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691284072)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "No w",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691285990)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Night.NightStartedEvent, Werewolf.GameEngine",
+        "NightNumber": 2,
+        "PhaseLength": 0,
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691291615)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.PlayerLynchedEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691291615)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "Giovanniboyy",
+        "PlayerNames": [
+            "Phyton",
+            "Kirschstein",
+            "Guardian27"
+        ],
+        "ActionName": "Kill",
+        "Message": "The wolfpack have 1 kill tonight",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691291615)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidSecondaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "Giovanniboyy",
+        "PlayerNames": [
+            "Giovanniboyy"
+        ],
+        "ActionName": "Shift",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691291615)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Items.ItemAvailable, Werewolf.GameEngine",
+        "ItemIndex": 0,
+        "ItemName": "Wolf Pelt",
+        "Description": "A Wolf Pelt will protect you from one night kill, but it will make you appear as a Werewolf to the Seer",
+        "PlayerWithItem": "Phyton",
+        "PlayerNames": [],
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691291615)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "Tanner who?",
+        "Recipients": [
+            "XII",
+            "Giovanniboyy"
+        ],
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691295881)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "Don't know her",
+        "Recipients": [
+            "XII",
+            "Giovanniboyy"
+        ],
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691300099)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.After.VillageVictoryEvent, Werewolf.GameEngine",
+        "WinningPlayers": [
+            "Kirschstein",
+            "XII",
+            "Guardian27"
+        ],
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691300881)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "lol",
+        "PlayerName": "Phyton",
+        "OriginalName": "Phyton",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691305912)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "wut",
+        "PlayerName": "Guardian27",
+        "OriginalName": "Guardian27",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691309284)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "lol",
+        "PlayerName": "Giovanniboyy",
+        "OriginalName": "Giovanniboyy",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691309299)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "lol Ana",
+        "PlayerName": "Kirschstein",
+        "OriginalName": "Kirschstein",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691309409)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "WHYYYYY?",
+        "PlayerName": "Phyton",
+        "OriginalName": "Phyton",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691310315)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "LOL",
+        "PlayerName": "Guardian27",
+        "OriginalName": "Guardian27",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691311690)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "Amazing",
+        "PlayerName": "Kirschstein",
+        "OriginalName": "Kirschstein",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691316948)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "Beautiful!",
+        "PlayerName": "Guardian27",
+        "OriginalName": "Guardian27",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691320995)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "I'm too good to lies. ",
+        "PlayerName": "Phyton",
+        "OriginalName": "Phyton",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691328761)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "-_-",
+        "PlayerName": "Phyton",
+        "OriginalName": "Phyton",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691329933)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "Torb got the seer hit",
+        "PlayerName": "Kirschstein",
+        "OriginalName": "Kirschstein",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691333683)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "from beyond the grave",
+        "PlayerName": "Kirschstein",
+        "OriginalName": "Kirschstein",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691336261)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "So yea",
+        "PlayerName": "Kirschstein",
+        "OriginalName": "Kirschstein",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691337578)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "Torb dead and POTG",
+        "PlayerName": "Kirschstein",
+        "OriginalName": "Kirschstein",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691340730)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "confirmed",
+        "PlayerName": "Kirschstein",
+        "OriginalName": "Kirschstein",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691341765)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "Brigette is village, fwiw.",
+        "PlayerName": "XII",
+        "OriginalName": "XII",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691347542)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "lmao",
+        "PlayerName": "Giovanniboyy",
+        "OriginalName": "Giovanniboyy",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691355402)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "Really? Didn't notice ^^",
+        "PlayerName": "Guardian27",
+        "OriginalName": "Guardian27",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691359253)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "Amazing, absolutely amazing",
+        "PlayerName": "Kirschstein",
+        "OriginalName": "Kirschstein",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691362738)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "lmao",
+        "PlayerName": "Phyton",
+        "OriginalName": "Phyton",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691364316)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "That's what I said!",
+        "PlayerName": "Giovanniboyy",
+        "OriginalName": "Giovanniboyy",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691367619)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "Ana support of the game",
+        "PlayerName": "Guardian27",
+        "OriginalName": "Guardian27",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691379106)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "No u",
+        "PlayerName": "Phyton",
+        "OriginalName": "Phyton",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691385050)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "I can't believe I hit a Wolf.",
+        "PlayerName": "Phyton",
+        "OriginalName": "Phyton",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691394248)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "Winston (to the Dead) Thu 20:28 Tanner who? Thu 20:28 Don't know her",
+        "PlayerName": "Giovanniboyy",
+        "OriginalName": "Giovanniboyy",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691395219)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "-_-",
+        "PlayerName": "Phyton",
+        "OriginalName": "Phyton",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691397951)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "go on bew, do one more",
+        "PlayerName": "Kirschstein",
+        "OriginalName": "Kirschstein",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691406999)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "then i need to disappear",
+        "PlayerName": "Kirschstein",
+        "OriginalName": "Kirschstein",
+        "GameId": "bew-022",
+        "TimeStamp": "\/Date(1564691410421)\/"
+    }
+]
