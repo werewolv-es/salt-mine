@@ -1,1 +1,2539 @@
-[{"__type":"Werewolf.GameEngine.Creation.GameCreatedEvent, Werewolf.GameEngine","CreatedBy":"Smugvid","GameId":"smg-264","TimeStamp":"\/Date(1564937580903)\/"},{"__type":"Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine","PlayerName":"Smugvid","GameId":"smg-264","TimeStamp":"\/Date(1564937592574)\/"},{"__type":"Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine","PlayerName":"khaleesi","GameId":"smg-264","TimeStamp":"\/Date(1564937712265)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"khaleesi","Message":"Hello","GameId":"smg-264","TimeStamp":"\/Date(1564937732907)\/"},{"__type":"Werewolf.GameEngine.Creation.PlayerLeftEvent, Werewolf.GameEngine","PlayerName":"khaleesi","Reason":"Quit","GameId":"smg-264","TimeStamp":"\/Date(1564937761619)\/"},{"__type":"Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine","PlayerName":"Guardian27","GameId":"smg-264","TimeStamp":"\/Date(1564937784079)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"Hi!","GameId":"smg-264","TimeStamp":"\/Date(1564937790397)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"Am watching a movie so ping me.","GameId":"smg-264","TimeStamp":"\/Date(1564937791072)\/"},{"__type":"Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","GameId":"smg-264","TimeStamp":"\/Date(1564937852102)\/"},{"__type":"Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine","PlayerName":"Extrabius","GameId":"smg-264","TimeStamp":"\/Date(1564937925068)\/"},{"__type":"Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","GameId":"smg-264","TimeStamp":"\/Date(1564938009007)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"Hey","GameId":"smg-264","TimeStamp":"\/Date(1564938020907)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"oooh, the numbers slowly increase.","GameId":"smg-264","TimeStamp":"\/Date(1564938038305)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"can you think of a 5er?","GameId":"smg-264","TimeStamp":"\/Date(1564938372798)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"or shall we wait for more?","GameId":"smg-264","TimeStamp":"\/Date(1564938376782)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"Most of my 5ers are a bit more ONUW than Werewolf, as you know, but I'll have a look","GameId":"smg-264","TimeStamp":"\/Date(1564938499006)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"I think that's just the way it goes for smaller numbers","GameId":"smg-264","TimeStamp":"\/Date(1564938529689)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"^","GameId":"smg-264","TimeStamp":"\/Date(1564938533400)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"i'm trying to think of a few ways of making things interesting without directly copying ONUW or Shitler mechanics","GameId":"smg-264","TimeStamp":"\/Date(1564938565159)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"Alright, I've got something dumb in the works!","GameId":"smg-264","TimeStamp":"\/Date(1564938613590)\/"},{"__type":"Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine","PlayerName":"XII","GameId":"smg-264","TimeStamp":"\/Date(1564938727439)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"Ooh, that's still just about fine I think.","GameId":"smg-264","TimeStamp":"\/Date(1564938781505)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"oi up","GameId":"smg-264","TimeStamp":"\/Date(1564938787817)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"o/","GameId":"smg-264","TimeStamp":"\/Date(1564938792067)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"I'm not here. I'm only pretending to be.","GameId":"smg-264","TimeStamp":"\/Date(1564938816106)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"o/","GameId":"smg-264","TimeStamp":"\/Date(1564938828306)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Extrabius","Message":"Oh","GameId":"smg-264","TimeStamp":"\/Date(1564938851541)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Extrabius","Message":"I'm here","GameId":"smg-264","TimeStamp":"\/Date(1564938854073)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Extrabius","Message":"o/","GameId":"smg-264","TimeStamp":"\/Date(1564938884167)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"XII","Message":"1","GameId":"smg-264","TimeStamp":"\/Date(1564938890839)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"Hooray, forgive me if this sucks.","GameId":"smg-264","TimeStamp":"\/Date(1564938898953)\/"},{"__type":"Werewolf.GameEngine.Creation.GameStartedEvent, Werewolf.GameEngine","FirstDayLength":0,"NightLength":0,"DayLength":0,"DayDiscussionLength":0,"DefenceLength":0,"TrialLength":0,"LynchType":"MostVotes","PhaseTimeType":"VariableSpud","RoleAnnouncementMessageType":"Full","RoleList":["Shapeshifter","WitchHunter","Protector","InsaneSeer","Succubus","Villager"],"Host":"Smugvid","NumberOfMasonLeaders":0,"NumberOfDirewolves":0,"NumberOfWolves":0,"NumberOfShapeshifters":0,"NumberOfBloodhounds":0,"NumberOfLycans":0,"NumberOfSeers":0,"NumberOfProtectors":0,"NumberOfHuntsmen":0,"NumberOfGravediggers":0,"NumberOfGraverobbers":0,"NumberOfRevivers":0,"NumberOfHarlots":0,"NumberOfVampires":0,"NumberOfFamiliarStalkers":0,"NumberOfAlphaWolves":0,"NumberOfStalkers":0,"NumberOfMilitia":0,"NumberOfMessiahs":0,"NumberOfDjinn":0,"NumberOfSuccubi":0,"NumberOfWitches":0,"NumberOfShamans":0,"NumberOfPuppetmasters":0,"NumberOfTarotReaders":0,"NumberOfWitchHunters":0,"NumberOfBeholders":0,"NumberOfZealots":0,"NumberOfSleepWalkers":0,"NumberOfDemonlords":0,"NumberOfHellhounds":0,"GameId":"smg-264","TimeStamp":"\/Date(1564938907726)\/"},{"__type":"Werewolf.GameEngine.Creation.NoLynchEnabled, Werewolf.GameEngine","GameId":"smg-264","TimeStamp":"\/Date(1564938907742)\/"},{"__type":"Werewolf.GameEngine.Creation.GameSetToVariableLengthSpeedGameCycle, Werewolf.GameEngine","GameId":"smg-264","TimeStamp":"\/Date(1564938907742)\/"},{"__type":"Werewolf.GameEngine.Core.AnonymisedGameStartedEvent, Werewolf.GameEngine","ThemeId":"MLP","GameId":"smg-264","TimeStamp":"\/Date(1564938907773)\/"},{"__type":"Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine","OriginalName":"XII","NewName":"Derpy","NewAvatarUrl":"/content/images/avatars/MLP/Derpy.png","GameId":"smg-264","TimeStamp":"\/Date(1564938907773)\/"},{"__type":"Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine","OriginalName":"Guardian27","NewName":"Spitfire","NewAvatarUrl":"/content/images/avatars/MLP/Spitfire.png","GameId":"smg-264","TimeStamp":"\/Date(1564938907804)\/"},{"__type":"Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine","OriginalName":"Extrabius","NewName":"PrincessCelestia","NewAvatarUrl":"/content/images/avatars/MLP/PrincessCelestia.png","GameId":"smg-264","TimeStamp":"\/Date(1564938907835)\/"},{"__type":"Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine","OriginalName":"Giovanniboyy","NewName":"Discord","NewAvatarUrl":"/content/images/avatars/MLP/Discord.png","GameId":"smg-264","TimeStamp":"\/Date(1564938907867)\/"},{"__type":"Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine","OriginalName":"Smugvid","NewName":"Rarity","NewAvatarUrl":"/content/images/avatars/MLP/Rarity.png","GameId":"smg-264","TimeStamp":"\/Date(1564938907906)\/"},{"__type":"Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine","OriginalName":"Kirschstein","NewName":"Trixie","NewAvatarUrl":"/content/images/avatars/MLP/Trixie.png","GameId":"smg-264","TimeStamp":"\/Date(1564938907966)\/"},{"__type":"Werewolf.GameEngine.PlayerActivity.InactivitySmitingEnabled, Werewolf.GameEngine","GameId":"smg-264","TimeStamp":"\/Date(1564938908060)\/"},{"__type":"Werewolf.GameEngine.Roles.ProtectorAssignedEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","GameId":"smg-264","TimeStamp":"\/Date(1564938908076)\/"},{"__type":"Werewolf.GameEngine.Roles.InsaneSeerAssignedEvent, Werewolf.GameEngine","PlayerName":"Smugvid","GameId":"smg-264","TimeStamp":"\/Date(1564938908091)\/"},{"__type":"Werewolf.GameEngine.Roles.WitchHunterAssignedEvent, Werewolf.GameEngine","PlayerName":"XII","GameId":"smg-264","TimeStamp":"\/Date(1564938908107)\/"},{"__type":"Werewolf.GameEngine.Items.WolfPeltAllocated, Werewolf.GameEngine","PlayerName":"XII","ItemId":"c3f8656b42a84b43add79b144524135b","GameId":"smg-264","TimeStamp":"\/Date(1564938908122)\/"},{"__type":"Werewolf.GameEngine.Roles.SuccubusAssignedEvent, Werewolf.GameEngine","PlayerName":"Extrabius","GameId":"smg-264","TimeStamp":"\/Date(1564938908122)\/"},{"__type":"Werewolf.GameEngine.Roles.VillagerAssignedEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","GameId":"smg-264","TimeStamp":"\/Date(1564938908138)\/"},{"__type":"Werewolf.GameEngine.Roles.ShapeshifterAssignedEvent, Werewolf.GameEngine","PlayerName":"Guardian27","GameId":"smg-264","TimeStamp":"\/Date(1564938908154)\/"},{"__type":"Werewolf.GameEngine.Core.ModeratorMessageEvent, Werewolf.GameEngine","Message":"There are: 1 Protector, 1 InsaneSeer, 1 WitchHunter, 1 Succubus, 1 Villager and 1 Shapeshifter.","GameId":"smg-264","TimeStamp":"\/Date(1564938908154)\/"},{"__type":"Werewolf.GameEngine.Creation.GameSetupFinished, Werewolf.GameEngine","GameId":"smg-264","TimeStamp":"\/Date(1564938908185)\/"},{"__type":"Werewolf.GameEngine.Chatting.CovenNightMessageEvent, Werewolf.GameEngine","PlayerName":"Extrabius","Message":"I am a Succubus","Recipients":["Extrabius"],"Eavesdroppers":["Default-Eavesdropper","Default-Eavesdropper"],"GameId":"smg-264","TimeStamp":"\/Date(1564938908216)\/"},{"__type":"Werewolf.GameEngine.Chatting.WerewolfNightMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"I am a Shapeshifter","Recipients":["Guardian27"],"Eavesdroppers":["Default-Eavesdropper","Default-Eavesdropper"],"GameId":"smg-264","TimeStamp":"\/Date(1564938908247)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"Ponies!!!!!!!!!!","GameId":"smg-264","TimeStamp":"\/Date(1564938917279)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"XII","Message":"Derp.","GameId":"smg-264","TimeStamp":"\/Date(1564938920140)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Extrabius","Message":"I'm beutiful","GameId":"smg-264","TimeStamp":"\/Date(1564938920358)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"Best theme.","GameId":"smg-264","TimeStamp":"\/Date(1564938922358)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"Yay, I'm cute","GameId":"smg-264","TimeStamp":"\/Date(1564938929541)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"interesting setup","GameId":"smg-264","TimeStamp":"\/Date(1564938935525)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"I'm cool","GameId":"smg-264","TimeStamp":"\/Date(1564938936009)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"Samool won't try to kill me.","GameId":"smg-264","TimeStamp":"\/Date(1564938937400)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"...","GameId":"smg-264","TimeStamp":"\/Date(1564938938353)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"Samool not in this game owo","GameId":"smg-264","TimeStamp":"\/Date(1564938946259)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"His influence extends beyond games he's in","GameId":"smg-264","TimeStamp":"\/Date(1564938961445)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"no tanner though","GameId":"smg-264","TimeStamp":"\/Date(1564938983815)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"insane seer is WC ye?","GameId":"smg-264","TimeStamp":"\/Date(1564938995180)\/"},{"__type":"Werewolf.GameEngine.Phases.Night.NightStartsSoonWarningGiven, Werewolf.GameEngine","FlavourText":"A chill wind blows, the warmth of day is at its end...","GameId":"smg-264","TimeStamp":"\/Date(1564938995867)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"Yes","GameId":"smg-264","TimeStamp":"\/Date(1564939005686)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"Not sure how easy this is for any team","GameId":"smg-264","TimeStamp":"\/Date(1564939029781)\/"},{"__type":"Werewolf.GameEngine.Phases.Night.NightStartedEvent, Werewolf.GameEngine","NightNumber":1,"PhaseLength":0,"GameId":"smg-264","TimeStamp":"\/Date(1564939030844)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"Guardian27","PlayerNames":["Kirschstein","Smugvid","XII","Extrabius","Giovanniboyy"],"ActionName":"Kill","Message":"The wolfpack have 1 kill tonight","GameId":"smg-264","TimeStamp":"\/Date(1564939030844)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"Kirschstein","PlayerNames":["Kirschstein","Smugvid","XII","Extrabius","Giovanniboyy","Guardian27"],"ActionName":"Protect","GameId":"smg-264","TimeStamp":"\/Date(1564939030844)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"XII","PlayerNames":["Kirschstein","Smugvid","Extrabius","Giovanniboyy","Guardian27"],"ActionName":"Check","GameId":"smg-264","TimeStamp":"\/Date(1564939030844)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidSecondaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"XII","PlayerNames":[],"ActionName":"Kill","GameId":"smg-264","TimeStamp":"\/Date(1564939030844)\/"},{"__type":"Werewolf.GameEngine.Roles.Coven.Warlock.MarkedPlayersShown, Werewolf.GameEngine","PlayerWithRole":"XII","PlayerNames":[],"MarkColour":"#FF8B00","GameId":"smg-264","TimeStamp":"\/Date(1564939030844)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"Extrabius","PlayerNames":["Kirschstein","Smugvid","XII","Giovanniboyy","Guardian27"],"ActionName":"Control","GameId":"smg-264","TimeStamp":"\/Date(1564939030844)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidSecondaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"Guardian27","PlayerNames":["Guardian27"],"ActionName":"Shift","GameId":"smg-264","TimeStamp":"\/Date(1564939030844)\/"},{"__type":"Werewolf.GameEngine.Items.ItemAvailable, Werewolf.GameEngine","ItemIndex":0,"ItemName":"Wolf Pelt","Description":"A Wolf Pelt will protect you from one night kill, but it will make you appear as a Werewolf to the Seer","PlayerWithItem":"XII","PlayerNames":[],"GameId":"smg-264","TimeStamp":"\/Date(1564939030844)\/"},{"__type":"Werewolf.GameEngine.Chatting.WerewolfNightMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"Only para and naive not.","Recipients":["Guardian27"],"Eavesdroppers":["Default-Eavesdropper"],"GameId":"smg-264","TimeStamp":"\/Date(1564939031219)\/"},{"__type":"Werewolf.GameEngine.Roles.NightTargetChosenEvent, Werewolf.GameEngine","Confirmation":"Tonight you will protect $Giovanniboyy from harm","PlayerWithRole":"Kirschstein","Role":"Protector","Target":"Giovanniboyy","GameId":"smg-264","TimeStamp":"\/Date(1564939034125)\/"},{"__type":"Werewolf.GameEngine.Roles.NightTargetChosenEvent, Werewolf.GameEngine","Confirmation":"Tonight you will check if $Smugvid uses witchcraft or not","PlayerWithRole":"XII","Role":"Witch Hunter","Target":"Smugvid","GameId":"smg-264","TimeStamp":"\/Date(1564939035954)\/"},{"__type":"Werewolf.GameEngine.Phases.Night.WerewolfVoteEvent, Werewolf.GameEngine","Werewolf":"Guardian27","Target":"Giovanniboyy","Recipients":["Guardian27"],"MaxKillCount":1,"ThisKill":1,"GameId":"smg-264","TimeStamp":"\/Date(1564939042203)\/"},{"__type":"Werewolf.GameEngine.Roles.NightTargetChosenEvent, Werewolf.GameEngine","Confirmation":"Tonight you will check $Giovanniboyy","PlayerWithRole":"Smugvid","Role":"Seer","Target":"Giovanniboyy","GameId":"smg-264","TimeStamp":"\/Date(1564939046490)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.DayStartsSoonWarningGiven, Werewolf.GameEngine","FlavourText":"A new day beckons...","GameId":"smg-264","TimeStamp":"\/Date(1564939055966)\/"},{"__type":"Werewolf.GameEngine.Roles.Coven.Succubus.PrimarySuccubusTargetChosen, Werewolf.GameEngine","PlayerWithRole":"Extrabius","Target":"Guardian27","Recipients":["Extrabius"],"Confirmation":"Tonight you will control $Guardian27 - pick another player for them to target","GameId":"smg-264","TimeStamp":"\/Date(1564939056185)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"Extrabius","PlayerNames":["Kirschstein","Smugvid","XII","Extrabius","Giovanniboyy","Guardian27"],"ActionName":"Target","GameId":"smg-264","TimeStamp":"\/Date(1564939056185)\/"},{"__type":"Werewolf.GameEngine.Roles.Coven.Succubus.SecondarySuccubusTargetChosen, Werewolf.GameEngine","PlayerWithRole":"Extrabius","Target":"Kirschstein","Recipients":["Extrabius"],"Confirmation":"$Tonight you will control $Guardian27 and force them to target $Kirschstein","AlliesConfirmation":"$Extrabius will control $Guardian27 and force them to target $Kirschstein","Allies":[],"GameId":"smg-264","TimeStamp":"\/Date(1564939057779)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"Extrabius","PlayerNames":["Kirschstein","Smugvid","XII","Giovanniboyy","Guardian27"],"ActionName":"Control","GameId":"smg-264","TimeStamp":"\/Date(1564939057779)\/"},{"__type":"Werewolf.GameEngine.Roles.Village.Protector.ProtectorProtected, Werewolf.GameEngine","ProtectorName":"Kirschstein","Target":"Giovanniboyy","GameId":"smg-264","TimeStamp":"\/Date(1564939090816)\/"},{"__type":"Werewolf.GameEngine.Roles.Village.WitchHunter.MagicUserRevealedToWitchHunter, Werewolf.GameEngine","PlayerWithRole":"XII","Target":"Smugvid","GameId":"smg-264","TimeStamp":"\/Date(1564939090816)\/"},{"__type":"Werewolf.GameEngine.Roles.Village.Seer.RoleRevealedToSeerEvent, Werewolf.GameEngine","SeerName":"Smugvid","Target":"Giovanniboyy","Role":"member of the wolfpack","GameId":"smg-264","TimeStamp":"\/Date(1564939090816)\/"},{"__type":"Werewolf.GameEngine.Phases.Night.PlayerKilledEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","CauseOfDeath":"Werewolf","GameId":"smg-264","TimeStamp":"\/Date(1564939090816)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.DayStartedEvent, Werewolf.GameEngine","DayNumber":2,"PhaseLength":0,"DiscussionLength":0,"GameId":"smg-264","TimeStamp":"\/Date(1564939090816)\/"},{"__type":"Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"Backfire horribly.","Recipients":["Kirschstein"],"GameId":"smg-264","TimeStamp":"\/Date(1564939096988)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"Nuuu","GameId":"smg-264","TimeStamp":"\/Date(1564939097223)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"RIP Trixie","GameId":"smg-264","TimeStamp":"\/Date(1564939099785)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"Someone killed Trixie","GameId":"smg-264","TimeStamp":"\/Date(1564939101535)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Extrabius","Message":"Hm","GameId":"smg-264","TimeStamp":"\/Date(1564939101712)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"Rest in peace, my friend","GameId":"smg-264","TimeStamp":"\/Date(1564939104895)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"no shit","GameId":"smg-264","TimeStamp":"\/Date(1564939109286)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Extrabius","Message":"Tracks?","GameId":"smg-264","TimeStamp":"\/Date(1564939110895)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"I have good news!","GameId":"smg-264","TimeStamp":"\/Date(1564939113473)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.VillageNominationsOpenedEvent, Werewolf.GameEngine","TimeLeft":0,"GameId":"smg-264","TimeStamp":"\/Date(1564939115915)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.NoLynchOptionAvailable, Werewolf.GameEngine","GameId":"smg-264","TimeStamp":"\/Date(1564939115915)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"Oh?","GameId":"smg-264","TimeStamp":"\/Date(1564939118614)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"XII","Message":"Derp derp.","GameId":"smg-264","TimeStamp":"\/Date(1564939119146)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"What did you find?","GameId":"smg-264","TimeStamp":"\/Date(1564939122411)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"Discord is Village.","GameId":"smg-264","TimeStamp":"\/Date(1564939127416)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"As in. village village or insane village.","GameId":"smg-264","TimeStamp":"\/Date(1564939139534)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"Village Village","GameId":"smg-264","TimeStamp":"\/Date(1564939146674)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"right?","GameId":"smg-264","TimeStamp":"\/Date(1564939148018)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"Real Village! A friend to me and maybe you.","GameId":"smg-264","TimeStamp":"\/Date(1564939151253)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"I should be","GameId":"smg-264","TimeStamp":"\/Date(1564939152190)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"Yeah","GameId":"smg-264","TimeStamp":"\/Date(1564939153706)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"YAY :D","GameId":"smg-264","TimeStamp":"\/Date(1564939157377)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"Which means I can be a Prot or Villager, fight me","GameId":"smg-264","TimeStamp":"\/Date(1564939177946)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"Indeed. And I'm obviously claiming Seer","GameId":"smg-264","TimeStamp":"\/Date(1564939197767)\/"},{"__type":"Werewolf.GameEngine.Phases.VoteForNoLynchCast, Werewolf.GameEngine","PlayerName":"Smugvid","GameId":"smg-264","TimeStamp":"\/Date(1564939228547)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"I think?","GameId":"smg-264","TimeStamp":"\/Date(1564939232360)\/"},{"__type":"Werewolf.GameEngine.Phases.VoteForNoLynchCast, Werewolf.GameEngine","PlayerName":"Extrabius","GameId":"smg-264","TimeStamp":"\/Date(1564939233095)\/"},{"__type":"Werewolf.GameEngine.Phases.VoteForNoLynchCast, Werewolf.GameEngine","PlayerName":"Guardian27","GameId":"smg-264","TimeStamp":"\/Date(1564939235189)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"So @WH don't waste your time on me ofc","GameId":"smg-264","TimeStamp":"\/Date(1564939241142)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"XII","Message":"Hmm.","GameId":"smg-264","TimeStamp":"\/Date(1564939241267)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"You sure you claiming Seer?","GameId":"smg-264","TimeStamp":"\/Date(1564939243048)\/"},{"__type":"Werewolf.GameEngine.Phases.VoteForNoLynchCast, Werewolf.GameEngine","PlayerName":"Giovanniboyy","GameId":"smg-264","TimeStamp":"\/Date(1564939244673)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"Yep","GameId":"smg-264","TimeStamp":"\/Date(1564939248221)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"Well, duh","GameId":"smg-264","TimeStamp":"\/Date(1564939251472)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"Didn't notice :p","GameId":"smg-264","TimeStamp":"\/Date(1564939252612)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"lol","GameId":"smg-264","TimeStamp":"\/Date(1564939257743)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"I could theoretically have been WH and found the Villager, I guess","GameId":"smg-264","TimeStamp":"\/Date(1564939268690)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"Also true","GameId":"smg-264","TimeStamp":"\/Date(1564939278452)\/"},{"__type":"Werewolf.GameEngine.Phases.VoteForNoLynchCast, Werewolf.GameEngine","PlayerName":"XII","GameId":"smg-264","TimeStamp":"\/Date(1564939288875)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"I think you would then say something like that he isn't a witchcrapper.","GameId":"smg-264","TimeStamp":"\/Date(1564939289217)\/"},{"__type":"Werewolf.GameEngine.Phases.Night.NightStartsSoonWarningGiven, Werewolf.GameEngine","FlavourText":"The day draws to a close...","GameId":"smg-264","TimeStamp":"\/Date(1564939295811)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"Maybe.","GameId":"smg-264","TimeStamp":"\/Date(1564939298298)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"LET'S SEE WHAT HAPPENS","GameId":"smg-264","TimeStamp":"\/Date(1564939304424)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"!1!!!131","GameId":"smg-264","TimeStamp":"\/Date(1564939309098)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"UWU","GameId":"smg-264","TimeStamp":"\/Date(1564939309956)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"U double U U","GameId":"smg-264","TimeStamp":"\/Date(1564939314503)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"no U","GameId":"smg-264","TimeStamp":"\/Date(1564939319846)\/"},{"__type":"Werewolf.GameEngine.Phases.Night.NightStartedEvent, Werewolf.GameEngine","NightNumber":2,"PhaseLength":0,"GameId":"smg-264","TimeStamp":"\/Date(1564939330841)\/"},{"__type":"Werewolf.GameEngine.Phases.NoPlayerLynched, Werewolf.GameEngine","GameId":"smg-264","TimeStamp":"\/Date(1564939330841)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"Guardian27","PlayerNames":["Smugvid","XII","Extrabius","Giovanniboyy"],"ActionName":"Kill","Message":"The wolfpack have 1 kill tonight","GameId":"smg-264","TimeStamp":"\/Date(1564939330841)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"Kirschstein","PlayerNames":["Smugvid","XII","Extrabius","Guardian27"],"ActionName":"Protect","GameId":"smg-264","TimeStamp":"\/Date(1564939330841)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"XII","PlayerNames":["Smugvid","Extrabius","Giovanniboyy","Guardian27"],"ActionName":"Check","GameId":"smg-264","TimeStamp":"\/Date(1564939330841)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidSecondaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"XII","PlayerNames":["Smugvid"],"ActionName":"Kill","GameId":"smg-264","TimeStamp":"\/Date(1564939330841)\/"},{"__type":"Werewolf.GameEngine.Roles.Coven.Warlock.MarkedPlayersShown, Werewolf.GameEngine","PlayerWithRole":"XII","PlayerNames":["Smugvid"],"MarkColour":"#FF8B00","GameId":"smg-264","TimeStamp":"\/Date(1564939330841)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"Extrabius","PlayerNames":["Smugvid","XII","Giovanniboyy","Guardian27"],"ActionName":"Control","GameId":"smg-264","TimeStamp":"\/Date(1564939330841)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidSecondaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"Guardian27","PlayerNames":["Guardian27"],"ActionName":"Shift","GameId":"smg-264","TimeStamp":"\/Date(1564939330841)\/"},{"__type":"Werewolf.GameEngine.Items.ItemAvailable, Werewolf.GameEngine","ItemIndex":0,"ItemName":"Wolf Pelt","Description":"A Wolf Pelt will protect you from one night kill, but it will make you appear as a Werewolf to the Seer","PlayerWithItem":"XII","PlayerNames":[],"GameId":"smg-264","TimeStamp":"\/Date(1564939330841)\/"},{"__type":"Werewolf.GameEngine.Roles.Coven.Succubus.PrimarySuccubusTargetChosen, Werewolf.GameEngine","PlayerWithRole":"Extrabius","Target":"Guardian27","Recipients":["Extrabius"],"Confirmation":"Tonight you will control $Guardian27 - pick another player for them to target","GameId":"smg-264","TimeStamp":"\/Date(1564939334903)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"Extrabius","PlayerNames":["Kirschstein","Smugvid","XII","Extrabius","Giovanniboyy","Guardian27"],"ActionName":"Target","GameId":"smg-264","TimeStamp":"\/Date(1564939334903)\/"},{"__type":"Werewolf.GameEngine.Phases.Night.WerewolfVoteEvent, Werewolf.GameEngine","Werewolf":"Guardian27","Target":"XII","Recipients":["Guardian27"],"MaxKillCount":1,"ThisKill":1,"GameId":"smg-264","TimeStamp":"\/Date(1564939337716)\/"},{"__type":"Werewolf.GameEngine.Roles.NightTargetChosenEvent, Werewolf.GameEngine","Confirmation":"Tonight you will check if $Guardian27 uses witchcraft or not","PlayerWithRole":"XII","Role":"Witch Hunter","Target":"Guardian27","GameId":"smg-264","TimeStamp":"\/Date(1564939337778)\/"},{"__type":"Werewolf.GameEngine.Roles.NightTargetChosenEvent, Werewolf.GameEngine","Confirmation":"Tonight you will check $XII","PlayerWithRole":"Smugvid","Role":"Seer","Target":"XII","GameId":"smg-264","TimeStamp":"\/Date(1564939338028)\/"},{"__type":"Werewolf.GameEngine.Roles.NightTargetChosenEvent, Werewolf.GameEngine","Confirmation":"Tonight you will check if $Extrabius uses witchcraft or not","PlayerWithRole":"XII","Role":"Witch Hunter","Target":"Extrabius","GameId":"smg-264","TimeStamp":"\/Date(1564939344858)\/"},{"__type":"Werewolf.GameEngine.Roles.NightTargetChosenEvent, Werewolf.GameEngine","Confirmation":"Tonight you will check if $Guardian27 uses witchcraft or not","PlayerWithRole":"XII","Role":"Witch Hunter","Target":"Guardian27","GameId":"smg-264","TimeStamp":"\/Date(1564939347078)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.DayStartsSoonWarningGiven, Werewolf.GameEngine","FlavourText":"The safety of daylight approaches...","GameId":"smg-264","TimeStamp":"\/Date(1564939355983)\/"},{"__type":"Werewolf.GameEngine.Roles.Coven.Succubus.SecondarySuccubusTargetChosen, Werewolf.GameEngine","PlayerWithRole":"Extrabius","Target":"XII","Recipients":["Extrabius"],"Confirmation":"$Tonight you will control $Guardian27 and force them to target $XII","AlliesConfirmation":"$Extrabius will control $Guardian27 and force them to target $XII","Allies":[],"GameId":"smg-264","TimeStamp":"\/Date(1564939363874)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"Extrabius","PlayerNames":["Kirschstein","Smugvid","XII","Giovanniboyy","Guardian27"],"ActionName":"Control","GameId":"smg-264","TimeStamp":"\/Date(1564939363874)\/"},{"__type":"Werewolf.GameEngine.Roles.Coven.Succubus.PrimarySuccubusTargetChosen, Werewolf.GameEngine","PlayerWithRole":"Extrabius","Target":"Guardian27","Recipients":["Extrabius"],"Confirmation":"Tonight you will control $Guardian27 - pick another player for them to target","GameId":"smg-264","TimeStamp":"\/Date(1564939373953)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"Extrabius","PlayerNames":["Kirschstein","Smugvid","XII","Extrabius","Giovanniboyy","Guardian27"],"ActionName":"Target","GameId":"smg-264","TimeStamp":"\/Date(1564939373953)\/"},{"__type":"Werewolf.GameEngine.Roles.Coven.Succubus.SecondarySuccubusTargetChosen, Werewolf.GameEngine","PlayerWithRole":"Extrabius","Target":"Giovanniboyy","Recipients":["Extrabius"],"Confirmation":"$Tonight you will control $Guardian27 and force them to target $Giovanniboyy","AlliesConfirmation":"$Extrabius will control $Guardian27 and force them to target $Giovanniboyy","Allies":[],"GameId":"smg-264","TimeStamp":"\/Date(1564939377687)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"Extrabius","PlayerNames":["Kirschstein","Smugvid","XII","Giovanniboyy","Guardian27"],"ActionName":"Control","GameId":"smg-264","TimeStamp":"\/Date(1564939377687)\/"},{"__type":"Werewolf.GameEngine.Roles.Coven.Succubus.PrimarySuccubusTargetChosen, Werewolf.GameEngine","PlayerWithRole":"Extrabius","Target":"Guardian27","Recipients":["Extrabius"],"Confirmation":"Tonight you will control $Guardian27 - pick another player for them to target","GameId":"smg-264","TimeStamp":"\/Date(1564939381281)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"Extrabius","PlayerNames":["Kirschstein","Smugvid","XII","Extrabius","Giovanniboyy","Guardian27"],"ActionName":"Target","GameId":"smg-264","TimeStamp":"\/Date(1564939381281)\/"},{"__type":"Werewolf.GameEngine.Roles.Coven.Succubus.SecondarySuccubusTargetChosen, Werewolf.GameEngine","PlayerWithRole":"Extrabius","Target":"XII","Recipients":["Extrabius"],"Confirmation":"$Tonight you will control $Guardian27 and force them to target $XII","AlliesConfirmation":"$Extrabius will control $Guardian27 and force them to target $XII","Allies":[],"GameId":"smg-264","TimeStamp":"\/Date(1564939381801)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"Extrabius","PlayerNames":["Kirschstein","Smugvid","XII","Giovanniboyy","Guardian27"],"ActionName":"Control","GameId":"smg-264","TimeStamp":"\/Date(1564939381801)\/"},{"__type":"Werewolf.GameEngine.Roles.Village.WitchHunter.MagicUserRevealedToWitchHunter, Werewolf.GameEngine","PlayerWithRole":"XII","Target":"Guardian27","GameId":"smg-264","TimeStamp":"\/Date(1564939390812)\/"},{"__type":"Werewolf.GameEngine.Roles.Village.Seer.RoleRevealedToSeerEvent, Werewolf.GameEngine","SeerName":"Smugvid","Target":"XII","Role":"member of the village","GameId":"smg-264","TimeStamp":"\/Date(1564939390812)\/"},{"__type":"Werewolf.GameEngine.Items.ItemDestroyed, Werewolf.GameEngine","ItemId":"c3f8656b42a84b43add79b144524135b","PlayerName":"XII","Message":"Your Wolf Pelt was destroyed by an attack last night $$","GameId":"smg-264","TimeStamp":"\/Date(1564939390812)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.DayStartedEvent, Werewolf.GameEngine","DayNumber":3,"PhaseLength":0,"DiscussionLength":0,"GameId":"smg-264","TimeStamp":"\/Date(1564939390812)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"XII","Message":"RIP my wolf pelt.","GameId":"smg-264","TimeStamp":"\/Date(1564939399813)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"I see","GameId":"smg-264","TimeStamp":"\/Date(1564939400002)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"oof","GameId":"smg-264","TimeStamp":"\/Date(1564939402642)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Extrabius","Message":"No deaths?","GameId":"smg-264","TimeStamp":"\/Date(1564939403391)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"Ooh","GameId":"smg-264","TimeStamp":"\/Date(1564939406329)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"XII","Message":"Spitfire uses witchcraft.","GameId":"smg-264","TimeStamp":"\/Date(1564939407719)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"Cool, other check?","GameId":"smg-264","TimeStamp":"\/Date(1564939414732)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"I'm indeed a witchcrapper.","GameId":"smg-264","TimeStamp":"\/Date(1564939415185)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.VillageNominationsOpenedEvent, Werewolf.GameEngine","TimeLeft":0,"GameId":"smg-264","TimeStamp":"\/Date(1564939415888)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.NoLynchOptionAvailable, Werewolf.GameEngine","GameId":"smg-264","TimeStamp":"\/Date(1564939415888)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.VillageNominationEvent, Werewolf.GameEngine","PlayerName":"XII","Target":"Guardian27","GameId":"smg-264","TimeStamp":"\/Date(1564939419404)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"I checked Derpy as Insane Village.","GameId":"smg-264","TimeStamp":"\/Date(1564939425749)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"XII","Message":"Eh, well.","GameId":"smg-264","TimeStamp":"\/Date(1564939442062)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"@Derpy, what is your other check?","GameId":"smg-264","TimeStamp":"\/Date(1564939444281)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"So Spit is claiming Prot, presumably?","GameId":"smg-264","TimeStamp":"\/Date(1564939455609)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"XII","Message":"I guess at this point it's probably not a good idea to withhold it.","GameId":"smg-264","TimeStamp":"\/Date(1564939457875)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"XII","Message":"But I checked Rarity N1.","GameId":"smg-264","TimeStamp":"\/Date(1564939463125)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"Discord, how does that chime with you?","GameId":"smg-264","TimeStamp":"\/Date(1564939463547)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"Ah okay","GameId":"smg-264","TimeStamp":"\/Date(1564939470844)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"It does","GameId":"smg-264","TimeStamp":"\/Date(1564939477062)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Extrabius","Message":"What's Insaneseer?","GameId":"smg-264","TimeStamp":"\/Date(1564939479456)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.VillageNominationEvent, Werewolf.GameEngine","PlayerName":"Smugvid","Target":"Extrabius","GameId":"smg-264","TimeStamp":"\/Date(1564939481828)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"I'm Vanilla","GameId":"smg-264","TimeStamp":"\/Date(1564939482832)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.VillageNominationEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Target":"Extrabius","GameId":"smg-264","TimeStamp":"\/Date(1564939488672)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.VillageNominationRetractedEvent, Werewolf.GameEngine","Target":"Guardian27","PlayerName":"XII","GameId":"smg-264","TimeStamp":"\/Date(1564939492986)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.VillageNominationEvent, Werewolf.GameEngine","PlayerName":"XII","Target":"Extrabius","GameId":"smg-264","TimeStamp":"\/Date(1564939492986)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"XII","Message":"Spit could be SS, mind.","GameId":"smg-264","TimeStamp":"\/Date(1564939500314)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.VillageNominationEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Target":"Extrabius","GameId":"smg-264","TimeStamp":"\/Date(1564939500533)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"Get's reverse views, Village for Evils and Wolfpack for not Evil.","GameId":"smg-264","TimeStamp":"\/Date(1564939501674)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Extrabius","Message":"Oh","GameId":"smg-264","TimeStamp":"\/Date(1564939509705)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"Is prot cc'd?","GameId":"smg-264","TimeStamp":"\/Date(1564939512189)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Extrabius","Message":"Well, that's cool","GameId":"smg-264","TimeStamp":"\/Date(1564939517002)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"XII","Message":"No.","GameId":"smg-264","TimeStamp":"\/Date(1564939519908)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"Because it's unlikely :p","GameId":"smg-264","TimeStamp":"\/Date(1564939522080)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"Spit could be, absolutely, but would mean Trixie was Prot who didn't cover themself N1","GameId":"smg-264","TimeStamp":"\/Date(1564939528268)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"@Derpy, I would suggest not visiting anybody, in case of Succubus","GameId":"smg-264","TimeStamp":"\/Date(1564939530737)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"XII","Message":"Yeah","GameId":"smg-264","TimeStamp":"\/Date(1564939536873)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"So I think it looks like Trix as Succ, Celestia as Wolf.","GameId":"smg-264","TimeStamp":"\/Date(1564939553879)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"Derpy could be Evil too, mind, but the Wolf Pelt claim is strong.","GameId":"smg-264","TimeStamp":"\/Date(1564939574123)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"@Rarity, check Derpy again","GameId":"smg-264","TimeStamp":"\/Date(1564939582002)\/"},{"__type":"Werewolf.GameEngine.Phases.Night.NightStartsSoonWarningGiven, Werewolf.GameEngine","FlavourText":"There is not much light left...","GameId":"smg-264","TimeStamp":"\/Date(1564939595826)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"Yeah","GameId":"smg-264","TimeStamp":"\/Date(1564939606638)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"If the game continues, for sure","GameId":"smg-264","TimeStamp":"\/Date(1564939615654)\/"},{"__type":"Werewolf.GameEngine.Phases.Night.NightStartedEvent, Werewolf.GameEngine","NightNumber":3,"PhaseLength":0,"GameId":"smg-264","TimeStamp":"\/Date(1564939630826)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.PlayerLynchedEvent, Werewolf.GameEngine","PlayerName":"Extrabius","GameId":"smg-264","TimeStamp":"\/Date(1564939630826)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"Guardian27","PlayerNames":["Smugvid","XII","Giovanniboyy"],"ActionName":"Kill","Message":"The wolfpack have 1 kill tonight","GameId":"smg-264","TimeStamp":"\/Date(1564939630826)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"Kirschstein","PlayerNames":["Smugvid","XII","Guardian27"],"ActionName":"Protect","GameId":"smg-264","TimeStamp":"\/Date(1564939630826)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"XII","PlayerNames":["Smugvid","Giovanniboyy","Guardian27"],"ActionName":"Check","GameId":"smg-264","TimeStamp":"\/Date(1564939630826)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidSecondaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"XII","PlayerNames":["Smugvid","Guardian27"],"ActionName":"Kill","GameId":"smg-264","TimeStamp":"\/Date(1564939630826)\/"},{"__type":"Werewolf.GameEngine.Roles.Coven.Warlock.MarkedPlayersShown, Werewolf.GameEngine","PlayerWithRole":"XII","PlayerNames":["Smugvid","Guardian27"],"MarkColour":"#FF8B00","GameId":"smg-264","TimeStamp":"\/Date(1564939630826)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"Extrabius","PlayerNames":["Smugvid","XII","Giovanniboyy","Guardian27"],"ActionName":"Control","GameId":"smg-264","TimeStamp":"\/Date(1564939630826)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidSecondaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"Guardian27","PlayerNames":["Guardian27"],"ActionName":"Shift","GameId":"smg-264","TimeStamp":"\/Date(1564939630826)\/"},{"__type":"Werewolf.GameEngine.Phases.Night.WerewolfVoteEvent, Werewolf.GameEngine","Werewolf":"Guardian27","Target":"Smugvid","Recipients":["Guardian27"],"MaxKillCount":1,"ThisKill":1,"GameId":"smg-264","TimeStamp":"\/Date(1564939635749)\/"},{"__type":"Werewolf.GameEngine.Chatting.WerewolfNightMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"That was the succ.","Recipients":["Guardian27"],"Eavesdroppers":["Default-Eavesdropper"],"GameId":"smg-264","TimeStamp":"\/Date(1564939639499)\/"},{"__type":"Werewolf.GameEngine.Roles.NightTargetChosenEvent, Werewolf.GameEngine","Confirmation":"Tonight you will check $XII","PlayerWithRole":"Smugvid","Role":"Seer","Target":"XII","GameId":"smg-264","TimeStamp":"\/Date(1564939645874)\/"},{"__type":"Werewolf.GameEngine.Chatting.WerewolfNightMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"Which succs.","Recipients":["Guardian27"],"Eavesdroppers":["Default-Eavesdropper"],"GameId":"smg-264","TimeStamp":"\/Date(1564939646280)\/"},{"__type":"Werewolf.GameEngine.Chatting.WerewolfNightMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"*runs*","Recipients":["Guardian27"],"Eavesdroppers":["Default-Eavesdropper"],"GameId":"smg-264","TimeStamp":"\/Date(1564939648847)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.DayStartsSoonWarningGiven, Werewolf.GameEngine","FlavourText":"The land brightens...","GameId":"smg-264","TimeStamp":"\/Date(1564939655883)\/"},{"__type":"Werewolf.GameEngine.Roles.NightTargetChosenEvent, Werewolf.GameEngine","Confirmation":"Tonight you will check $Giovanniboyy","PlayerWithRole":"Smugvid","Role":"Seer","Target":"Giovanniboyy","GameId":"smg-264","TimeStamp":"\/Date(1564939681398)\/"},{"__type":"Werewolf.GameEngine.Roles.NightTargetChosenEvent, Werewolf.GameEngine","Confirmation":"Tonight you will check $XII","PlayerWithRole":"Smugvid","Role":"Seer","Target":"XII","GameId":"smg-264","TimeStamp":"\/Date(1564939689258)\/"},{"__type":"Werewolf.GameEngine.Roles.Village.Seer.RoleRevealedToSeerEvent, Werewolf.GameEngine","SeerName":"Smugvid","Target":"XII","Role":"member of the wolfpack","GameId":"smg-264","TimeStamp":"\/Date(1564939690867)\/"},{"__type":"Werewolf.GameEngine.Phases.Night.PlayerKilledEvent, Werewolf.GameEngine","PlayerName":"Smugvid","CauseOfDeath":"Werewolf","GameId":"smg-264","TimeStamp":"\/Date(1564939690867)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.DayStartedEvent, Werewolf.GameEngine","DayNumber":4,"PhaseLength":0,"DiscussionLength":0,"GameId":"smg-264","TimeStamp":"\/Date(1564939690867)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"XII","Message":"Well, I didn't move.","GameId":"smg-264","TimeStamp":"\/Date(1564939700586)\/"},{"__type":"Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"Must be Spit","Recipients":["Kirschstein","Extrabius","Smugvid"],"GameId":"smg-264","TimeStamp":"\/Date(1564939705273)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"Interesting","GameId":"smg-264","TimeStamp":"\/Date(1564939706976)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"Fk. I covered the wrong one.","GameId":"smg-264","TimeStamp":"\/Date(1564939707242)\/"},{"__type":"Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine","PlayerName":"Extrabius","Message":"Well","Recipients":["Kirschstein","Extrabius","Smugvid"],"GameId":"smg-264","TimeStamp":"\/Date(1564939710305)\/"},{"__type":"Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"But didn't shift. Interesting","Recipients":["Kirschstein","Extrabius","Smugvid"],"GameId":"smg-264","TimeStamp":"\/Date(1564939712950)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.VillageNominationsOpenedEvent, Werewolf.GameEngine","TimeLeft":0,"GameId":"smg-264","TimeStamp":"\/Date(1564939715808)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.NoLynchOptionAvailable, Werewolf.GameEngine","GameId":"smg-264","TimeStamp":"\/Date(1564939715808)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.VillageNominationEvent, Werewolf.GameEngine","PlayerName":"XII","Target":"Guardian27","GameId":"smg-264","TimeStamp":"\/Date(1564939719766)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.VillageNominationEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Target":"Giovanniboyy","GameId":"smg-264","TimeStamp":"\/Date(1564939723188)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"So Spitfire, you were on Derpy?","GameId":"smg-264","TimeStamp":"\/Date(1564939723360)\/"},{"__type":"Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"What were you, Celestia? Succ?","Recipients":["Kirschstein","Extrabius","Smugvid"],"GameId":"smg-264","TimeStamp":"\/Date(1564939727500)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"Yes.","GameId":"smg-264","TimeStamp":"\/Date(1564939728563)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"And why are you voting me?","GameId":"smg-264","TimeStamp":"\/Date(1564939733320)\/"},{"__type":"Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine","PlayerName":"Extrabius","Message":"I send Spit target Trixie first night","Recipients":["Kirschstein","Extrabius","Smugvid"],"GameId":"smg-264","TimeStamp":"\/Date(1564939738493)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.VillageNominationEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Target":"Guardian27","GameId":"smg-264","TimeStamp":"\/Date(1564939745243)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"I think the vanilla claim is a bit weak.","GameId":"smg-264","TimeStamp":"\/Date(1564939755149)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"You know I was confirmed by the Seer right?","GameId":"smg-264","TimeStamp":"\/Date(1564939765095)\/"},{"__type":"Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"Weird, Trixie must be Prot then.","Recipients":["Kirschstein","Extrabius","Smugvid"],"GameId":"smg-264","TimeStamp":"\/Date(1564939779785)\/"},{"__type":"Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"You here, Trix?","Recipients":["Kirschstein","Extrabius","Smugvid"],"GameId":"smg-264","TimeStamp":"\/Date(1564939783048)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"Not the first time I've seen seer bluff straight D2.","GameId":"smg-264","TimeStamp":"\/Date(1564939785845)\/"},{"__type":"Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine","PlayerName":"Extrabius","Message":"I think (s)he's disconeccted","Recipients":["Kirschstein","Extrabius","Smugvid"],"GameId":"smg-264","TimeStamp":"\/Date(1564939806292)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"So you think they were a SS?","GameId":"smg-264","TimeStamp":"\/Date(1564939812592)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"Yes I do.","GameId":"smg-264","TimeStamp":"\/Date(1564939821876)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"And they shifted into me you think?","GameId":"smg-264","TimeStamp":"\/Date(1564939833849)\/"},{"__type":"Werewolf.GameEngine.Phases.Night.NightStartsSoonWarningGiven, Werewolf.GameEngine","FlavourText":"Creatures of the night begin to stir...","GameId":"smg-264","TimeStamp":"\/Date(1564939836161)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"Or Derpy since they are too quiet now.","GameId":"smg-264","TimeStamp":"\/Date(1564939847427)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"Very interesting theory","GameId":"smg-264","TimeStamp":"\/Date(1564939848911)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"XII","Message":"Sorry, I'm just reading your arguments.","GameId":"smg-264","TimeStamp":"\/Date(1564939865710)\/"},{"__type":"Werewolf.GameEngine.Phases.Night.NightStartedEvent, Werewolf.GameEngine","NightNumber":4,"PhaseLength":0,"GameId":"smg-264","TimeStamp":"\/Date(1564939870835)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.PlayerLynchedEvent, Werewolf.GameEngine","PlayerName":"Guardian27","GameId":"smg-264","TimeStamp":"\/Date(1564939870835)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"Guardian27","PlayerNames":["XII","Giovanniboyy"],"ActionName":"Kill","Message":"The wolfpack have 1 kill tonight","GameId":"smg-264","TimeStamp":"\/Date(1564939870835)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"Kirschstein","PlayerNames":["XII"],"ActionName":"Protect","GameId":"smg-264","TimeStamp":"\/Date(1564939870835)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"XII","PlayerNames":["Giovanniboyy"],"ActionName":"Check","GameId":"smg-264","TimeStamp":"\/Date(1564939870835)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidSecondaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"XII","PlayerNames":["Smugvid","Guardian27"],"ActionName":"Kill","GameId":"smg-264","TimeStamp":"\/Date(1564939870835)\/"},{"__type":"Werewolf.GameEngine.Roles.Coven.Warlock.MarkedPlayersShown, Werewolf.GameEngine","PlayerWithRole":"XII","PlayerNames":["Smugvid","Guardian27"],"MarkColour":"#FF8B00","GameId":"smg-264","TimeStamp":"\/Date(1564939870835)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"Extrabius","PlayerNames":["XII","Giovanniboyy"],"ActionName":"Control","GameId":"smg-264","TimeStamp":"\/Date(1564939870835)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidSecondaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"Guardian27","PlayerNames":["Guardian27"],"ActionName":"Shift","GameId":"smg-264","TimeStamp":"\/Date(1564939870835)\/"},{"__type":"Werewolf.GameEngine.Roles.NightTargetChosenEvent, Werewolf.GameEngine","Confirmation":"Tonight you will check if $Giovanniboyy uses witchcraft or not","PlayerWithRole":"XII","Role":"Witch Hunter","Target":"Giovanniboyy","GameId":"smg-264","TimeStamp":"\/Date(1564939875419)\/"},{"__type":"Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine","PlayerName":"Smugvid","Message":"Unlucky","Recipients":["Kirschstein","Extrabius","Smugvid","Guardian27"],"GameId":"smg-264","TimeStamp":"\/Date(1564939889451)\/"},{"__type":"Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine","PlayerName":"Extrabius","Message":"Well","Recipients":["Kirschstein","Extrabius","Smugvid","Guardian27"],"GameId":"smg-264","TimeStamp":"\/Date(1564939889576)\/"},{"__type":"Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine","PlayerName":"Guardian27","Message":"I don't undrestand.","Recipients":["Kirschstein","Extrabius","Smugvid","Guardian27"],"GameId":"smg-264","TimeStamp":"\/Date(1564939894525)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.DayStartsSoonWarningGiven, Werewolf.GameEngine","FlavourText":"The cockerel stirs...","GameId":"smg-264","TimeStamp":"\/Date(1564939895818)\/"},{"__type":"Werewolf.GameEngine.Phases.After.VillageVictoryEvent, Werewolf.GameEngine","WinningPlayers":["Kirschstein","Smugvid","XII","Giovanniboyy"],"GameId":"smg-264","TimeStamp":"\/Date(1564939895818)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"Yep","PlayerName":"Giovanniboyy","OriginalName":"Giovanniboyy","GameId":"smg-264","TimeStamp":"\/Date(1564939899240)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"The succ found me straight N1.","PlayerName":"Guardian27","OriginalName":"Guardian27","GameId":"smg-264","TimeStamp":"\/Date(1564939900287)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"And didn't use me N2.","PlayerName":"Guardian27","OriginalName":"Guardian27","GameId":"smg-264","TimeStamp":"\/Date(1564939905736)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"No way Prot wasn't on the Seer","PlayerName":"Giovanniboyy","OriginalName":"Giovanniboyy","GameId":"smg-264","TimeStamp":"\/Date(1564939908239)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"I have no idea of play","PlayerName":"Extrabius","OriginalName":"Extrabius","GameId":"smg-264","TimeStamp":"\/Date(1564939923947)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"Can't believe Kirsch didn't self-protect N1! :O","PlayerName":"XII","OriginalName":"XII","GameId":"smg-264","TimeStamp":"\/Date(1564939927368)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"hahaha","PlayerName":"Giovanniboyy","OriginalName":"Giovanniboyy","GameId":"smg-264","TimeStamp":"\/Date(1564939933510)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"It's so powerful in a small game to not though.","PlayerName":"Smugvid","OriginalName":"Smugvid","GameId":"smg-264","TimeStamp":"\/Date(1564939940800)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"Okay. In this setup it's generally the idea that succ uses wolf to kill.","PlayerName":"Guardian27","OriginalName":"Guardian27","GameId":"smg-264","TimeStamp":"\/Date(1564939940909)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"If they find them.","PlayerName":"Guardian27","OriginalName":"Guardian27","GameId":"smg-264","TimeStamp":"\/Date(1564939943156)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"You found me N1.","PlayerName":"Guardian27","OriginalName":"Guardian27","GameId":"smg-264","TimeStamp":"\/Date(1564939950285)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"So you basically had a pet wolf.","PlayerName":"Guardian27","OriginalName":"Guardian27","GameId":"smg-264","TimeStamp":"\/Date(1564939955025)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"If you manage to prot someone, it's added intel.","PlayerName":"Smugvid","OriginalName":"Smugvid","GameId":"smg-264","TimeStamp":"\/Date(1564939955261)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"I did, I targered you to attack Derby at night 2","PlayerName":"Extrabius","OriginalName":"Extrabius","GameId":"smg-264","TimeStamp":"\/Date(1564939976416)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"I targeted Derby on my own.","PlayerName":"Guardian27","OriginalName":"Guardian27","GameId":"smg-264","TimeStamp":"\/Date(1564939984043)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"But didn't die","PlayerName":"Extrabius","OriginalName":"Extrabius","GameId":"smg-264","TimeStamp":"\/Date(1564939988823)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"haha","PlayerName":"Giovanniboyy","OriginalName":"Giovanniboyy","GameId":"smg-264","TimeStamp":"\/Date(1564939989823)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"Oh","PlayerName":"Extrabius","OriginalName":"Extrabius","GameId":"smg-264","TimeStamp":"\/Date(1564939993635)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"So I assumed you didn't use me N2.","PlayerName":"Guardian27","OriginalName":"Guardian27","GameId":"smg-264","TimeStamp":"\/Date(1564939994370)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"I'm not sure whether there's too much intel in this one for Village though.","PlayerName":"Smugvid","OriginalName":"Smugvid","GameId":"smg-264","TimeStamp":"\/Date(1564939998245)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"xd","PlayerName":"Extrabius","OriginalName":"Extrabius","GameId":"smg-264","TimeStamp":"\/Date(1564940001839)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"Mainly because I would think you would want to redirect me to the seer.","PlayerName":"Guardian27","OriginalName":"Guardian27","GameId":"smg-264","TimeStamp":"\/Date(1564940008979)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"Instead of an unknown role.","PlayerName":"Guardian27","OriginalName":"Guardian27","GameId":"smg-264","TimeStamp":"\/Date(1564940016487)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"I thought some of the alive's one were the protector","PlayerName":"Extrabius","OriginalName":"Extrabius","GameId":"smg-264","TimeStamp":"\/Date(1564940046575)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"I think the intel is fine, both intel roles have false negatives to worry about","PlayerName":"Giovanniboyy","OriginalName":"Giovanniboyy","GameId":"smg-264","TimeStamp":"\/Date(1564940056509)\/"}]
+[
+    {
+        "__type": "Werewolf.GameEngine.Creation.GameCreatedEvent, Werewolf.GameEngine",
+        "CreatedBy": "Smugvid",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564937580903)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564937592574)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine",
+        "PlayerName": "khaleesi",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564937712265)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "khaleesi",
+        "Message": "Hello",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564937732907)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.PlayerLeftEvent, Werewolf.GameEngine",
+        "PlayerName": "khaleesi",
+        "Reason": "Quit",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564937761619)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564937784079)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "Hi!",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564937790397)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "Am watching a movie so ping me.",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564937791072)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564937852102)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine",
+        "PlayerName": "Extrabius",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564937925068)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938009007)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "Hey",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938020907)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "oooh, the numbers slowly increase.",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938038305)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "can you think of a 5er?",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938372798)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "or shall we wait for more?",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938376782)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "Most of my 5ers are a bit more ONUW than Werewolf, as you know, but I'll have a look",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938499006)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "I think that's just the way it goes for smaller numbers",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938529689)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "^",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938533400)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "i'm trying to think of a few ways of making things interesting without directly copying ONUW or Shitler mechanics",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938565159)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "Alright, I've got something dumb in the works!",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938613590)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938727439)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "Ooh, that's still just about fine I think.",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938781505)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "oi up",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938787817)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "o/",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938792067)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "I'm not here. I'm only pretending to be.",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938816106)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "o/",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938828306)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Extrabius",
+        "Message": "Oh",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938851541)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Extrabius",
+        "Message": "I'm here",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938854073)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Extrabius",
+        "Message": "o/",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938884167)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "1",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938890839)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "Hooray, forgive me if this sucks.",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938898953)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.GameStartedEvent, Werewolf.GameEngine",
+        "FirstDayLength": 0,
+        "NightLength": 0,
+        "DayLength": 0,
+        "DayDiscussionLength": 0,
+        "DefenceLength": 0,
+        "TrialLength": 0,
+        "LynchType": "MostVotes",
+        "PhaseTimeType": "VariableSpud",
+        "RoleAnnouncementMessageType": "Full",
+        "RoleList": [
+            "Shapeshifter",
+            "WitchHunter",
+            "Protector",
+            "InsaneSeer",
+            "Succubus",
+            "Villager"
+        ],
+        "Host": "Smugvid",
+        "NumberOfMasonLeaders": 0,
+        "NumberOfDirewolves": 0,
+        "NumberOfWolves": 0,
+        "NumberOfShapeshifters": 0,
+        "NumberOfBloodhounds": 0,
+        "NumberOfLycans": 0,
+        "NumberOfSeers": 0,
+        "NumberOfProtectors": 0,
+        "NumberOfHuntsmen": 0,
+        "NumberOfGravediggers": 0,
+        "NumberOfGraverobbers": 0,
+        "NumberOfRevivers": 0,
+        "NumberOfHarlots": 0,
+        "NumberOfVampires": 0,
+        "NumberOfFamiliarStalkers": 0,
+        "NumberOfAlphaWolves": 0,
+        "NumberOfStalkers": 0,
+        "NumberOfMilitia": 0,
+        "NumberOfMessiahs": 0,
+        "NumberOfDjinn": 0,
+        "NumberOfSuccubi": 0,
+        "NumberOfWitches": 0,
+        "NumberOfShamans": 0,
+        "NumberOfPuppetmasters": 0,
+        "NumberOfTarotReaders": 0,
+        "NumberOfWitchHunters": 0,
+        "NumberOfBeholders": 0,
+        "NumberOfZealots": 0,
+        "NumberOfSleepWalkers": 0,
+        "NumberOfDemonlords": 0,
+        "NumberOfHellhounds": 0,
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938907726)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.NoLynchEnabled, Werewolf.GameEngine",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938907742)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.GameSetToVariableLengthSpeedGameCycle, Werewolf.GameEngine",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938907742)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Core.AnonymisedGameStartedEvent, Werewolf.GameEngine",
+        "ThemeId": "MLP",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938907773)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine",
+        "OriginalName": "XII",
+        "NewName": "Derpy",
+        "NewAvatarUrl": "/content/images/avatars/MLP/Derpy.png",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938907773)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine",
+        "OriginalName": "Guardian27",
+        "NewName": "Spitfire",
+        "NewAvatarUrl": "/content/images/avatars/MLP/Spitfire.png",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938907804)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine",
+        "OriginalName": "Extrabius",
+        "NewName": "PrincessCelestia",
+        "NewAvatarUrl": "/content/images/avatars/MLP/PrincessCelestia.png",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938907835)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine",
+        "OriginalName": "Giovanniboyy",
+        "NewName": "Discord",
+        "NewAvatarUrl": "/content/images/avatars/MLP/Discord.png",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938907867)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine",
+        "OriginalName": "Smugvid",
+        "NewName": "Rarity",
+        "NewAvatarUrl": "/content/images/avatars/MLP/Rarity.png",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938907906)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine",
+        "OriginalName": "Kirschstein",
+        "NewName": "Trixie",
+        "NewAvatarUrl": "/content/images/avatars/MLP/Trixie.png",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938907966)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.PlayerActivity.InactivitySmitingEnabled, Werewolf.GameEngine",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938908060)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ProtectorAssignedEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938908076)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.InsaneSeerAssignedEvent, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938908091)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.WitchHunterAssignedEvent, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938908107)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Items.WolfPeltAllocated, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "ItemId": "c3f8656b42a84b43add79b144524135b",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938908122)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.SuccubusAssignedEvent, Werewolf.GameEngine",
+        "PlayerName": "Extrabius",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938908122)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.VillagerAssignedEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938908138)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ShapeshifterAssignedEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938908154)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Core.ModeratorMessageEvent, Werewolf.GameEngine",
+        "Message": "There are: 1 Protector, 1 InsaneSeer, 1 WitchHunter, 1 Succubus, 1 Villager and 1 Shapeshifter.",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938908154)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.GameSetupFinished, Werewolf.GameEngine",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938908185)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.CovenNightMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Extrabius",
+        "Message": "I am a Succubus",
+        "Recipients": [
+            "Extrabius"
+        ],
+        "Eavesdroppers": [
+            "Default-Eavesdropper",
+            "Default-Eavesdropper"
+        ],
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938908216)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.WerewolfNightMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "I am a Shapeshifter",
+        "Recipients": [
+            "Guardian27"
+        ],
+        "Eavesdroppers": [
+            "Default-Eavesdropper",
+            "Default-Eavesdropper"
+        ],
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938908247)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "Ponies!!!!!!!!!!",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938917279)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "Derp.",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938920140)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Extrabius",
+        "Message": "I'm beutiful",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938920358)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "Best theme.",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938922358)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "Yay, I'm cute",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938929541)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "interesting setup",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938935525)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "I'm cool",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938936009)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "Samool won't try to kill me.",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938937400)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "...",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938938353)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "Samool not in this game owo",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938946259)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "His influence extends beyond games he's in",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938961445)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "no tanner though",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938983815)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "insane seer is WC ye?",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938995180)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Night.NightStartsSoonWarningGiven, Werewolf.GameEngine",
+        "FlavourText": "A chill wind blows, the warmth of day is at its end...",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564938995867)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "Yes",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939005686)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "Not sure how easy this is for any team",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939029781)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Night.NightStartedEvent, Werewolf.GameEngine",
+        "NightNumber": 1,
+        "PhaseLength": 0,
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939030844)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "Guardian27",
+        "PlayerNames": [
+            "Kirschstein",
+            "Smugvid",
+            "XII",
+            "Extrabius",
+            "Giovanniboyy"
+        ],
+        "ActionName": "Kill",
+        "Message": "The wolfpack have 1 kill tonight",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939030844)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "Kirschstein",
+        "PlayerNames": [
+            "Kirschstein",
+            "Smugvid",
+            "XII",
+            "Extrabius",
+            "Giovanniboyy",
+            "Guardian27"
+        ],
+        "ActionName": "Protect",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939030844)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "XII",
+        "PlayerNames": [
+            "Kirschstein",
+            "Smugvid",
+            "Extrabius",
+            "Giovanniboyy",
+            "Guardian27"
+        ],
+        "ActionName": "Check",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939030844)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidSecondaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "XII",
+        "PlayerNames": [],
+        "ActionName": "Kill",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939030844)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.Coven.Warlock.MarkedPlayersShown, Werewolf.GameEngine",
+        "PlayerWithRole": "XII",
+        "PlayerNames": [],
+        "MarkColour": "#FF8B00",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939030844)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "Extrabius",
+        "PlayerNames": [
+            "Kirschstein",
+            "Smugvid",
+            "XII",
+            "Giovanniboyy",
+            "Guardian27"
+        ],
+        "ActionName": "Control",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939030844)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidSecondaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "Guardian27",
+        "PlayerNames": [
+            "Guardian27"
+        ],
+        "ActionName": "Shift",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939030844)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Items.ItemAvailable, Werewolf.GameEngine",
+        "ItemIndex": 0,
+        "ItemName": "Wolf Pelt",
+        "Description": "A Wolf Pelt will protect you from one night kill, but it will make you appear as a Werewolf to the Seer",
+        "PlayerWithItem": "XII",
+        "PlayerNames": [],
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939030844)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.WerewolfNightMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "Only para and naive not.",
+        "Recipients": [
+            "Guardian27"
+        ],
+        "Eavesdroppers": [
+            "Default-Eavesdropper"
+        ],
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939031219)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.NightTargetChosenEvent, Werewolf.GameEngine",
+        "Confirmation": "Tonight you will protect $Giovanniboyy from harm",
+        "PlayerWithRole": "Kirschstein",
+        "Role": "Protector",
+        "Target": "Giovanniboyy",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939034125)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.NightTargetChosenEvent, Werewolf.GameEngine",
+        "Confirmation": "Tonight you will check if $Smugvid uses witchcraft or not",
+        "PlayerWithRole": "XII",
+        "Role": "Witch Hunter",
+        "Target": "Smugvid",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939035954)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Night.WerewolfVoteEvent, Werewolf.GameEngine",
+        "Werewolf": "Guardian27",
+        "Target": "Giovanniboyy",
+        "Recipients": [
+            "Guardian27"
+        ],
+        "MaxKillCount": 1,
+        "ThisKill": 1,
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939042203)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.NightTargetChosenEvent, Werewolf.GameEngine",
+        "Confirmation": "Tonight you will check $Giovanniboyy",
+        "PlayerWithRole": "Smugvid",
+        "Role": "Seer",
+        "Target": "Giovanniboyy",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939046490)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.DayStartsSoonWarningGiven, Werewolf.GameEngine",
+        "FlavourText": "A new day beckons...",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939055966)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.Coven.Succubus.PrimarySuccubusTargetChosen, Werewolf.GameEngine",
+        "PlayerWithRole": "Extrabius",
+        "Target": "Guardian27",
+        "Recipients": [
+            "Extrabius"
+        ],
+        "Confirmation": "Tonight you will control $Guardian27 - pick another player for them to target",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939056185)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "Extrabius",
+        "PlayerNames": [
+            "Kirschstein",
+            "Smugvid",
+            "XII",
+            "Extrabius",
+            "Giovanniboyy",
+            "Guardian27"
+        ],
+        "ActionName": "Target",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939056185)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.Coven.Succubus.SecondarySuccubusTargetChosen, Werewolf.GameEngine",
+        "PlayerWithRole": "Extrabius",
+        "Target": "Kirschstein",
+        "Recipients": [
+            "Extrabius"
+        ],
+        "Confirmation": "$Tonight you will control $Guardian27 and force them to target $Kirschstein",
+        "AlliesConfirmation": "$Extrabius will control $Guardian27 and force them to target $Kirschstein",
+        "Allies": [],
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939057779)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "Extrabius",
+        "PlayerNames": [
+            "Kirschstein",
+            "Smugvid",
+            "XII",
+            "Giovanniboyy",
+            "Guardian27"
+        ],
+        "ActionName": "Control",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939057779)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.Village.Protector.ProtectorProtected, Werewolf.GameEngine",
+        "ProtectorName": "Kirschstein",
+        "Target": "Giovanniboyy",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939090816)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.Village.WitchHunter.MagicUserRevealedToWitchHunter, Werewolf.GameEngine",
+        "PlayerWithRole": "XII",
+        "Target": "Smugvid",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939090816)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.Village.Seer.RoleRevealedToSeerEvent, Werewolf.GameEngine",
+        "SeerName": "Smugvid",
+        "Target": "Giovanniboyy",
+        "Role": "member of the wolfpack",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939090816)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Night.PlayerKilledEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "CauseOfDeath": "Werewolf",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939090816)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.DayStartedEvent, Werewolf.GameEngine",
+        "DayNumber": 2,
+        "PhaseLength": 0,
+        "DiscussionLength": 0,
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939090816)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "Backfire horribly.",
+        "Recipients": [
+            "Kirschstein"
+        ],
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939096988)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "Nuuu",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939097223)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "RIP Trixie",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939099785)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "Someone killed Trixie",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939101535)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Extrabius",
+        "Message": "Hm",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939101712)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "Rest in peace, my friend",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939104895)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "no shit",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939109286)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Extrabius",
+        "Message": "Tracks?",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939110895)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "I have good news!",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939113473)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.VillageNominationsOpenedEvent, Werewolf.GameEngine",
+        "TimeLeft": 0,
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939115915)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.NoLynchOptionAvailable, Werewolf.GameEngine",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939115915)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "Oh?",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939118614)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "Derp derp.",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939119146)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "What did you find?",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939122411)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "Discord is Village.",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939127416)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "As in. village village or insane village.",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939139534)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "Village Village",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939146674)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "right?",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939148018)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "Real Village! A friend to me and maybe you.",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939151253)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "I should be",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939152190)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "Yeah",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939153706)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "YAY :D",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939157377)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "Which means I can be a Prot or Villager, fight me",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939177946)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "Indeed. And I'm obviously claiming Seer",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939197767)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.VoteForNoLynchCast, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939228547)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "I think?",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939232360)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.VoteForNoLynchCast, Werewolf.GameEngine",
+        "PlayerName": "Extrabius",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939233095)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.VoteForNoLynchCast, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939235189)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "So @WH don't waste your time on me ofc",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939241142)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "Hmm.",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939241267)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "You sure you claiming Seer?",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939243048)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.VoteForNoLynchCast, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939244673)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "Yep",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939248221)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "Well, duh",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939251472)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "Didn't notice :p",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939252612)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "lol",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939257743)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "I could theoretically have been WH and found the Villager, I guess",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939268690)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "Also true",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939278452)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.VoteForNoLynchCast, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939288875)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "I think you would then say something like that he isn't a witchcrapper.",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939289217)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Night.NightStartsSoonWarningGiven, Werewolf.GameEngine",
+        "FlavourText": "The day draws to a close...",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939295811)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "Maybe.",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939298298)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "LET'S SEE WHAT HAPPENS",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939304424)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "!1!!!131",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939309098)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "UWU",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939309956)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "U double U U",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939314503)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "no U",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939319846)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Night.NightStartedEvent, Werewolf.GameEngine",
+        "NightNumber": 2,
+        "PhaseLength": 0,
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939330841)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.NoPlayerLynched, Werewolf.GameEngine",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939330841)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "Guardian27",
+        "PlayerNames": [
+            "Smugvid",
+            "XII",
+            "Extrabius",
+            "Giovanniboyy"
+        ],
+        "ActionName": "Kill",
+        "Message": "The wolfpack have 1 kill tonight",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939330841)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "Kirschstein",
+        "PlayerNames": [
+            "Smugvid",
+            "XII",
+            "Extrabius",
+            "Guardian27"
+        ],
+        "ActionName": "Protect",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939330841)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "XII",
+        "PlayerNames": [
+            "Smugvid",
+            "Extrabius",
+            "Giovanniboyy",
+            "Guardian27"
+        ],
+        "ActionName": "Check",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939330841)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidSecondaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "XII",
+        "PlayerNames": [
+            "Smugvid"
+        ],
+        "ActionName": "Kill",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939330841)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.Coven.Warlock.MarkedPlayersShown, Werewolf.GameEngine",
+        "PlayerWithRole": "XII",
+        "PlayerNames": [
+            "Smugvid"
+        ],
+        "MarkColour": "#FF8B00",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939330841)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "Extrabius",
+        "PlayerNames": [
+            "Smugvid",
+            "XII",
+            "Giovanniboyy",
+            "Guardian27"
+        ],
+        "ActionName": "Control",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939330841)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidSecondaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "Guardian27",
+        "PlayerNames": [
+            "Guardian27"
+        ],
+        "ActionName": "Shift",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939330841)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Items.ItemAvailable, Werewolf.GameEngine",
+        "ItemIndex": 0,
+        "ItemName": "Wolf Pelt",
+        "Description": "A Wolf Pelt will protect you from one night kill, but it will make you appear as a Werewolf to the Seer",
+        "PlayerWithItem": "XII",
+        "PlayerNames": [],
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939330841)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.Coven.Succubus.PrimarySuccubusTargetChosen, Werewolf.GameEngine",
+        "PlayerWithRole": "Extrabius",
+        "Target": "Guardian27",
+        "Recipients": [
+            "Extrabius"
+        ],
+        "Confirmation": "Tonight you will control $Guardian27 - pick another player for them to target",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939334903)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "Extrabius",
+        "PlayerNames": [
+            "Kirschstein",
+            "Smugvid",
+            "XII",
+            "Extrabius",
+            "Giovanniboyy",
+            "Guardian27"
+        ],
+        "ActionName": "Target",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939334903)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Night.WerewolfVoteEvent, Werewolf.GameEngine",
+        "Werewolf": "Guardian27",
+        "Target": "XII",
+        "Recipients": [
+            "Guardian27"
+        ],
+        "MaxKillCount": 1,
+        "ThisKill": 1,
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939337716)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.NightTargetChosenEvent, Werewolf.GameEngine",
+        "Confirmation": "Tonight you will check if $Guardian27 uses witchcraft or not",
+        "PlayerWithRole": "XII",
+        "Role": "Witch Hunter",
+        "Target": "Guardian27",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939337778)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.NightTargetChosenEvent, Werewolf.GameEngine",
+        "Confirmation": "Tonight you will check $XII",
+        "PlayerWithRole": "Smugvid",
+        "Role": "Seer",
+        "Target": "XII",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939338028)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.NightTargetChosenEvent, Werewolf.GameEngine",
+        "Confirmation": "Tonight you will check if $Extrabius uses witchcraft or not",
+        "PlayerWithRole": "XII",
+        "Role": "Witch Hunter",
+        "Target": "Extrabius",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939344858)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.NightTargetChosenEvent, Werewolf.GameEngine",
+        "Confirmation": "Tonight you will check if $Guardian27 uses witchcraft or not",
+        "PlayerWithRole": "XII",
+        "Role": "Witch Hunter",
+        "Target": "Guardian27",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939347078)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.DayStartsSoonWarningGiven, Werewolf.GameEngine",
+        "FlavourText": "The safety of daylight approaches...",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939355983)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.Coven.Succubus.SecondarySuccubusTargetChosen, Werewolf.GameEngine",
+        "PlayerWithRole": "Extrabius",
+        "Target": "XII",
+        "Recipients": [
+            "Extrabius"
+        ],
+        "Confirmation": "$Tonight you will control $Guardian27 and force them to target $XII",
+        "AlliesConfirmation": "$Extrabius will control $Guardian27 and force them to target $XII",
+        "Allies": [],
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939363874)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "Extrabius",
+        "PlayerNames": [
+            "Kirschstein",
+            "Smugvid",
+            "XII",
+            "Giovanniboyy",
+            "Guardian27"
+        ],
+        "ActionName": "Control",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939363874)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.Coven.Succubus.PrimarySuccubusTargetChosen, Werewolf.GameEngine",
+        "PlayerWithRole": "Extrabius",
+        "Target": "Guardian27",
+        "Recipients": [
+            "Extrabius"
+        ],
+        "Confirmation": "Tonight you will control $Guardian27 - pick another player for them to target",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939373953)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "Extrabius",
+        "PlayerNames": [
+            "Kirschstein",
+            "Smugvid",
+            "XII",
+            "Extrabius",
+            "Giovanniboyy",
+            "Guardian27"
+        ],
+        "ActionName": "Target",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939373953)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.Coven.Succubus.SecondarySuccubusTargetChosen, Werewolf.GameEngine",
+        "PlayerWithRole": "Extrabius",
+        "Target": "Giovanniboyy",
+        "Recipients": [
+            "Extrabius"
+        ],
+        "Confirmation": "$Tonight you will control $Guardian27 and force them to target $Giovanniboyy",
+        "AlliesConfirmation": "$Extrabius will control $Guardian27 and force them to target $Giovanniboyy",
+        "Allies": [],
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939377687)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "Extrabius",
+        "PlayerNames": [
+            "Kirschstein",
+            "Smugvid",
+            "XII",
+            "Giovanniboyy",
+            "Guardian27"
+        ],
+        "ActionName": "Control",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939377687)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.Coven.Succubus.PrimarySuccubusTargetChosen, Werewolf.GameEngine",
+        "PlayerWithRole": "Extrabius",
+        "Target": "Guardian27",
+        "Recipients": [
+            "Extrabius"
+        ],
+        "Confirmation": "Tonight you will control $Guardian27 - pick another player for them to target",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939381281)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "Extrabius",
+        "PlayerNames": [
+            "Kirschstein",
+            "Smugvid",
+            "XII",
+            "Extrabius",
+            "Giovanniboyy",
+            "Guardian27"
+        ],
+        "ActionName": "Target",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939381281)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.Coven.Succubus.SecondarySuccubusTargetChosen, Werewolf.GameEngine",
+        "PlayerWithRole": "Extrabius",
+        "Target": "XII",
+        "Recipients": [
+            "Extrabius"
+        ],
+        "Confirmation": "$Tonight you will control $Guardian27 and force them to target $XII",
+        "AlliesConfirmation": "$Extrabius will control $Guardian27 and force them to target $XII",
+        "Allies": [],
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939381801)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "Extrabius",
+        "PlayerNames": [
+            "Kirschstein",
+            "Smugvid",
+            "XII",
+            "Giovanniboyy",
+            "Guardian27"
+        ],
+        "ActionName": "Control",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939381801)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.Village.WitchHunter.MagicUserRevealedToWitchHunter, Werewolf.GameEngine",
+        "PlayerWithRole": "XII",
+        "Target": "Guardian27",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939390812)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.Village.Seer.RoleRevealedToSeerEvent, Werewolf.GameEngine",
+        "SeerName": "Smugvid",
+        "Target": "XII",
+        "Role": "member of the village",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939390812)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Items.ItemDestroyed, Werewolf.GameEngine",
+        "ItemId": "c3f8656b42a84b43add79b144524135b",
+        "PlayerName": "XII",
+        "Message": "Your Wolf Pelt was destroyed by an attack last night $$",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939390812)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.DayStartedEvent, Werewolf.GameEngine",
+        "DayNumber": 3,
+        "PhaseLength": 0,
+        "DiscussionLength": 0,
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939390812)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "RIP my wolf pelt.",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939399813)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "I see",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939400002)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "oof",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939402642)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Extrabius",
+        "Message": "No deaths?",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939403391)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "Ooh",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939406329)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "Spitfire uses witchcraft.",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939407719)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "Cool, other check?",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939414732)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "I'm indeed a witchcrapper.",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939415185)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.VillageNominationsOpenedEvent, Werewolf.GameEngine",
+        "TimeLeft": 0,
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939415888)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.NoLynchOptionAvailable, Werewolf.GameEngine",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939415888)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.VillageNominationEvent, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Target": "Guardian27",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939419404)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "I checked Derpy as Insane Village.",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939425749)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "Eh, well.",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939442062)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "@Derpy, what is your other check?",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939444281)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "So Spit is claiming Prot, presumably?",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939455609)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "I guess at this point it's probably not a good idea to withhold it.",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939457875)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "But I checked Rarity N1.",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939463125)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "Discord, how does that chime with you?",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939463547)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "Ah okay",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939470844)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "It does",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939477062)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Extrabius",
+        "Message": "What's Insaneseer?",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939479456)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.VillageNominationEvent, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Target": "Extrabius",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939481828)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "I'm Vanilla",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939482832)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.VillageNominationEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Target": "Extrabius",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939488672)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.VillageNominationRetractedEvent, Werewolf.GameEngine",
+        "Target": "Guardian27",
+        "PlayerName": "XII",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939492986)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.VillageNominationEvent, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Target": "Extrabius",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939492986)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "Spit could be SS, mind.",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939500314)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.VillageNominationEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Target": "Extrabius",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939500533)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "Get's reverse views, Village for Evils and Wolfpack for not Evil.",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939501674)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Extrabius",
+        "Message": "Oh",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939509705)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "Is prot cc'd?",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939512189)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Extrabius",
+        "Message": "Well, that's cool",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939517002)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "No.",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939519908)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "Because it's unlikely :p",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939522080)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "Spit could be, absolutely, but would mean Trixie was Prot who didn't cover themself N1",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939528268)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "@Derpy, I would suggest not visiting anybody, in case of Succubus",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939530737)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "Yeah",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939536873)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "So I think it looks like Trix as Succ, Celestia as Wolf.",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939553879)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "Derpy could be Evil too, mind, but the Wolf Pelt claim is strong.",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939574123)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "@Rarity, check Derpy again",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939582002)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Night.NightStartsSoonWarningGiven, Werewolf.GameEngine",
+        "FlavourText": "There is not much light left...",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939595826)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "Yeah",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939606638)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "If the game continues, for sure",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939615654)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Night.NightStartedEvent, Werewolf.GameEngine",
+        "NightNumber": 3,
+        "PhaseLength": 0,
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939630826)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.PlayerLynchedEvent, Werewolf.GameEngine",
+        "PlayerName": "Extrabius",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939630826)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "Guardian27",
+        "PlayerNames": [
+            "Smugvid",
+            "XII",
+            "Giovanniboyy"
+        ],
+        "ActionName": "Kill",
+        "Message": "The wolfpack have 1 kill tonight",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939630826)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "Kirschstein",
+        "PlayerNames": [
+            "Smugvid",
+            "XII",
+            "Guardian27"
+        ],
+        "ActionName": "Protect",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939630826)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "XII",
+        "PlayerNames": [
+            "Smugvid",
+            "Giovanniboyy",
+            "Guardian27"
+        ],
+        "ActionName": "Check",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939630826)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidSecondaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "XII",
+        "PlayerNames": [
+            "Smugvid",
+            "Guardian27"
+        ],
+        "ActionName": "Kill",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939630826)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.Coven.Warlock.MarkedPlayersShown, Werewolf.GameEngine",
+        "PlayerWithRole": "XII",
+        "PlayerNames": [
+            "Smugvid",
+            "Guardian27"
+        ],
+        "MarkColour": "#FF8B00",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939630826)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "Extrabius",
+        "PlayerNames": [
+            "Smugvid",
+            "XII",
+            "Giovanniboyy",
+            "Guardian27"
+        ],
+        "ActionName": "Control",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939630826)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidSecondaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "Guardian27",
+        "PlayerNames": [
+            "Guardian27"
+        ],
+        "ActionName": "Shift",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939630826)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Night.WerewolfVoteEvent, Werewolf.GameEngine",
+        "Werewolf": "Guardian27",
+        "Target": "Smugvid",
+        "Recipients": [
+            "Guardian27"
+        ],
+        "MaxKillCount": 1,
+        "ThisKill": 1,
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939635749)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.WerewolfNightMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "That was the succ.",
+        "Recipients": [
+            "Guardian27"
+        ],
+        "Eavesdroppers": [
+            "Default-Eavesdropper"
+        ],
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939639499)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.NightTargetChosenEvent, Werewolf.GameEngine",
+        "Confirmation": "Tonight you will check $XII",
+        "PlayerWithRole": "Smugvid",
+        "Role": "Seer",
+        "Target": "XII",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939645874)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.WerewolfNightMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "Which succs.",
+        "Recipients": [
+            "Guardian27"
+        ],
+        "Eavesdroppers": [
+            "Default-Eavesdropper"
+        ],
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939646280)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.WerewolfNightMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "*runs*",
+        "Recipients": [
+            "Guardian27"
+        ],
+        "Eavesdroppers": [
+            "Default-Eavesdropper"
+        ],
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939648847)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.DayStartsSoonWarningGiven, Werewolf.GameEngine",
+        "FlavourText": "The land brightens...",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939655883)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.NightTargetChosenEvent, Werewolf.GameEngine",
+        "Confirmation": "Tonight you will check $Giovanniboyy",
+        "PlayerWithRole": "Smugvid",
+        "Role": "Seer",
+        "Target": "Giovanniboyy",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939681398)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.NightTargetChosenEvent, Werewolf.GameEngine",
+        "Confirmation": "Tonight you will check $XII",
+        "PlayerWithRole": "Smugvid",
+        "Role": "Seer",
+        "Target": "XII",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939689258)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.Village.Seer.RoleRevealedToSeerEvent, Werewolf.GameEngine",
+        "SeerName": "Smugvid",
+        "Target": "XII",
+        "Role": "member of the wolfpack",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939690867)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Night.PlayerKilledEvent, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "CauseOfDeath": "Werewolf",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939690867)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.DayStartedEvent, Werewolf.GameEngine",
+        "DayNumber": 4,
+        "PhaseLength": 0,
+        "DiscussionLength": 0,
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939690867)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "Well, I didn't move.",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939700586)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "Must be Spit",
+        "Recipients": [
+            "Kirschstein",
+            "Extrabius",
+            "Smugvid"
+        ],
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939705273)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "Interesting",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939706976)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "Fk. I covered the wrong one.",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939707242)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Extrabius",
+        "Message": "Well",
+        "Recipients": [
+            "Kirschstein",
+            "Extrabius",
+            "Smugvid"
+        ],
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939710305)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "But didn't shift. Interesting",
+        "Recipients": [
+            "Kirschstein",
+            "Extrabius",
+            "Smugvid"
+        ],
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939712950)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.VillageNominationsOpenedEvent, Werewolf.GameEngine",
+        "TimeLeft": 0,
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939715808)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.NoLynchOptionAvailable, Werewolf.GameEngine",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939715808)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.VillageNominationEvent, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Target": "Guardian27",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939719766)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.VillageNominationEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Target": "Giovanniboyy",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939723188)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "So Spitfire, you were on Derpy?",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939723360)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "What were you, Celestia? Succ?",
+        "Recipients": [
+            "Kirschstein",
+            "Extrabius",
+            "Smugvid"
+        ],
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939727500)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "Yes.",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939728563)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "And why are you voting me?",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939733320)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Extrabius",
+        "Message": "I send Spit target Trixie first night",
+        "Recipients": [
+            "Kirschstein",
+            "Extrabius",
+            "Smugvid"
+        ],
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939738493)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.VillageNominationEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Target": "Guardian27",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939745243)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "I think the vanilla claim is a bit weak.",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939755149)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "You know I was confirmed by the Seer right?",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939765095)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "Weird, Trixie must be Prot then.",
+        "Recipients": [
+            "Kirschstein",
+            "Extrabius",
+            "Smugvid"
+        ],
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939779785)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "You here, Trix?",
+        "Recipients": [
+            "Kirschstein",
+            "Extrabius",
+            "Smugvid"
+        ],
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939783048)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "Not the first time I've seen seer bluff straight D2.",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939785845)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Extrabius",
+        "Message": "I think (s)he's disconeccted",
+        "Recipients": [
+            "Kirschstein",
+            "Extrabius",
+            "Smugvid"
+        ],
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939806292)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "So you think they were a SS?",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939812592)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "Yes I do.",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939821876)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "And they shifted into me you think?",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939833849)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Night.NightStartsSoonWarningGiven, Werewolf.GameEngine",
+        "FlavourText": "Creatures of the night begin to stir...",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939836161)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "Or Derpy since they are too quiet now.",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939847427)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "Very interesting theory",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939848911)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "Sorry, I'm just reading your arguments.",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939865710)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Night.NightStartedEvent, Werewolf.GameEngine",
+        "NightNumber": 4,
+        "PhaseLength": 0,
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939870835)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.PlayerLynchedEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939870835)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "Guardian27",
+        "PlayerNames": [
+            "XII",
+            "Giovanniboyy"
+        ],
+        "ActionName": "Kill",
+        "Message": "The wolfpack have 1 kill tonight",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939870835)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "Kirschstein",
+        "PlayerNames": [
+            "XII"
+        ],
+        "ActionName": "Protect",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939870835)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "XII",
+        "PlayerNames": [
+            "Giovanniboyy"
+        ],
+        "ActionName": "Check",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939870835)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidSecondaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "XII",
+        "PlayerNames": [
+            "Smugvid",
+            "Guardian27"
+        ],
+        "ActionName": "Kill",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939870835)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.Coven.Warlock.MarkedPlayersShown, Werewolf.GameEngine",
+        "PlayerWithRole": "XII",
+        "PlayerNames": [
+            "Smugvid",
+            "Guardian27"
+        ],
+        "MarkColour": "#FF8B00",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939870835)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "Extrabius",
+        "PlayerNames": [
+            "XII",
+            "Giovanniboyy"
+        ],
+        "ActionName": "Control",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939870835)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidSecondaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "Guardian27",
+        "PlayerNames": [
+            "Guardian27"
+        ],
+        "ActionName": "Shift",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939870835)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.NightTargetChosenEvent, Werewolf.GameEngine",
+        "Confirmation": "Tonight you will check if $Giovanniboyy uses witchcraft or not",
+        "PlayerWithRole": "XII",
+        "Role": "Witch Hunter",
+        "Target": "Giovanniboyy",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939875419)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Smugvid",
+        "Message": "Unlucky",
+        "Recipients": [
+            "Kirschstein",
+            "Extrabius",
+            "Smugvid",
+            "Guardian27"
+        ],
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939889451)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Extrabius",
+        "Message": "Well",
+        "Recipients": [
+            "Kirschstein",
+            "Extrabius",
+            "Smugvid",
+            "Guardian27"
+        ],
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939889576)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Guardian27",
+        "Message": "I don't undrestand.",
+        "Recipients": [
+            "Kirschstein",
+            "Extrabius",
+            "Smugvid",
+            "Guardian27"
+        ],
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939894525)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.DayStartsSoonWarningGiven, Werewolf.GameEngine",
+        "FlavourText": "The cockerel stirs...",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939895818)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.After.VillageVictoryEvent, Werewolf.GameEngine",
+        "WinningPlayers": [
+            "Kirschstein",
+            "Smugvid",
+            "XII",
+            "Giovanniboyy"
+        ],
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939895818)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "Yep",
+        "PlayerName": "Giovanniboyy",
+        "OriginalName": "Giovanniboyy",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939899240)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "The succ found me straight N1.",
+        "PlayerName": "Guardian27",
+        "OriginalName": "Guardian27",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939900287)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "And didn't use me N2.",
+        "PlayerName": "Guardian27",
+        "OriginalName": "Guardian27",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939905736)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "No way Prot wasn't on the Seer",
+        "PlayerName": "Giovanniboyy",
+        "OriginalName": "Giovanniboyy",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939908239)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "I have no idea of play",
+        "PlayerName": "Extrabius",
+        "OriginalName": "Extrabius",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939923947)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "Can't believe Kirsch didn't self-protect N1! :O",
+        "PlayerName": "XII",
+        "OriginalName": "XII",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939927368)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "hahaha",
+        "PlayerName": "Giovanniboyy",
+        "OriginalName": "Giovanniboyy",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939933510)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "It's so powerful in a small game to not though.",
+        "PlayerName": "Smugvid",
+        "OriginalName": "Smugvid",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939940800)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "Okay. In this setup it's generally the idea that succ uses wolf to kill.",
+        "PlayerName": "Guardian27",
+        "OriginalName": "Guardian27",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939940909)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "If they find them.",
+        "PlayerName": "Guardian27",
+        "OriginalName": "Guardian27",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939943156)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "You found me N1.",
+        "PlayerName": "Guardian27",
+        "OriginalName": "Guardian27",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939950285)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "So you basically had a pet wolf.",
+        "PlayerName": "Guardian27",
+        "OriginalName": "Guardian27",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939955025)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "If you manage to prot someone, it's added intel.",
+        "PlayerName": "Smugvid",
+        "OriginalName": "Smugvid",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939955261)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "I did, I targered you to attack Derby at night 2",
+        "PlayerName": "Extrabius",
+        "OriginalName": "Extrabius",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939976416)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "I targeted Derby on my own.",
+        "PlayerName": "Guardian27",
+        "OriginalName": "Guardian27",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939984043)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "But didn't die",
+        "PlayerName": "Extrabius",
+        "OriginalName": "Extrabius",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939988823)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "haha",
+        "PlayerName": "Giovanniboyy",
+        "OriginalName": "Giovanniboyy",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939989823)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "Oh",
+        "PlayerName": "Extrabius",
+        "OriginalName": "Extrabius",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939993635)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "So I assumed you didn't use me N2.",
+        "PlayerName": "Guardian27",
+        "OriginalName": "Guardian27",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939994370)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "I'm not sure whether there's too much intel in this one for Village though.",
+        "PlayerName": "Smugvid",
+        "OriginalName": "Smugvid",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564939998245)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "xd",
+        "PlayerName": "Extrabius",
+        "OriginalName": "Extrabius",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564940001839)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "Mainly because I would think you would want to redirect me to the seer.",
+        "PlayerName": "Guardian27",
+        "OriginalName": "Guardian27",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564940008979)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "Instead of an unknown role.",
+        "PlayerName": "Guardian27",
+        "OriginalName": "Guardian27",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564940016487)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "I thought some of the alive's one were the protector",
+        "PlayerName": "Extrabius",
+        "OriginalName": "Extrabius",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564940046575)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "I think the intel is fine, both intel roles have false negatives to worry about",
+        "PlayerName": "Giovanniboyy",
+        "OriginalName": "Giovanniboyy",
+        "GameId": "smg-264",
+        "TimeStamp": "\/Date(1564940056509)\/"
+    }
+]

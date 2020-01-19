@@ -1,1 +1,953 @@
-[{"__type":"Werewolf.GameEngine.Creation.GameCreatedEvent, Werewolf.GameEngine","CreatedBy":"XII","GameId":"xii-059","TimeStamp":"\/Date(1564922904759)\/"},{"__type":"Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine","PlayerName":"Phyton","GameId":"xii-059","TimeStamp":"\/Date(1564922974255)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"Hi xii!","GameId":"xii-059","TimeStamp":"\/Date(1564922991101)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"XII","Message":"Heya","GameId":"xii-059","TimeStamp":"\/Date(1564923001143)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"What's your real name? ","GameId":"xii-059","TimeStamp":"\/Date(1564923200743)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"I just realise that you are one of those that I don't know their name. ","GameId":"xii-059","TimeStamp":"\/Date(1564923234110)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"XII","Message":"You think XII isn't my real name? :O","GameId":"xii-059","TimeStamp":"\/Date(1564923268278)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"XII","Message":"Sadly you'd be correct in thinking that. It's Simon ^^","GameId":"xii-059","TimeStamp":"\/Date(1564923294606)\/"},{"__type":"Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine","PlayerName":"AsianPencil","GameId":"xii-059","TimeStamp":"\/Date(1564923362804)\/"},{"__type":"Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","GameId":"xii-059","TimeStamp":"\/Date(1564923380112)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"XII","Message":"Heya","GameId":"xii-059","TimeStamp":"\/Date(1564923390130)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"Hi","GameId":"xii-059","TimeStamp":"\/Date(1564923397255)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"AsianPencil","Message":"hey dude","GameId":"xii-059","TimeStamp":"\/Date(1564923405162)\/"},{"__type":"Werewolf.GameEngine.Creation.PlayerLeftEvent, Werewolf.GameEngine","PlayerName":"AsianPencil","Reason":"Quit","GameId":"xii-059","TimeStamp":"\/Date(1564923419428)\/"},{"__type":"Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","GameId":"xii-059","TimeStamp":"\/Date(1564923437756)\/"},{"__type":"Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine","PlayerName":"Him_Him","GameId":"xii-059","TimeStamp":"\/Date(1564923476747)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Him_Him","Message":"I don't see sh00ter :thinking:","GameId":"xii-059","TimeStamp":"\/Date(1564923499751)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"Hello Simon ^^","GameId":"xii-059","TimeStamp":"\/Date(1564923550882)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"XII","Message":"I'll give it a few more minutes anyway, I'm sorting some stuff out","GameId":"xii-059","TimeStamp":"\/Date(1564923666878)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"XII","Message":"hmm","GameId":"xii-059","TimeStamp":"\/Date(1564924317298)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"XII","Message":"Well, I guess we can start if everyone is here and ready?","GameId":"xii-059","TimeStamp":"\/Date(1564924565500)\/"},{"__type":"Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine","PlayerName":"XII","GameId":"xii-059","TimeStamp":"\/Date(1564924630334)\/"},{"__type":"Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine","PlayerName":"Sh00ter","GameId":"xii-059","TimeStamp":"\/Date(1564924712242)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"XII","Message":"Ohai","GameId":"xii-059","TimeStamp":"\/Date(1564924719796)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Sh00ter","Message":"Hi simon","GameId":"xii-059","TimeStamp":"\/Date(1564924733906)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Sh00ter","Message":"Phyyyyyyyyyyyyyyyyyy","GameId":"xii-059","TimeStamp":"\/Date(1564924754227)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"give me 2 minutes","GameId":"xii-059","TimeStamp":"\/Date(1564924764464)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"Nice","GameId":"xii-059","TimeStamp":"\/Date(1564924766511)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Sh00ter","Message":"I might be able to play only once","GameId":"xii-059","TimeStamp":"\/Date(1564924806288)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":":(","GameId":"xii-059","TimeStamp":"\/Date(1564924811377)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"you have been missing for ages","GameId":"xii-059","TimeStamp":"\/Date(1564924815111)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"Whyyyyy?","GameId":"xii-059","TimeStamp":"\/Date(1564924817533)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"Mark miss you.","GameId":"xii-059","TimeStamp":"\/Date(1564924829533)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Sh00ter","Message":"Yeah, been busy lately","GameId":"xii-059","TimeStamp":"\/Date(1564924833958)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"How can you hurt Mark like that?","GameId":"xii-059","TimeStamp":"\/Date(1564924843470)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Sh00ter","Message":":(","GameId":"xii-059","TimeStamp":"\/Date(1564924849629)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"Kejam!","GameId":"xii-059","TimeStamp":"\/Date(1564924851957)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Sh00ter","Message":"Nuuuuuuuuuu","GameId":"xii-059","TimeStamp":"\/Date(1564924858447)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"Jahat!","GameId":"xii-059","TimeStamp":"\/Date(1564924887291)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":":p","GameId":"xii-059","TimeStamp":"\/Date(1564924889478)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Sh00ter","Message":"Im enrolled for a foundation study, hence im busy as hell","GameId":"xii-059","TimeStamp":"\/Date(1564924894636)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"You change course?","GameId":"xii-059","TimeStamp":"\/Date(1564924908334)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Sh00ter","Message":"Nope","GameId":"xii-059","TimeStamp":"\/Date(1564924915747)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"I thought you...","GameId":"xii-059","TimeStamp":"\/Date(1564924921200)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Sh00ter","Message":"Yeah almost did that","GameId":"xii-059","TimeStamp":"\/Date(1564924933140)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"In Matric?","GameId":"xii-059","TimeStamp":"\/Date(1564924936749)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Sh00ter","Message":"Yup still in matric","GameId":"xii-059","TimeStamp":"\/Date(1564924947477)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"How you spell it? lol","GameId":"xii-059","TimeStamp":"\/Date(1564924948227)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Sh00ter","Message":"Idk","GameId":"xii-059","TimeStamp":"\/Date(1564924951026)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Sh00ter","Message":"We juat called it college","GameId":"xii-059","TimeStamp":"\/Date(1564924961090)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Sh00ter","Message":":p","GameId":"xii-059","TimeStamp":"\/Date(1564924963903)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"No. ","GameId":"xii-059","TimeStamp":"\/Date(1564924968606)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"We not!","GameId":"xii-059","TimeStamp":"\/Date(1564924972294)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Sh00ter","Message":"We do","GameId":"xii-059","TimeStamp":"\/Date(1564924975435)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"You lies!","GameId":"xii-059","TimeStamp":"\/Date(1564924980935)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"You really do?","GameId":"xii-059","TimeStamp":"\/Date(1564924991632)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Sh00ter","Message":"We do ?","GameId":"xii-059","TimeStamp":"\/Date(1564925004476)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"Him / spud ?","GameId":"xii-059","TimeStamp":"\/Date(1564925008241)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"here","GameId":"xii-059","TimeStamp":"\/Date(1564925035509)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Sh00ter","Message":"Meh, even my gf dumped me :')","GameId":"xii-059","TimeStamp":"\/Date(1564925053750)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Sh00ter","Message":"Welp","GameId":"xii-059","TimeStamp":"\/Date(1564925082159)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Sh00ter","Message":"When will dis this start ?","GameId":"xii-059","TimeStamp":"\/Date(1564925089691)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"You break up with her? ","GameId":"xii-059","TimeStamp":"\/Date(1564925096215)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"lol","GameId":"xii-059","TimeStamp":"\/Date(1564925098340)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Sh00ter","Message":"She did","GameId":"xii-059","TimeStamp":"\/Date(1564925100731)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"Now it sounds personal!","GameId":"xii-059","TimeStamp":"\/Date(1564925103153)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Sh00ter","Message":"Im too busy for everything lul","GameId":"xii-059","TimeStamp":"\/Date(1564925118191)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"She idiot","GameId":"xii-059","TimeStamp":"\/Date(1564925122800)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":":p","GameId":"xii-059","TimeStamp":"\/Date(1564925124348)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"XII","Message":"Just waiting for Him_Him","GameId":"xii-059","TimeStamp":"\/Date(1564925133973)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Sh00ter","Message":"Nah, im the one whom too busy","GameId":"xii-059","TimeStamp":"\/Date(1564925144545)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Sh00ter","Message":"*change subject*","GameId":"xii-059","TimeStamp":"\/Date(1564925156523)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Sh00ter","Message":"Wheres dory ?","GameId":"xii-059","TimeStamp":"\/Date(1564925161882)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"As long as you not abandon her...it's still her faults","GameId":"xii-059","TimeStamp":"\/Date(1564925186930)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":":p","GameId":"xii-059","TimeStamp":"\/Date(1564925189055)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"He probably swimming around. ","GameId":"xii-059","TimeStamp":"\/Date(1564925204367)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"Slow ","GameId":"xii-059","TimeStamp":"\/Date(1564925216492)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"I get tempted to make an afk kick timer for things like this!","GameId":"xii-059","TimeStamp":"\/Date(1564925223445)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"XII","Message":"Maybe I could start it and we could see if the Howl brings him back? :p","GameId":"xii-059","TimeStamp":"\/Date(1564925228336)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"well the discord pings didn't","GameId":"xii-059","TimeStamp":"\/Date(1564925235055)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"Wait!","GameId":"xii-059","TimeStamp":"\/Date(1564925237040)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Sh00ter","Message":"Wait!","GameId":"xii-059","TimeStamp":"\/Date(1564925241899)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"I will DM him!","GameId":"xii-059","TimeStamp":"\/Date(1564925245900)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Sh00ter","Message":"Go!","GameId":"xii-059","TimeStamp":"\/Date(1564925250946)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"XII","Message":"I'll give him two more minutes then I'll kick and start","GameId":"xii-059","TimeStamp":"\/Date(1564925299969)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"XII","Message":"@Kirsch - if I have more roles than players selected when I start the game, which one will be dropped?","GameId":"xii-059","TimeStamp":"\/Date(1564925346624)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"It won't even start... right?","GameId":"xii-059","TimeStamp":"\/Date(1564925374944)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"XII","Message":"Hmm","GameId":"xii-059","TimeStamp":"\/Date(1564925382897)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Sh00ter","Message":"Hmm","GameId":"xii-059","TimeStamp":"\/Date(1564925388209)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Giovanniboyy","Message":"Hmm","GameId":"xii-059","TimeStamp":"\/Date(1564925395006)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"XII","Message":"Let's find out","GameId":"xii-059","TimeStamp":"\/Date(1564925412427)\/"},{"__type":"Werewolf.GameEngine.Creation.PlayerLeftEvent, Werewolf.GameEngine","PlayerName":"Him_Him","Reason":"Kicked by Moderator","GameId":"xii-059","TimeStamp":"\/Date(1564925414255)\/"},{"__type":"Werewolf.GameEngine.Creation.GameStartedEvent, Werewolf.GameEngine","FirstDayLength":0,"NightLength":0,"DayLength":0,"DayDiscussionLength":0,"DefenceLength":0,"TrialLength":0,"LynchType":"MostVotes","PhaseTimeType":"FourOne","RoleAnnouncementMessageType":"Full","RoleList":["Alphawolf","Seer","MasonLeader","Huntsman","Lycan","Lycan"],"Host":"XII","NumberOfMasonLeaders":0,"NumberOfDirewolves":0,"NumberOfWolves":0,"NumberOfShapeshifters":0,"NumberOfBloodhounds":0,"NumberOfLycans":0,"NumberOfSeers":0,"NumberOfProtectors":0,"NumberOfHuntsmen":0,"NumberOfGravediggers":0,"NumberOfGraverobbers":0,"NumberOfRevivers":0,"NumberOfHarlots":0,"NumberOfVampires":0,"NumberOfFamiliarStalkers":0,"NumberOfAlphaWolves":0,"NumberOfStalkers":0,"NumberOfMilitia":0,"NumberOfMessiahs":0,"NumberOfDjinn":0,"NumberOfSuccubi":0,"NumberOfWitches":0,"NumberOfShamans":0,"NumberOfPuppetmasters":0,"NumberOfTarotReaders":0,"NumberOfWitchHunters":0,"NumberOfBeholders":0,"NumberOfZealots":0,"NumberOfSleepWalkers":0,"NumberOfDemonlords":0,"NumberOfHellhounds":0,"GameId":"xii-059","TimeStamp":"\/Date(1564925417869)\/"},{"__type":"Werewolf.GameEngine.Creation.NoLynchEnabled, Werewolf.GameEngine","GameId":"xii-059","TimeStamp":"\/Date(1564925417880)\/"},{"__type":"Werewolf.GameEngine.Creation.GameSetToFixedLengthSpeedGameCycle, Werewolf.GameEngine","DayLength":4,"NightLength":1,"GameId":"xii-059","TimeStamp":"\/Date(1564925417896)\/"},{"__type":"Werewolf.GameEngine.Core.AnonymisedGameStartedEvent, Werewolf.GameEngine","ThemeId":"StrangerThings","GameId":"xii-059","TimeStamp":"\/Date(1564925417944)\/"},{"__type":"Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine","OriginalName":"Kirschstein","NewName":"NancyWheeler","NewAvatarUrl":"/content/images/avatars/StrangerThings/NancyWheeler.png","GameId":"xii-059","TimeStamp":"\/Date(1564925417958)\/"},{"__type":"Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine","OriginalName":"Sh00ter","NewName":"PhilCallahan","NewAvatarUrl":"/content/images/avatars/StrangerThings/PhilCallahan.png","GameId":"xii-059","TimeStamp":"\/Date(1564925417989)\/"},{"__type":"Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine","OriginalName":"XII","NewName":"Carol","NewAvatarUrl":"/content/images/avatars/StrangerThings/Carol.png","GameId":"xii-059","TimeStamp":"\/Date(1564925418021)\/"},{"__type":"Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine","OriginalName":"Phyton","NewName":"Troy","NewAvatarUrl":"/content/images/avatars/StrangerThings/Troy.png","GameId":"xii-059","TimeStamp":"\/Date(1564925418052)\/"},{"__type":"Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine","OriginalName":"Giovanniboyy","NewName":"KarenWheeler","NewAvatarUrl":"/content/images/avatars/StrangerThings/KarenWheeler.png","GameId":"xii-059","TimeStamp":"\/Date(1564925418083)\/"},{"__type":"Werewolf.GameEngine.PlayerActivity.InactivitySmitingEnabled, Werewolf.GameEngine","GameId":"xii-059","TimeStamp":"\/Date(1564925418114)\/"},{"__type":"Werewolf.GameEngine.Roles.SeerAssignedEvent, Werewolf.GameEngine","PlayerName":"Giovanniboyy","GameId":"xii-059","TimeStamp":"\/Date(1564925418150)\/"},{"__type":"Werewolf.GameEngine.Roles.HuntsmanAssignedEvent, Werewolf.GameEngine","PlayerName":"Sh00ter","GameId":"xii-059","TimeStamp":"\/Date(1564925418161)\/"},{"__type":"Werewolf.GameEngine.Roles.LycanAssignedEvent, Werewolf.GameEngine","PlayerName":"XII","GameId":"xii-059","TimeStamp":"\/Date(1564925418177)\/"},{"__type":"Werewolf.GameEngine.Roles.MasonLeaderAssignedEvent, Werewolf.GameEngine","PlayerName":"Phyton","GameId":"xii-059","TimeStamp":"\/Date(1564925418177)\/"},{"__type":"Werewolf.GameEngine.Roles.LycanAssignedEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","GameId":"xii-059","TimeStamp":"\/Date(1564925418193)\/"},{"__type":"Werewolf.GameEngine.Items.DreamcatcherAllocated, Werewolf.GameEngine","PlayerName":"XII","ItemId":"52aaa660180a4268b306dd66b60c2ee4","GameId":"xii-059","TimeStamp":"\/Date(1564925418208)\/"},{"__type":"Werewolf.GameEngine.Items.CrossbowAllocated, Werewolf.GameEngine","PlayerName":"Sh00ter","ItemId":"5373dd7b43e247eea66b2c03ff1c8f66","GameId":"xii-059","TimeStamp":"\/Date(1564925418239)\/"},{"__type":"Werewolf.GameEngine.Core.ModeratorMessageEvent, Werewolf.GameEngine","Message":"There are: 1 Seer, 1 Huntsman, 2 Lycans and 1 MasonLeader.","GameId":"xii-059","TimeStamp":"\/Date(1564925418272)\/"},{"__type":"Werewolf.GameEngine.Creation.GameSetupFinished, Werewolf.GameEngine","GameId":"xii-059","TimeStamp":"\/Date(1564925418286)\/"},{"__type":"Werewolf.GameEngine.Roles.Village.Masons.MasonNightMessageEvent, Werewolf.GameEngine","PlayerName":"Phyton","Message":"I am a Mason Leader","Recipients":["Phyton"],"Eavesdroppers":["Default-Eavesdropper"],"GameId":"xii-059","TimeStamp":"\/Date(1564925418474)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"XII","Message":"pah","GameId":"xii-059","TimeStamp":"\/Date(1564925426626)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"XII","Message":"It dropped the wolf xD","GameId":"xii-059","TimeStamp":"\/Date(1564925430704)\/"},{"__type":"Werewolf.GameEngine.Phases.After.VillageVictoryEvent, Werewolf.GameEngine","WinningPlayers":["Giovanniboyy","Sh00ter","XII","Phyton","Kirschstein"],"GameId":"xii-059","TimeStamp":"\/Date(1564925436001)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"lol","PlayerName":"Kirschstein","OriginalName":"Kirschstein","GameId":"xii-059","TimeStamp":"\/Date(1564925436173)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"GG","PlayerName":"XII","OriginalName":"XII","GameId":"xii-059","TimeStamp":"\/Date(1564925438344)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"lol","PlayerName":"Giovanniboyy","OriginalName":"Giovanniboyy","GameId":"xii-059","TimeStamp":"\/Date(1564925438407)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"Lul","PlayerName":"Sh00ter","OriginalName":"Sh00ter","GameId":"xii-059","TimeStamp":"\/Date(1564925441704)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"Lols","PlayerName":"Phyton","OriginalName":"Phyton","GameId":"xii-059","TimeStamp":"\/Date(1564925448610)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"GG","PlayerName":"Sh00ter","OriginalName":"Sh00ter","GameId":"xii-059","TimeStamp":"\/Date(1564925450126)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"I was hoping it would drop from the bottom of the list, not the top","PlayerName":"XII","OriginalName":"XII","GameId":"xii-059","TimeStamp":"\/Date(1564925451407)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"re host it ","PlayerName":"Kirschstein","OriginalName":"Kirschstein","GameId":"xii-059","TimeStamp":"\/Date(1564925457668)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"Yeah","PlayerName":"Sh00ter","OriginalName":"Sh00ter","GameId":"xii-059","TimeStamp":"\/Date(1564925464587)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"Quickest game ever","PlayerName":"Sh00ter","OriginalName":"Sh00ter","GameId":"xii-059","TimeStamp":"\/Date(1564925470369)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"I want to recruit people","PlayerName":"Phyton","OriginalName":"Phyton","GameId":"xii-059","TimeStamp":"\/Date(1564925489911)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":":(","PlayerName":"Phyton","OriginalName":"Phyton","GameId":"xii-059","TimeStamp":"\/Date(1564925491443)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"https://werewolv.es/Game/Index/xii-060","PlayerName":"XII","OriginalName":"XII","GameId":"xii-059","TimeStamp":"\/Date(1564925518126)\/"}]
+[
+    {
+        "__type": "Werewolf.GameEngine.Creation.GameCreatedEvent, Werewolf.GameEngine",
+        "CreatedBy": "XII",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564922904759)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564922974255)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "Hi xii!",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564922991101)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "Heya",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564923001143)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "What's your real name? ",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564923200743)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "I just realise that you are one of those that I don't know their name. ",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564923234110)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "You think XII isn't my real name? :O",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564923268278)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "Sadly you'd be correct in thinking that. It's Simon ^^",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564923294606)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine",
+        "PlayerName": "AsianPencil",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564923362804)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564923380112)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "Heya",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564923390130)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "Hi",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564923397255)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "AsianPencil",
+        "Message": "hey dude",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564923405162)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.PlayerLeftEvent, Werewolf.GameEngine",
+        "PlayerName": "AsianPencil",
+        "Reason": "Quit",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564923419428)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564923437756)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine",
+        "PlayerName": "Him_Him",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564923476747)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Him_Him",
+        "Message": "I don't see sh00ter :thinking:",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564923499751)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "Hello Simon ^^",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564923550882)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "I'll give it a few more minutes anyway, I'm sorting some stuff out",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564923666878)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "hmm",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924317298)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "Well, I guess we can start if everyone is here and ready?",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924565500)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924630334)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine",
+        "PlayerName": "Sh00ter",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924712242)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "Ohai",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924719796)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Sh00ter",
+        "Message": "Hi simon",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924733906)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Sh00ter",
+        "Message": "Phyyyyyyyyyyyyyyyyyy",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924754227)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "give me 2 minutes",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924764464)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "Nice",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924766511)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Sh00ter",
+        "Message": "I might be able to play only once",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924806288)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": ":(",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924811377)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "you have been missing for ages",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924815111)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "Whyyyyy?",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924817533)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "Mark miss you.",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924829533)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Sh00ter",
+        "Message": "Yeah, been busy lately",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924833958)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "How can you hurt Mark like that?",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924843470)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Sh00ter",
+        "Message": ":(",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924849629)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "Kejam!",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924851957)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Sh00ter",
+        "Message": "Nuuuuuuuuuu",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924858447)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "Jahat!",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924887291)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": ":p",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924889478)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Sh00ter",
+        "Message": "Im enrolled for a foundation study, hence im busy as hell",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924894636)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "You change course?",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924908334)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Sh00ter",
+        "Message": "Nope",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924915747)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "I thought you...",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924921200)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Sh00ter",
+        "Message": "Yeah almost did that",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924933140)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "In Matric?",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924936749)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Sh00ter",
+        "Message": "Yup still in matric",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924947477)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "How you spell it? lol",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924948227)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Sh00ter",
+        "Message": "Idk",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924951026)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Sh00ter",
+        "Message": "We juat called it college",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924961090)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Sh00ter",
+        "Message": ":p",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924963903)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "No. ",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924968606)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "We not!",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924972294)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Sh00ter",
+        "Message": "We do",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924975435)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "You lies!",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924980935)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "You really do?",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564924991632)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Sh00ter",
+        "Message": "We do ?",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925004476)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "Him / spud ?",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925008241)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "here",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925035509)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Sh00ter",
+        "Message": "Meh, even my gf dumped me :')",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925053750)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Sh00ter",
+        "Message": "Welp",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925082159)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Sh00ter",
+        "Message": "When will dis this start ?",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925089691)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "You break up with her? ",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925096215)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "lol",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925098340)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Sh00ter",
+        "Message": "She did",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925100731)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "Now it sounds personal!",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925103153)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Sh00ter",
+        "Message": "Im too busy for everything lul",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925118191)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "She idiot",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925122800)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": ":p",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925124348)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "Just waiting for Him_Him",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925133973)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Sh00ter",
+        "Message": "Nah, im the one whom too busy",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925144545)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Sh00ter",
+        "Message": "*change subject*",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925156523)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Sh00ter",
+        "Message": "Wheres dory ?",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925161882)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "As long as you not abandon her...it's still her faults",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925186930)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": ":p",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925189055)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "He probably swimming around. ",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925204367)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "Slow ",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925216492)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "I get tempted to make an afk kick timer for things like this!",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925223445)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "Maybe I could start it and we could see if the Howl brings him back? :p",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925228336)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "well the discord pings didn't",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925235055)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "Wait!",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925237040)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Sh00ter",
+        "Message": "Wait!",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925241899)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "I will DM him!",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925245900)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Sh00ter",
+        "Message": "Go!",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925250946)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "I'll give him two more minutes then I'll kick and start",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925299969)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "@Kirsch - if I have more roles than players selected when I start the game, which one will be dropped?",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925346624)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "It won't even start... right?",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925374944)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "Hmm",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925382897)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Sh00ter",
+        "Message": "Hmm",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925388209)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "Message": "Hmm",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925395006)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "Let's find out",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925412427)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.PlayerLeftEvent, Werewolf.GameEngine",
+        "PlayerName": "Him_Him",
+        "Reason": "Kicked by Moderator",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925414255)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.GameStartedEvent, Werewolf.GameEngine",
+        "FirstDayLength": 0,
+        "NightLength": 0,
+        "DayLength": 0,
+        "DayDiscussionLength": 0,
+        "DefenceLength": 0,
+        "TrialLength": 0,
+        "LynchType": "MostVotes",
+        "PhaseTimeType": "FourOne",
+        "RoleAnnouncementMessageType": "Full",
+        "RoleList": [
+            "Alphawolf",
+            "Seer",
+            "MasonLeader",
+            "Huntsman",
+            "Lycan",
+            "Lycan"
+        ],
+        "Host": "XII",
+        "NumberOfMasonLeaders": 0,
+        "NumberOfDirewolves": 0,
+        "NumberOfWolves": 0,
+        "NumberOfShapeshifters": 0,
+        "NumberOfBloodhounds": 0,
+        "NumberOfLycans": 0,
+        "NumberOfSeers": 0,
+        "NumberOfProtectors": 0,
+        "NumberOfHuntsmen": 0,
+        "NumberOfGravediggers": 0,
+        "NumberOfGraverobbers": 0,
+        "NumberOfRevivers": 0,
+        "NumberOfHarlots": 0,
+        "NumberOfVampires": 0,
+        "NumberOfFamiliarStalkers": 0,
+        "NumberOfAlphaWolves": 0,
+        "NumberOfStalkers": 0,
+        "NumberOfMilitia": 0,
+        "NumberOfMessiahs": 0,
+        "NumberOfDjinn": 0,
+        "NumberOfSuccubi": 0,
+        "NumberOfWitches": 0,
+        "NumberOfShamans": 0,
+        "NumberOfPuppetmasters": 0,
+        "NumberOfTarotReaders": 0,
+        "NumberOfWitchHunters": 0,
+        "NumberOfBeholders": 0,
+        "NumberOfZealots": 0,
+        "NumberOfSleepWalkers": 0,
+        "NumberOfDemonlords": 0,
+        "NumberOfHellhounds": 0,
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925417869)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.NoLynchEnabled, Werewolf.GameEngine",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925417880)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.GameSetToFixedLengthSpeedGameCycle, Werewolf.GameEngine",
+        "DayLength": 4,
+        "NightLength": 1,
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925417896)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Core.AnonymisedGameStartedEvent, Werewolf.GameEngine",
+        "ThemeId": "StrangerThings",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925417944)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine",
+        "OriginalName": "Kirschstein",
+        "NewName": "NancyWheeler",
+        "NewAvatarUrl": "/content/images/avatars/StrangerThings/NancyWheeler.png",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925417958)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine",
+        "OriginalName": "Sh00ter",
+        "NewName": "PhilCallahan",
+        "NewAvatarUrl": "/content/images/avatars/StrangerThings/PhilCallahan.png",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925417989)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine",
+        "OriginalName": "XII",
+        "NewName": "Carol",
+        "NewAvatarUrl": "/content/images/avatars/StrangerThings/Carol.png",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925418021)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine",
+        "OriginalName": "Phyton",
+        "NewName": "Troy",
+        "NewAvatarUrl": "/content/images/avatars/StrangerThings/Troy.png",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925418052)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine",
+        "OriginalName": "Giovanniboyy",
+        "NewName": "KarenWheeler",
+        "NewAvatarUrl": "/content/images/avatars/StrangerThings/KarenWheeler.png",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925418083)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.PlayerActivity.InactivitySmitingEnabled, Werewolf.GameEngine",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925418114)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.SeerAssignedEvent, Werewolf.GameEngine",
+        "PlayerName": "Giovanniboyy",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925418150)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.HuntsmanAssignedEvent, Werewolf.GameEngine",
+        "PlayerName": "Sh00ter",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925418161)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.LycanAssignedEvent, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925418177)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.MasonLeaderAssignedEvent, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925418177)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.LycanAssignedEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925418193)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Items.DreamcatcherAllocated, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "ItemId": "52aaa660180a4268b306dd66b60c2ee4",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925418208)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Items.CrossbowAllocated, Werewolf.GameEngine",
+        "PlayerName": "Sh00ter",
+        "ItemId": "5373dd7b43e247eea66b2c03ff1c8f66",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925418239)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Core.ModeratorMessageEvent, Werewolf.GameEngine",
+        "Message": "There are: 1 Seer, 1 Huntsman, 2 Lycans and 1 MasonLeader.",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925418272)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.GameSetupFinished, Werewolf.GameEngine",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925418286)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.Village.Masons.MasonNightMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "I am a Mason Leader",
+        "Recipients": [
+            "Phyton"
+        ],
+        "Eavesdroppers": [
+            "Default-Eavesdropper"
+        ],
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925418474)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "pah",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925426626)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "XII",
+        "Message": "It dropped the wolf xD",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925430704)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.After.VillageVictoryEvent, Werewolf.GameEngine",
+        "WinningPlayers": [
+            "Giovanniboyy",
+            "Sh00ter",
+            "XII",
+            "Phyton",
+            "Kirschstein"
+        ],
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925436001)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "lol",
+        "PlayerName": "Kirschstein",
+        "OriginalName": "Kirschstein",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925436173)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "GG",
+        "PlayerName": "XII",
+        "OriginalName": "XII",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925438344)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "lol",
+        "PlayerName": "Giovanniboyy",
+        "OriginalName": "Giovanniboyy",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925438407)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "Lul",
+        "PlayerName": "Sh00ter",
+        "OriginalName": "Sh00ter",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925441704)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "Lols",
+        "PlayerName": "Phyton",
+        "OriginalName": "Phyton",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925448610)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "GG",
+        "PlayerName": "Sh00ter",
+        "OriginalName": "Sh00ter",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925450126)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "I was hoping it would drop from the bottom of the list, not the top",
+        "PlayerName": "XII",
+        "OriginalName": "XII",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925451407)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "re host it ",
+        "PlayerName": "Kirschstein",
+        "OriginalName": "Kirschstein",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925457668)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "Yeah",
+        "PlayerName": "Sh00ter",
+        "OriginalName": "Sh00ter",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925464587)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "Quickest game ever",
+        "PlayerName": "Sh00ter",
+        "OriginalName": "Sh00ter",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925470369)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "I want to recruit people",
+        "PlayerName": "Phyton",
+        "OriginalName": "Phyton",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925489911)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": ":(",
+        "PlayerName": "Phyton",
+        "OriginalName": "Phyton",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925491443)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "https://werewolv.es/Game/Index/xii-060",
+        "PlayerName": "XII",
+        "OriginalName": "XII",
+        "GameId": "xii-059",
+        "TimeStamp": "\/Date(1564925518126)\/"
+    }
+]
