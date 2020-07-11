@@ -1,0 +1,1 @@
+[{"__type":"Werewolf.GameEngine.Creation.GameCreatedEvent, Werewolf.GameEngine","CreatedBy":"Mark_T","IsPrivate":true,"GameId":"elb-066","TimeStamp":"2020-05-29T14:01:11.1885916Z"},{"__type":"Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine","PlayerName":"Mark_T","GameId":"elb-066","TimeStamp":"2020-05-29T14:01:22.9493538Z"}]

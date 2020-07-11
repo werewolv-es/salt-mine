@@ -1,0 +1,1 @@
+[{"__type":"Werewolf.GameEngine.Creation.GameCreatedEvent, Werewolf.GameEngine","CreatedBy":"Samool","IsPrivate":true,"GameId":"moo-010","TimeStamp":"2020-07-10T13:23:38.5120241Z"},{"__type":"Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine","PlayerName":"Samool","GameId":"moo-010","TimeStamp":"2020-07-10T13:23:41.5507126Z"}]
