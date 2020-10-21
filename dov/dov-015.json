@@ -1,0 +1,1 @@
+[{"__type":"Werewolf.GameEngine.Creation.GameCreatedEvent, Werewolf.GameEngine","CreatedBy":"Diamond_Dove","IsPrivate":true,"GameId":"dov-015","TimeStamp":"2020-08-12T19:44:57.3275736Z"},{"__type":"Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine","PlayerName":"Diamond_Dove","GameId":"dov-015","TimeStamp":"2020-08-12T19:45:11.8814165Z"}]
