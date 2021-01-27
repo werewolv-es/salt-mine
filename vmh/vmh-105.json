@@ -1,0 +1,1 @@
+[{"__type":"Werewolf.GameEngine.Creation.GameCreatedEvent, Werewolf.GameEngine","CreatedBy":"ImTownSRSLY","IsPrivate":true,"GameId":"vmh-105","TimeStamp":"2020-12-27T02:41:00.553025Z"},{"__type":"Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine","PlayerName":"ImTownSRSLY","GameId":"vmh-105","TimeStamp":"2020-12-27T02:41:12.3040272Z"}]
