@@ -1,0 +1,1 @@
+[{"__type":"Werewolf.GameEngine.Creation.GameCreatedEvent, Werewolf.GameEngine","CreatedBy":"Banquoe","IsPrivate":true,"GameId":"ban-001","TimeStamp":"2021-03-08T22:50:09.5636095Z"},{"__type":"Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine","PlayerName":"Banquoe","GameId":"ban-001","TimeStamp":"2021-03-08T22:50:18.7655013Z"}]
