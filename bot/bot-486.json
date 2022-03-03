@@ -1,1 +1,1051 @@
-[{"__type":"Werewolf.GameEngine.Creation.GameCreatedEvent, Werewolf.GameEngine","CreatedBy":"SpeedGameBot","GameId":"bot-486","TimeStamp":"\/Date(1563640702223)\/"},{"__type":"Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine","PlayerName":"Phyton","GameId":"bot-486","TimeStamp":"\/Date(1563640712750)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"SpeedGameBot","Message":"Game is ready. Once this game has enough players, the activity check can be completed using $$check in this lobby, and once this passes the game can be started with $$go","GameId":"bot-486","TimeStamp":"\/Date(1563640714188)\/"},{"__type":"Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","GameId":"bot-486","TimeStamp":"\/Date(1563640716501)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"LET'S DO THIS!","GameId":"bot-486","TimeStamp":"\/Date(1563640719782)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"huk!","GameId":"bot-486","TimeStamp":"\/Date(1563640758196)\/"},{"__type":"Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine","PlayerName":"B1G_UK","GameId":"bot-486","TimeStamp":"\/Date(1563640787686)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"B1G_UK","Message":"Ok, I'm in","GameId":"bot-486","TimeStamp":"\/Date(1563640793288)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"hey","GameId":"bot-486","TimeStamp":"\/Date(1563640795819)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"B1G_UK","Message":"Hi","GameId":"bot-486","TimeStamp":"\/Date(1563640800590)\/"},{"__type":"Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine","PlayerName":"khaleesi","GameId":"bot-486","TimeStamp":"\/Date(1563640806371)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"khaleesi","Message":"Hey","GameId":"bot-486","TimeStamp":"\/Date(1563640810794)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"khaleesi","Message":"Pyton long time no see lol","GameId":"bot-486","TimeStamp":"\/Date(1563640835189)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"Hello khaleesi ^^","GameId":"bot-486","TimeStamp":"\/Date(1563640909002)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"khaleesi","Message":"Howve you been?","GameId":"bot-486","TimeStamp":"\/Date(1563640948040)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"I'm a little bit busy lately","GameId":"bot-486","TimeStamp":"\/Date(1563640967920)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"How about you?","GameId":"bot-486","TimeStamp":"\/Date(1563640972888)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"khaleesi","Message":"Same, just got a baby chameleon","GameId":"bot-486","TimeStamp":"\/Date(1563640981421)\/"},{"__type":"Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine","PlayerName":"Rose22","GameId":"bot-486","TimeStamp":"\/Date(1563641004587)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"greetings","GameId":"bot-486","TimeStamp":"\/Date(1563641015464)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"This? https://i.pinimg.com/originals/72/97/e9/7297e90cf35c50de6b54a62bc494df3b.jpg","GameId":"bot-486","TimeStamp":"\/Date(1563641032234)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"What they eat?","GameId":"bot-486","TimeStamp":"\/Date(1563641036531)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"khaleesi","Message":"Yep! Baby crickets, meal worms, and as a treat soilder fly larva","GameId":"bot-486","TimeStamp":"\/Date(1563641060369)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"Good luck. Don't kill them!","GameId":"bot-486","TimeStamp":"\/Date(1563641145541)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"khaleesi","Message":"I won't! Hes my 4th reptile","GameId":"bot-486","TimeStamp":"\/Date(1563641217539)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"shall we do a 5er?","GameId":"bot-486","TimeStamp":"\/Date(1563641219291)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"Yeah.","GameId":"bot-486","TimeStamp":"\/Date(1563641244436)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"$$check","GameId":"bot-486","TimeStamp":"\/Date(1563641251020)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"SpeedGameBot","Message":"Starting activity check, all players must say something in the next 5 minutes.","GameId":"bot-486","TimeStamp":"\/Date(1563641251194)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Phyton","Message":"I don't think we will get more then this.","GameId":"bot-486","TimeStamp":"\/Date(1563641275963)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"khaleesi","Message":"Aye","GameId":"bot-486","TimeStamp":"\/Date(1563641282338)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"sure","GameId":"bot-486","TimeStamp":"\/Date(1563641302807)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"B1G_UK","Message":"Ok","GameId":"bot-486","TimeStamp":"\/Date(1563641320947)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Rose22","Message":"Hello","GameId":"bot-486","TimeStamp":"\/Date(1563641326566)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"SpeedGameBot","Message":"Activity check complete!","GameId":"bot-486","TimeStamp":"\/Date(1563641326644)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"use the player button at the top","GameId":"bot-486","TimeStamp":"\/Date(1563641336053)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"to do all actions","GameId":"bot-486","TimeStamp":"\/Date(1563641337787)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"the one with the 5 next to it","GameId":"bot-486","TimeStamp":"\/Date(1563641340711)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"$$go","GameId":"bot-486","TimeStamp":"\/Date(1563641346131)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"SpeedGameBot","Message":"Attempting to start 5 player game.","GameId":"bot-486","TimeStamp":"\/Date(1563641346355)\/"},{"__type":"Werewolf.GameEngine.Creation.GameSpyJoinedEvent, Werewolf.GameEngine","PlayerName":"SpeedGameBot","GameId":"bot-486","TimeStamp":"\/Date(1563641347334)\/"},{"__type":"Werewolf.GameEngine.Creation.GameStartedEvent, Werewolf.GameEngine","FirstDayLength":0,"NightLength":0,"DayLength":0,"DayDiscussionLength":0,"DefenceLength":0,"TrialLength":0,"LynchType":"MostVotes","PhaseTimeType":"VariableSpud","RoleAnnouncementMessageType":"Full","RoleList":["Werewolf","Harlot","Villager","Sleepwalker","Stalker"],"Host":"SpeedGameBot","NumberOfMasonLeaders":0,"NumberOfDirewolves":0,"NumberOfWolves":0,"NumberOfShapeshifters":0,"NumberOfBloodhounds":0,"NumberOfLycans":0,"NumberOfSeers":0,"NumberOfProtectors":0,"NumberOfHuntsmen":0,"NumberOfGravediggers":0,"NumberOfGraverobbers":0,"NumberOfRevivers":0,"NumberOfHarlots":0,"NumberOfVampires":0,"NumberOfFamiliarStalkers":0,"NumberOfAlphaWolves":0,"NumberOfStalkers":0,"NumberOfMilitia":0,"NumberOfMessiahs":0,"NumberOfDjinn":0,"NumberOfSuccubi":0,"NumberOfWitches":0,"NumberOfShamans":0,"NumberOfPuppetmasters":0,"NumberOfTarotReaders":0,"NumberOfWitchHunters":0,"NumberOfBeholders":0,"NumberOfZealots":0,"NumberOfSleepWalkers":0,"NumberOfDemonlords":0,"NumberOfHellhounds":0,"GameId":"bot-486","TimeStamp":"\/Date(1563641347350)\/"},{"__type":"Werewolf.GameEngine.Creation.NoLynchEnabled, Werewolf.GameEngine","GameId":"bot-486","TimeStamp":"\/Date(1563641347381)\/"},{"__type":"Werewolf.GameEngine.Creation.GameSetToVariableLengthSpeedGameCycle, Werewolf.GameEngine","GameId":"bot-486","TimeStamp":"\/Date(1563641347381)\/"},{"__type":"Werewolf.GameEngine.Core.AnonymisedGameStartedEvent, Werewolf.GameEngine","ThemeId":"Transformers","GameId":"bot-486","TimeStamp":"\/Date(1563641347412)\/"},{"__type":"Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine","OriginalName":"B1G_UK","NewName":"Brainstorm","NewAvatarUrl":"/content/images/avatars/Transformers/Brainstorm.png","GameId":"bot-486","TimeStamp":"\/Date(1563641347412)\/"},{"__type":"Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine","OriginalName":"Rose22","NewName":"Vos","NewAvatarUrl":"/content/images/avatars/Transformers/Vos.png","GameId":"bot-486","TimeStamp":"\/Date(1563641347459)\/"},{"__type":"Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine","OriginalName":"Phyton","NewName":"Fulcrum","NewAvatarUrl":"/content/images/avatars/Transformers/Fulcrum.png","GameId":"bot-486","TimeStamp":"\/Date(1563641347490)\/"},{"__type":"Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine","OriginalName":"khaleesi","NewName":"Windblade","NewAvatarUrl":"/content/images/avatars/Transformers/Windblade.png","GameId":"bot-486","TimeStamp":"\/Date(1563641347631)\/"},{"__type":"Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine","OriginalName":"Kirschstein","NewName":"Arcee","NewAvatarUrl":"/content/images/avatars/Transformers/Arcee.png","GameId":"bot-486","TimeStamp":"\/Date(1563641347756)\/"},{"__type":"Werewolf.GameEngine.PlayerActivity.InactivitySmitingEnabled, Werewolf.GameEngine","GameId":"bot-486","TimeStamp":"\/Date(1563641347897)\/"},{"__type":"Werewolf.GameEngine.Roles.StalkerAssignedEvent, Werewolf.GameEngine","PlayerName":"Phyton","GameId":"bot-486","TimeStamp":"\/Date(1563641347944)\/"},{"__type":"Werewolf.GameEngine.Roles.WerewolfAssignedEvent, Werewolf.GameEngine","PlayerName":"khaleesi","GameId":"bot-486","TimeStamp":"\/Date(1563641347959)\/"},{"__type":"Werewolf.GameEngine.Roles.HarlotAssignedEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","GameId":"bot-486","TimeStamp":"\/Date(1563641347959)\/"},{"__type":"Werewolf.GameEngine.Roles.SleepwalkerAssignedEvent, Werewolf.GameEngine","PlayerName":"Rose22","GameId":"bot-486","TimeStamp":"\/Date(1563641347980)\/"},{"__type":"Werewolf.GameEngine.Roles.VillagerAssignedEvent, Werewolf.GameEngine","PlayerName":"B1G_UK","GameId":"bot-486","TimeStamp":"\/Date(1563641347990)\/"},{"__type":"Werewolf.GameEngine.Items.AccurrumAllocated, Werewolf.GameEngine","PlayerName":"B1G_UK","ItemId":"4badf60ef3c94d7890e3a9e2d544ba52","GameId":"bot-486","TimeStamp":"\/Date(1563641348006)\/"},{"__type":"Werewolf.GameEngine.Core.ModeratorMessageEvent, Werewolf.GameEngine","Message":"There are: 1 Stalker, 1 Werewolf, 1 Harlot, 1 Sleepwalker and 1 Villager.","GameId":"bot-486","TimeStamp":"\/Date(1563641348022)\/"},{"__type":"Werewolf.GameEngine.Items.ItemsInGameAnnounced, Werewolf.GameEngine","RandomlyAssigned":["Accurrum"],"AssignedToRoles":{},"GameId":"bot-486","TimeStamp":"\/Date(1563641348037)\/"},{"__type":"Werewolf.GameEngine.Creation.GameSetupFinished, Werewolf.GameEngine","GameId":"bot-486","TimeStamp":"\/Date(1563641348053)\/"},{"__type":"Werewolf.GameEngine.Chatting.WerewolfNightMessageEvent, Werewolf.GameEngine","PlayerName":"khaleesi","Message":"I am a Werewolf","Recipients":["khaleesi"],"Eavesdroppers":["Default-Eavesdropper","Default-Eavesdropper"],"GameId":"bot-486","TimeStamp":"\/Date(1563641348194)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"i fear no night 1 death","GameId":"bot-486","TimeStamp":"\/Date(1563641360991)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"for i am bait","GameId":"bot-486","TimeStamp":"\/Date(1563641378153)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"khaleesi","Message":"Your bait?","GameId":"bot-486","TimeStamp":"\/Date(1563641410182)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"Yes, expendable material that the wolves can munch on","GameId":"bot-486","TimeStamp":"\/Date(1563641420840)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"welll.. wolf","GameId":"bot-486","TimeStamp":"\/Date(1563641435183)\/"},{"__type":"Werewolf.GameEngine.Phases.Night.NightStartsSoonWarningGiven, Werewolf.GameEngine","FlavourText":"The first star of the night can be seen...","GameId":"bot-486","TimeStamp":"\/Date(1563641435683)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Phyton","Message":"Hello :)","GameId":"bot-486","TimeStamp":"\/Date(1563641447003)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Phyton","Message":"What theme is this?","GameId":"bot-486","TimeStamp":"\/Date(1563641458441)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"a shit one","GameId":"bot-486","TimeStamp":"\/Date(1563641464019)\/"},{"__type":"Werewolf.GameEngine.Phases.Night.NightStartedEvent, Werewolf.GameEngine","NightNumber":1,"PhaseLength":0,"GameId":"bot-486","TimeStamp":"\/Date(1563641470652)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"khaleesi","PlayerNames":["Phyton","Kirschstein","Rose22","B1G_UK"],"ActionName":"Kill","Message":"The wolfpack have 1 kill tonight","GameId":"bot-486","TimeStamp":"\/Date(1563641470652)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"Kirschstein","PlayerNames":["Phyton","khaleesi","Rose22","B1G_UK"],"ActionName":"Visit","GameId":"bot-486","TimeStamp":"\/Date(1563641470652)\/"},{"__type":"Werewolf.GameEngine.Items.ItemAvailable, Werewolf.GameEngine","ItemIndex":0,"ItemName":"Accurrum","Description":"The Accurrum can be used once per game. The day after it is activated will be shorter than normal","PlayerWithItem":"B1G_UK","ActionName":"Activate","PlayerNames":["B1G_UK"],"GameId":"bot-486","TimeStamp":"\/Date(1563641470652)\/"},{"__type":"Werewolf.GameEngine.Roles.NightTargetChosenEvent, Werewolf.GameEngine","Confirmation":"Tonight you will see who visits $Rose22","PlayerWithRole":"Kirschstein","Role":"Harlot","Target":"Rose22","GameId":"bot-486","TimeStamp":"\/Date(1563641475702)\/"},{"__type":"Werewolf.GameEngine.Roles.NightTargetChosenEvent, Werewolf.GameEngine","Confirmation":"Tonight you will follow $B1G_UK and see who they visit","PlayerWithRole":"Phyton","Role":"Stalker","Target":"B1G_UK","GameId":"bot-486","TimeStamp":"\/Date(1563641487934)\/"},{"__type":"Werewolf.GameEngine.Phases.Night.WerewolfVoteEvent, Werewolf.GameEngine","Werewolf":"khaleesi","Target":"Rose22","Recipients":["khaleesi"],"MaxKillCount":1,"ThisKill":1,"GameId":"bot-486","TimeStamp":"\/Date(1563641490950)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.DayStartsSoonWarningGiven, Werewolf.GameEngine","FlavourText":"The sun begins to rise...","GameId":"bot-486","TimeStamp":"\/Date(1563641495685)\/"},{"__type":"Werewolf.GameEngine.Roles.Village.Harlot.HarlotSawVisit, Werewolf.GameEngine","Harlot":"Kirschstein","Target":"Rose22","Visitor":"khaleesi","GameId":"bot-486","TimeStamp":"\/Date(1563641530646)\/"},{"__type":"Werewolf.GameEngine.Roles.Village.Stalker.StalkerSawNoVisit, Werewolf.GameEngine","Stalker":"Phyton","Target":"B1G_UK","GameId":"bot-486","TimeStamp":"\/Date(1563641530646)\/"},{"__type":"Werewolf.GameEngine.Phases.Night.PlayerKilledEvent, Werewolf.GameEngine","PlayerName":"Rose22","CauseOfDeath":"Werewolf","GameId":"bot-486","TimeStamp":"\/Date(1563641530646)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.DayStartedEvent, Werewolf.GameEngine","DayNumber":2,"PhaseLength":0,"DiscussionLength":0,"GameId":"bot-486","TimeStamp":"\/Date(1563641530646)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"am harlot","GameId":"bot-486","TimeStamp":"\/Date(1563641547662)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"khaleesi","Message":"Vos was killed?","GameId":"bot-486","TimeStamp":"\/Date(1563641549631)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Phyton","Message":"Okay...","GameId":"bot-486","TimeStamp":"\/Date(1563641552349)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"no visitors","GameId":"bot-486","TimeStamp":"\/Date(1563641553178)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.VillageNominationsOpenedEvent, Werewolf.GameEngine","TimeLeft":0,"GameId":"bot-486","TimeStamp":"\/Date(1563641555678)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.NoLynchOptionAvailable, Werewolf.GameEngine","GameId":"bot-486","TimeStamp":"\/Date(1563641555678)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"any cc?","GameId":"bot-486","TimeStamp":"\/Date(1563641558712)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Phyton","Message":"Who did you visit? ","GameId":"bot-486","TimeStamp":"\/Date(1563641567034)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Phyton","Message":"Nope. ","GameId":"bot-486","TimeStamp":"\/Date(1563641571775)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"B1G_UK","Message":"Only 1 evil character in this game?","GameId":"bot-486","TimeStamp":"\/Date(1563641572822)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Phyton","Message":"Only one.","GameId":"bot-486","TimeStamp":"\/Date(1563641579532)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"cool, cos i lied about the \"no visitors bit\"","GameId":"bot-486","TimeStamp":"\/Date(1563641583749)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"I got lucky with my guess and slept with Vos, i know the killer","GameId":"bot-486","TimeStamp":"\/Date(1563641591858)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"B1G_UK","Message":"We must be able to find them ","GameId":"bot-486","TimeStamp":"\/Date(1563641592664)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Phyton","Message":"Who is it?","GameId":"bot-486","TimeStamp":"\/Date(1563641607432)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.VillageNominationEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","Target":"khaleesi","GameId":"bot-486","TimeStamp":"\/Date(1563641608075)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"^ massive hint","GameId":"bot-486","TimeStamp":"\/Date(1563641612410)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.VillageNominationEvent, Werewolf.GameEngine","PlayerName":"Phyton","Target":"khaleesi","GameId":"bot-486","TimeStamp":"\/Date(1563641614729)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"B1G_UK","Message":"Why?","GameId":"bot-486","TimeStamp":"\/Date(1563641616840)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"khaleesi","Message":"I didn't kill him?","GameId":"bot-486","TimeStamp":"\/Date(1563641630987)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"Yes you did","GameId":"bot-486","TimeStamp":"\/Date(1563641641399)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Phyton","Message":"Arcee saw Windblade visit Vos last night. ","GameId":"bot-486","TimeStamp":"\/Date(1563641645353)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"B1G_UK","Message":"You trust that?","GameId":"bot-486","TimeStamp":"\/Date(1563641661681)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"khaleesi","Message":"Im sleepwalker","GameId":"bot-486","TimeStamp":"\/Date(1563641663869)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"top name seemed too obvious a check, so i went with the second","GameId":"bot-486","TimeStamp":"\/Date(1563641664931)\/"},{"__type":"Werewolf.GameEngine.Phases.Night.NightStartsSoonWarningGiven, Werewolf.GameEngine","FlavourText":"It will soon be dark...","GameId":"bot-486","TimeStamp":"\/Date(1563641675613)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Phyton","Message":"How you know you SW or Vanilla?","GameId":"bot-486","TimeStamp":"\/Date(1563641683271)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"B1G_UK","Message":"Ok let's try","GameId":"bot-486","TimeStamp":"\/Date(1563641687474)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Kirschstein","Message":"you don't","GameId":"bot-486","TimeStamp":"\/Date(1563641687928)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"B1G_UK","Message":"?","GameId":"bot-486","TimeStamp":"\/Date(1563641692155)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.VillageNominationEvent, Werewolf.GameEngine","PlayerName":"khaleesi","Target":"Kirschstein","GameId":"bot-486","TimeStamp":"\/Date(1563641697893)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.VillageNominationEvent, Werewolf.GameEngine","PlayerName":"B1G_UK","Target":"khaleesi","GameId":"bot-486","TimeStamp":"\/Date(1563641699847)\/"},{"__type":"Werewolf.GameEngine.Phases.Night.NightStartedEvent, Werewolf.GameEngine","NightNumber":2,"PhaseLength":0,"GameId":"bot-486","TimeStamp":"\/Date(1563641710644)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.PlayerLynchedEvent, Werewolf.GameEngine","PlayerName":"khaleesi","GameId":"bot-486","TimeStamp":"\/Date(1563641710644)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"khaleesi","PlayerNames":["Phyton","Kirschstein","B1G_UK"],"ActionName":"Kill","Message":"The wolfpack have 1 kill tonight","GameId":"bot-486","TimeStamp":"\/Date(1563641710644)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"Kirschstein","PlayerNames":["Phyton","B1G_UK"],"ActionName":"Visit","GameId":"bot-486","TimeStamp":"\/Date(1563641710644)\/"},{"__type":"Werewolf.GameEngine.Items.ItemAvailable, Werewolf.GameEngine","ItemIndex":0,"ItemName":"Accurrum","Description":"The Accurrum can be used once per game. The day after it is activated will be shorter than normal","PlayerWithItem":"B1G_UK","ActionName":"Activate","PlayerNames":["B1G_UK"],"GameId":"bot-486","TimeStamp":"\/Date(1563641710644)\/"},{"__type":"Werewolf.GameEngine.Roles.NightTargetChosenEvent, Werewolf.GameEngine","Confirmation":"Tonight you will see who visits $Phyton","PlayerWithRole":"Kirschstein","Role":"Harlot","Target":"Phyton","GameId":"bot-486","TimeStamp":"\/Date(1563641714165)\/"},{"__type":"Werewolf.GameEngine.Phases.After.VillageVictoryEvent, Werewolf.GameEngine","WinningPlayers":["Phyton","Kirschstein","Rose22","B1G_UK"],"GameId":"bot-486","TimeStamp":"\/Date(1563641717681)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"Nice","PlayerName":"B1G_UK","OriginalName":"B1G_UK","GameId":"bot-486","TimeStamp":"\/Date(1563641731826)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"Damn","PlayerName":"khaleesi","OriginalName":"khaleesi","GameId":"bot-486","TimeStamp":"\/Date(1563641733497)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"Good check","PlayerName":"Phyton","OriginalName":"Phyton","GameId":"bot-486","TimeStamp":"\/Date(1563641740186)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":":p","PlayerName":"Phyton","OriginalName":"Phyton","GameId":"bot-486","TimeStamp":"\/Date(1563641741422)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"if you get a miss lynch on d2 with wolf on this","PlayerName":"Kirschstein","OriginalName":"Kirschstein","GameId":"bot-486","TimeStamp":"\/Date(1563641744703)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"you win the game","PlayerName":"Kirschstein","OriginalName":"Kirschstein","GameId":"bot-486","TimeStamp":"\/Date(1563641746484)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"so i think you need to bluff hard","PlayerName":"Kirschstein","OriginalName":"Kirschstein","GameId":"bot-486","TimeStamp":"\/Date(1563641749680)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"Think the evils need a bigger team ","PlayerName":"B1G_UK","OriginalName":"B1G_UK","GameId":"bot-486","TimeStamp":"\/Date(1563641795511)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"so i left you no room to cc harlot when i started my claim","PlayerName":"Kirschstein","OriginalName":"Kirschstein","GameId":"bot-486","TimeStamp":"\/Date(1563641797432)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"in a 5 p game, 1 is about as many evils as you can have really","PlayerName":"Kirschstein","OriginalName":"Kirschstein","GameId":"bot-486","TimeStamp":"\/Date(1563641818826)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"unless all the villagers have some form of extra life","PlayerName":"Kirschstein","OriginalName":"Kirschstein","GameId":"bot-486","TimeStamp":"\/Date(1563641826334)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"Yeah, I hear you","PlayerName":"B1G_UK","OriginalName":"B1G_UK","GameId":"bot-486","TimeStamp":"\/Date(1563641852572)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"They would have get real lucky ","PlayerName":"B1G_UK","OriginalName":"B1G_UK","GameId":"bot-486","TimeStamp":"\/Date(1563641877301)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"A lot of the good players had powers aswell, which is even harder","PlayerName":"B1G_UK","OriginalName":"B1G_UK","GameId":"bot-486","TimeStamp":"\/Date(1563641901748)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"there are lots of different setups","PlayerName":"Kirschstein","OriginalName":"Kirschstein","GameId":"bot-486","TimeStamp":"\/Date(1563641910613)\/"}]
+[
+    {
+        "__type": "Werewolf.GameEngine.Creation.GameCreatedEvent, Werewolf.GameEngine",
+        "CreatedBy": "SpeedGameBot",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563640702223)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563640712750)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "SpeedGameBot",
+        "Message": "Game is ready. Once this game has enough players, the activity check can be completed using $$check in this lobby, and once this passes the game can be started with $$go",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563640714188)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563640716501)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "LET'S DO THIS!",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563640719782)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "huk!",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563640758196)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine",
+        "PlayerName": "B1G_UK",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563640787686)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "B1G_UK",
+        "Message": "Ok, I'm in",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563640793288)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "hey",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563640795819)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "B1G_UK",
+        "Message": "Hi",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563640800590)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine",
+        "PlayerName": "khaleesi",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563640806371)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "khaleesi",
+        "Message": "Hey",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563640810794)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "khaleesi",
+        "Message": "Pyton long time no see lol",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563640835189)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "Hello khaleesi ^^",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563640909002)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "khaleesi",
+        "Message": "Howve you been?",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563640948040)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "I'm a little bit busy lately",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563640967920)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "How about you?",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563640972888)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "khaleesi",
+        "Message": "Same, just got a baby chameleon",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563640981421)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine",
+        "PlayerName": "Rose22",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641004587)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "greetings",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641015464)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "This? https://i.pinimg.com/originals/72/97/e9/7297e90cf35c50de6b54a62bc494df3b.jpg",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641032234)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "What they eat?",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641036531)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "khaleesi",
+        "Message": "Yep! Baby crickets, meal worms, and as a treat soilder fly larva",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641060369)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "Good luck. Don't kill them!",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641145541)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "khaleesi",
+        "Message": "I won't! Hes my 4th reptile",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641217539)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "shall we do a 5er?",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641219291)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "Yeah.",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641244436)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "$$check",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641251020)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "SpeedGameBot",
+        "Message": "Starting activity check, all players must say something in the next 5 minutes.",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641251194)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "I don't think we will get more then this.",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641275963)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "khaleesi",
+        "Message": "Aye",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641282338)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "sure",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641302807)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "B1G_UK",
+        "Message": "Ok",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641320947)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Rose22",
+        "Message": "Hello",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641326566)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "SpeedGameBot",
+        "Message": "Activity check complete!",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641326644)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "use the player button at the top",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641336053)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "to do all actions",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641337787)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "the one with the 5 next to it",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641340711)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "$$go",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641346131)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "SpeedGameBot",
+        "Message": "Attempting to start 5 player game.",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641346355)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.GameSpyJoinedEvent, Werewolf.GameEngine",
+        "PlayerName": "SpeedGameBot",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641347334)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.GameStartedEvent, Werewolf.GameEngine",
+        "FirstDayLength": 0,
+        "NightLength": 0,
+        "DayLength": 0,
+        "DayDiscussionLength": 0,
+        "DefenceLength": 0,
+        "TrialLength": 0,
+        "LynchType": "MostVotes",
+        "PhaseTimeType": "VariableSpud",
+        "RoleAnnouncementMessageType": "Full",
+        "RoleList": [
+            "Werewolf",
+            "Harlot",
+            "Villager",
+            "Sleepwalker",
+            "Stalker"
+        ],
+        "Host": "SpeedGameBot",
+        "NumberOfMasonLeaders": 0,
+        "NumberOfDirewolves": 0,
+        "NumberOfWolves": 0,
+        "NumberOfShapeshifters": 0,
+        "NumberOfBloodhounds": 0,
+        "NumberOfLycans": 0,
+        "NumberOfSeers": 0,
+        "NumberOfProtectors": 0,
+        "NumberOfHuntsmen": 0,
+        "NumberOfGravediggers": 0,
+        "NumberOfGraverobbers": 0,
+        "NumberOfRevivers": 0,
+        "NumberOfHarlots": 0,
+        "NumberOfVampires": 0,
+        "NumberOfFamiliarStalkers": 0,
+        "NumberOfAlphaWolves": 0,
+        "NumberOfStalkers": 0,
+        "NumberOfMilitia": 0,
+        "NumberOfMessiahs": 0,
+        "NumberOfDjinn": 0,
+        "NumberOfSuccubi": 0,
+        "NumberOfWitches": 0,
+        "NumberOfShamans": 0,
+        "NumberOfPuppetmasters": 0,
+        "NumberOfTarotReaders": 0,
+        "NumberOfWitchHunters": 0,
+        "NumberOfBeholders": 0,
+        "NumberOfZealots": 0,
+        "NumberOfSleepWalkers": 0,
+        "NumberOfDemonlords": 0,
+        "NumberOfHellhounds": 0,
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641347350)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.NoLynchEnabled, Werewolf.GameEngine",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641347381)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.GameSetToVariableLengthSpeedGameCycle, Werewolf.GameEngine",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641347381)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Core.AnonymisedGameStartedEvent, Werewolf.GameEngine",
+        "ThemeId": "Transformers",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641347412)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine",
+        "OriginalName": "B1G_UK",
+        "NewName": "Brainstorm",
+        "NewAvatarUrl": "/content/images/avatars/Transformers/Brainstorm.png",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641347412)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine",
+        "OriginalName": "Rose22",
+        "NewName": "Vos",
+        "NewAvatarUrl": "/content/images/avatars/Transformers/Vos.png",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641347459)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine",
+        "OriginalName": "Phyton",
+        "NewName": "Fulcrum",
+        "NewAvatarUrl": "/content/images/avatars/Transformers/Fulcrum.png",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641347490)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine",
+        "OriginalName": "khaleesi",
+        "NewName": "Windblade",
+        "NewAvatarUrl": "/content/images/avatars/Transformers/Windblade.png",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641347631)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine",
+        "OriginalName": "Kirschstein",
+        "NewName": "Arcee",
+        "NewAvatarUrl": "/content/images/avatars/Transformers/Arcee.png",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641347756)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.PlayerActivity.InactivitySmitingEnabled, Werewolf.GameEngine",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641347897)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.StalkerAssignedEvent, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641347944)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.WerewolfAssignedEvent, Werewolf.GameEngine",
+        "PlayerName": "khaleesi",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641347959)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.HarlotAssignedEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641347959)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.SleepwalkerAssignedEvent, Werewolf.GameEngine",
+        "PlayerName": "Rose22",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641347980)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.VillagerAssignedEvent, Werewolf.GameEngine",
+        "PlayerName": "B1G_UK",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641347990)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Items.AccurrumAllocated, Werewolf.GameEngine",
+        "PlayerName": "B1G_UK",
+        "ItemId": "4badf60ef3c94d7890e3a9e2d544ba52",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641348006)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Core.ModeratorMessageEvent, Werewolf.GameEngine",
+        "Message": "There are: 1 Stalker, 1 Werewolf, 1 Harlot, 1 Sleepwalker and 1 Villager.",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641348022)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Items.ItemsInGameAnnounced, Werewolf.GameEngine",
+        "RandomlyAssigned": [
+            "Accurrum"
+        ],
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641348037)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.GameSetupFinished, Werewolf.GameEngine",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641348053)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.WerewolfNightMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "khaleesi",
+        "Message": "I am a Werewolf",
+        "Recipients": [
+            "khaleesi"
+        ],
+        "Eavesdroppers": [
+            "Default-Eavesdropper",
+            "Default-Eavesdropper"
+        ],
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641348194)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "i fear no night 1 death",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641360991)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "for i am bait",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641378153)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "khaleesi",
+        "Message": "Your bait?",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641410182)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "Yes, expendable material that the wolves can munch on",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641420840)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "welll.. wolf",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641435183)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Night.NightStartsSoonWarningGiven, Werewolf.GameEngine",
+        "FlavourText": "The first star of the night can be seen...",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641435683)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "Hello :)",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641447003)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "What theme is this?",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641458441)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "a shit one",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641464019)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Night.NightStartedEvent, Werewolf.GameEngine",
+        "NightNumber": 1,
+        "PhaseLength": 0,
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641470652)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "khaleesi",
+        "PlayerNames": [
+            "Phyton",
+            "Kirschstein",
+            "Rose22",
+            "B1G_UK"
+        ],
+        "ActionName": "Kill",
+        "Message": "The wolfpack have 1 kill tonight",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641470652)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "Kirschstein",
+        "PlayerNames": [
+            "Phyton",
+            "khaleesi",
+            "Rose22",
+            "B1G_UK"
+        ],
+        "ActionName": "Visit",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641470652)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Items.ItemAvailable, Werewolf.GameEngine",
+        "ItemIndex": 0,
+        "ItemName": "Accurrum",
+        "Description": "The Accurrum can be used once per game. The day after it is activated will be shorter than normal",
+        "PlayerWithItem": "B1G_UK",
+        "ActionName": "Activate",
+        "PlayerNames": [
+            "B1G_UK"
+        ],
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641470652)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.NightTargetChosenEvent, Werewolf.GameEngine",
+        "Confirmation": "Tonight you will see who visits $Rose22",
+        "PlayerWithRole": "Kirschstein",
+        "Role": "Harlot",
+        "Target": "Rose22",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641475702)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.NightTargetChosenEvent, Werewolf.GameEngine",
+        "Confirmation": "Tonight you will follow $B1G_UK and see who they visit",
+        "PlayerWithRole": "Phyton",
+        "Role": "Stalker",
+        "Target": "B1G_UK",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641487934)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Night.WerewolfVoteEvent, Werewolf.GameEngine",
+        "Werewolf": "khaleesi",
+        "Target": "Rose22",
+        "Recipients": [
+            "khaleesi"
+        ],
+        "MaxKillCount": 1,
+        "ThisKill": 1,
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641490950)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.DayStartsSoonWarningGiven, Werewolf.GameEngine",
+        "FlavourText": "The sun begins to rise...",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641495685)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.Village.Harlot.HarlotSawVisit, Werewolf.GameEngine",
+        "Harlot": "Kirschstein",
+        "Target": "Rose22",
+        "Visitor": "khaleesi",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641530646)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.Village.Stalker.StalkerSawNoVisit, Werewolf.GameEngine",
+        "Stalker": "Phyton",
+        "Target": "B1G_UK",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641530646)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Night.PlayerKilledEvent, Werewolf.GameEngine",
+        "PlayerName": "Rose22",
+        "CauseOfDeath": "Werewolf",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641530646)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.DayStartedEvent, Werewolf.GameEngine",
+        "DayNumber": 2,
+        "PhaseLength": 0,
+        "DiscussionLength": 0,
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641530646)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "am harlot",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641547662)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "khaleesi",
+        "Message": "Vos was killed?",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641549631)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "Okay...",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641552349)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "no visitors",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641553178)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.VillageNominationsOpenedEvent, Werewolf.GameEngine",
+        "TimeLeft": 0,
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641555678)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.NoLynchOptionAvailable, Werewolf.GameEngine",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641555678)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "any cc?",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641558712)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "Who did you visit? ",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641567034)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "Nope. ",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641571775)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "B1G_UK",
+        "Message": "Only 1 evil character in this game?",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641572822)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "Only one.",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641579532)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "cool, cos i lied about the \"no visitors bit\"",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641583749)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "I got lucky with my guess and slept with Vos, i know the killer",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641591858)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "B1G_UK",
+        "Message": "We must be able to find them ",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641592664)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "Who is it?",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641607432)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.VillageNominationEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Target": "khaleesi",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641608075)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "^ massive hint",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641612410)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.VillageNominationEvent, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Target": "khaleesi",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641614729)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "B1G_UK",
+        "Message": "Why?",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641616840)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "khaleesi",
+        "Message": "I didn't kill him?",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641630987)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "Yes you did",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641641399)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "Arcee saw Windblade visit Vos last night. ",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641645353)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "B1G_UK",
+        "Message": "You trust that?",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641661681)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "khaleesi",
+        "Message": "Im sleepwalker",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641663869)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "top name seemed too obvious a check, so i went with the second",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641664931)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Night.NightStartsSoonWarningGiven, Werewolf.GameEngine",
+        "FlavourText": "It will soon be dark...",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641675613)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Phyton",
+        "Message": "How you know you SW or Vanilla?",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641683271)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "B1G_UK",
+        "Message": "Ok let's try",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641687474)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Kirschstein",
+        "Message": "you don't",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641687928)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "B1G_UK",
+        "Message": "?",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641692155)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.VillageNominationEvent, Werewolf.GameEngine",
+        "PlayerName": "khaleesi",
+        "Target": "Kirschstein",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641697893)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.VillageNominationEvent, Werewolf.GameEngine",
+        "PlayerName": "B1G_UK",
+        "Target": "khaleesi",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641699847)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Night.NightStartedEvent, Werewolf.GameEngine",
+        "NightNumber": 2,
+        "PhaseLength": 0,
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641710644)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.PlayerLynchedEvent, Werewolf.GameEngine",
+        "PlayerName": "khaleesi",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641710644)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "khaleesi",
+        "PlayerNames": [
+            "Phyton",
+            "Kirschstein",
+            "B1G_UK"
+        ],
+        "ActionName": "Kill",
+        "Message": "The wolfpack have 1 kill tonight",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641710644)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "Kirschstein",
+        "PlayerNames": [
+            "Phyton",
+            "B1G_UK"
+        ],
+        "ActionName": "Visit",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641710644)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Items.ItemAvailable, Werewolf.GameEngine",
+        "ItemIndex": 0,
+        "ItemName": "Accurrum",
+        "Description": "The Accurrum can be used once per game. The day after it is activated will be shorter than normal",
+        "PlayerWithItem": "B1G_UK",
+        "ActionName": "Activate",
+        "PlayerNames": [
+            "B1G_UK"
+        ],
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641710644)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.NightTargetChosenEvent, Werewolf.GameEngine",
+        "Confirmation": "Tonight you will see who visits $Phyton",
+        "PlayerWithRole": "Kirschstein",
+        "Role": "Harlot",
+        "Target": "Phyton",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641714165)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.After.VillageVictoryEvent, Werewolf.GameEngine",
+        "WinningPlayers": [
+            "Phyton",
+            "Kirschstein",
+            "Rose22",
+            "B1G_UK"
+        ],
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641717681)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "Nice",
+        "PlayerName": "B1G_UK",
+        "OriginalName": "B1G_UK",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641731826)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "Damn",
+        "PlayerName": "khaleesi",
+        "OriginalName": "khaleesi",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641733497)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "Good check",
+        "PlayerName": "Phyton",
+        "OriginalName": "Phyton",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641740186)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": ":p",
+        "PlayerName": "Phyton",
+        "OriginalName": "Phyton",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641741422)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "if you get a miss lynch on d2 with wolf on this",
+        "PlayerName": "Kirschstein",
+        "OriginalName": "Kirschstein",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641744703)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "you win the game",
+        "PlayerName": "Kirschstein",
+        "OriginalName": "Kirschstein",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641746484)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "so i think you need to bluff hard",
+        "PlayerName": "Kirschstein",
+        "OriginalName": "Kirschstein",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641749680)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "Think the evils need a bigger team ",
+        "PlayerName": "B1G_UK",
+        "OriginalName": "B1G_UK",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641795511)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "so i left you no room to cc harlot when i started my claim",
+        "PlayerName": "Kirschstein",
+        "OriginalName": "Kirschstein",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641797432)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "in a 5 p game, 1 is about as many evils as you can have really",
+        "PlayerName": "Kirschstein",
+        "OriginalName": "Kirschstein",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641818826)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "unless all the villagers have some form of extra life",
+        "PlayerName": "Kirschstein",
+        "OriginalName": "Kirschstein",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641826334)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "Yeah, I hear you",
+        "PlayerName": "B1G_UK",
+        "OriginalName": "B1G_UK",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641852572)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "They would have get real lucky ",
+        "PlayerName": "B1G_UK",
+        "OriginalName": "B1G_UK",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641877301)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "A lot of the good players had powers aswell, which is even harder",
+        "PlayerName": "B1G_UK",
+        "OriginalName": "B1G_UK",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641901748)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "there are lots of different setups",
+        "PlayerName": "Kirschstein",
+        "OriginalName": "Kirschstein",
+        "GameId": "bot-486",
+        "TimeStamp": "\/Date(1563641910613)\/"
+    }
+]

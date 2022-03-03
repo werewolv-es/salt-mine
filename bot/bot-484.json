@@ -1,1 +1,922 @@
-[{"__type":"Werewolf.GameEngine.Creation.GameCreatedEvent, Werewolf.GameEngine","CreatedBy":"SpeedGameBot","GameId":"bot-484","TimeStamp":"\/Date(1562767520385)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"SpeedGameBot","Message":"Game is ready. Once this game has enough players, the activity check can be completed using $$check in this lobby, and once this passes the game can be started with $$go","GameId":"bot-484","TimeStamp":"\/Date(1562767531943)\/"},{"__type":"Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine","PlayerName":"Superplayer","GameId":"bot-484","TimeStamp":"\/Date(1562767542730)\/"},{"__type":"Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine","PlayerName":"khaleesi","GameId":"bot-484","TimeStamp":"\/Date(1562767544667)\/"},{"__type":"Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine","PlayerName":"EchoFall","GameId":"bot-484","TimeStamp":"\/Date(1562767546261)\/"},{"__type":"Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine","PlayerName":"Him_Him","GameId":"bot-484","TimeStamp":"\/Date(1562767663352)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Superplayer","Message":"$$go","GameId":"bot-484","TimeStamp":"\/Date(1562767673887)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"SpeedGameBot","Message":"Unable to start game: Game has not been activity-checked.","GameId":"bot-484","TimeStamp":"\/Date(1562767674043)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Superplayer","Message":"$$chec","GameId":"bot-484","TimeStamp":"\/Date(1562767681423)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Superplayer","Message":"$$check","GameId":"bot-484","TimeStamp":"\/Date(1562767686016)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"SpeedGameBot","Message":"Starting activity check, all players must say something in the next 5 minutes.","GameId":"bot-484","TimeStamp":"\/Date(1562767686173)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Him_Him","Message":".","GameId":"bot-484","TimeStamp":"\/Date(1562767687094)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Superplayer","Message":"mmm","GameId":"bot-484","TimeStamp":"\/Date(1562767692266)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"khaleesi","Message":"hey","GameId":"bot-484","TimeStamp":"\/Date(1562767737317)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"EchoFall","Message":"Hhhhh","GameId":"bot-484","TimeStamp":"\/Date(1562767760068)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"SpeedGameBot","Message":"Activity check complete!","GameId":"bot-484","TimeStamp":"\/Date(1562767760240)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"Superplayer","Message":"$$go","GameId":"bot-484","TimeStamp":"\/Date(1562767766397)\/"},{"__type":"Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine","PlayerName":"SpeedGameBot","Message":"Attempting to start 4 player game.","GameId":"bot-484","TimeStamp":"\/Date(1562767766522)\/"},{"__type":"Werewolf.GameEngine.Creation.GameSpyJoinedEvent, Werewolf.GameEngine","PlayerName":"SpeedGameBot","GameId":"bot-484","TimeStamp":"\/Date(1562767767678)\/"},{"__type":"Werewolf.GameEngine.Creation.GameStartedEvent, Werewolf.GameEngine","FirstDayLength":0,"NightLength":0,"DayLength":0,"DayDiscussionLength":0,"DefenceLength":0,"TrialLength":0,"LynchType":"MostVotes","PhaseTimeType":"VariableSpud","RoleAnnouncementMessageType":"Full","RoleList":["Werewolf","EssenceThief","Diseased","Strongman"],"Host":"SpeedGameBot","NumberOfMasonLeaders":0,"NumberOfDirewolves":0,"NumberOfWolves":0,"NumberOfShapeshifters":0,"NumberOfBloodhounds":0,"NumberOfLycans":0,"NumberOfSeers":0,"NumberOfProtectors":0,"NumberOfHuntsmen":0,"NumberOfGravediggers":0,"NumberOfGraverobbers":0,"NumberOfRevivers":0,"NumberOfHarlots":0,"NumberOfVampires":0,"NumberOfFamiliarStalkers":0,"NumberOfAlphaWolves":0,"NumberOfStalkers":0,"NumberOfMilitia":0,"NumberOfMessiahs":0,"NumberOfDjinn":0,"NumberOfSuccubi":0,"NumberOfWitches":0,"NumberOfShamans":0,"NumberOfPuppetmasters":0,"NumberOfTarotReaders":0,"NumberOfWitchHunters":0,"NumberOfBeholders":0,"NumberOfZealots":0,"NumberOfSleepWalkers":0,"NumberOfDemonlords":0,"NumberOfHellhounds":0,"GameId":"bot-484","TimeStamp":"\/Date(1562767767678)\/"},{"__type":"Werewolf.GameEngine.Creation.NoLynchEnabled, Werewolf.GameEngine","GameId":"bot-484","TimeStamp":"\/Date(1562767767694)\/"},{"__type":"Werewolf.GameEngine.Creation.GameSetToVariableLengthSpeedGameCycle, Werewolf.GameEngine","GameId":"bot-484","TimeStamp":"\/Date(1562767767709)\/"},{"__type":"Werewolf.GameEngine.Core.AnonymisedGameStartedEvent, Werewolf.GameEngine","ThemeId":"Firefly","GameId":"bot-484","TimeStamp":"\/Date(1562767767725)\/"},{"__type":"Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine","OriginalName":"Superplayer","NewName":"Niska","NewAvatarUrl":"/content/images/avatars/Firefly/Niska.png","GameId":"bot-484","TimeStamp":"\/Date(1562767767725)\/"},{"__type":"Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine","OriginalName":"EchoFall","NewName":"Operative","NewAvatarUrl":"/content/images/avatars/Firefly/Operative.png","GameId":"bot-484","TimeStamp":"\/Date(1562767767756)\/"},{"__type":"Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine","OriginalName":"khaleesi","NewName":"SheriffBourne","NewAvatarUrl":"/content/images/avatars/Firefly/SheriffBourne.png","GameId":"bot-484","TimeStamp":"\/Date(1562767767787)\/"},{"__type":"Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine","OriginalName":"Him_Him","NewName":"ShepherdBook","NewAvatarUrl":"/content/images/avatars/Firefly/ShepherdBook.png","GameId":"bot-484","TimeStamp":"\/Date(1562767767818)\/"},{"__type":"Werewolf.GameEngine.PlayerActivity.InactivitySmitingEnabled, Werewolf.GameEngine","GameId":"bot-484","TimeStamp":"\/Date(1562767767850)\/"},{"__type":"Werewolf.GameEngine.Roles.WerewolfAssignedEvent, Werewolf.GameEngine","PlayerName":"EchoFall","GameId":"bot-484","TimeStamp":"\/Date(1562767767850)\/"},{"__type":"Werewolf.GameEngine.Roles.EssenceThiefAssignedEvent, Werewolf.GameEngine","PlayerName":"khaleesi","GameId":"bot-484","TimeStamp":"\/Date(1562767767865)\/"},{"__type":"Werewolf.GameEngine.Roles.StrongmanAssignedEvent, Werewolf.GameEngine","PlayerName":"Superplayer","GameId":"bot-484","TimeStamp":"\/Date(1562767767881)\/"},{"__type":"Werewolf.GameEngine.Roles.DiseasedAssignedEvent, Werewolf.GameEngine","PlayerName":"Him_Him","GameId":"bot-484","TimeStamp":"\/Date(1562767767897)\/"},{"__type":"Werewolf.GameEngine.Items.AccurrumAllocated, Werewolf.GameEngine","PlayerName":"Him_Him","ItemId":"16b21aa490364e709e52e4e288ca4a7c","GameId":"bot-484","TimeStamp":"\/Date(1562767767912)\/"},{"__type":"Werewolf.GameEngine.Core.ModeratorMessageEvent, Werewolf.GameEngine","Message":"There are: 1 Werewolf, 1 EssenceThief, 1 Strongman and 1 Diseased.","GameId":"bot-484","TimeStamp":"\/Date(1562767767912)\/"},{"__type":"Werewolf.GameEngine.Items.ItemsInGameAnnounced, Werewolf.GameEngine","RandomlyAssigned":["Accurrum"],"AssignedToRoles":{},"GameId":"bot-484","TimeStamp":"\/Date(1562767767928)\/"},{"__type":"Werewolf.GameEngine.Creation.GameSetupFinished, Werewolf.GameEngine","GameId":"bot-484","TimeStamp":"\/Date(1562767767928)\/"},{"__type":"Werewolf.GameEngine.Chatting.WerewolfNightMessageEvent, Werewolf.GameEngine","PlayerName":"EchoFall","Message":"I am a Werewolf","Recipients":["EchoFall"],"Eavesdroppers":["Default-Eavesdropper","Default-Eavesdropper"],"GameId":"bot-484","TimeStamp":"\/Date(1562767767975)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"khaleesi","Message":"hey","GameId":"bot-484","TimeStamp":"\/Date(1562767824432)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"EchoFall","Message":"Hello","GameId":"bot-484","TimeStamp":"\/Date(1562767835276)\/"},{"__type":"Werewolf.GameEngine.Phases.Night.NightStartsSoonWarningGiven, Werewolf.GameEngine","FlavourText":"An owl hoots...","GameId":"bot-484","TimeStamp":"\/Date(1562767835791)\/"},{"__type":"Werewolf.GameEngine.Phases.Night.NightStartedEvent, Werewolf.GameEngine","NightNumber":1,"PhaseLength":0,"GameId":"bot-484","TimeStamp":"\/Date(1562767870811)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"EchoFall","PlayerNames":["khaleesi","Superplayer","Him_Him"],"ActionName":"Kill","Message":"The wolfpack have 1 kill tonight","GameId":"bot-484","TimeStamp":"\/Date(1562767870811)\/"},{"__type":"Werewolf.GameEngine.Items.ItemAvailable, Werewolf.GameEngine","ItemIndex":0,"ItemName":"Accurrum","Description":"The Accurrum can be used once per game. The day after it is activated will be shorter than normal","PlayerWithItem":"Him_Him","ActionName":"Activate","PlayerNames":["Him_Him"],"GameId":"bot-484","TimeStamp":"\/Date(1562767870811)\/"},{"__type":"Werewolf.GameEngine.Phases.Night.WerewolfVoteEvent, Werewolf.GameEngine","Werewolf":"EchoFall","Target":"khaleesi","Recipients":["EchoFall"],"MaxKillCount":1,"ThisKill":1,"GameId":"bot-484","TimeStamp":"\/Date(1562767873029)\/"},{"__type":"Werewolf.GameEngine.Roles.NightTargetChosenEvent, Werewolf.GameEngine","PlayerWithRole":"khaleesi","Role":"EssenceThief","Target":"Him_Him","GameId":"bot-484","TimeStamp":"\/Date(1562767882201)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.DayStartsSoonWarningGiven, Werewolf.GameEngine","FlavourText":"The cockerel stirs...","GameId":"bot-484","TimeStamp":"\/Date(1562767896198)\/"},{"__type":"Werewolf.GameEngine.Phases.Night.PlayerKilledEvent, Werewolf.GameEngine","PlayerName":"khaleesi","CauseOfDeath":"Werewolf","GameId":"bot-484","TimeStamp":"\/Date(1562767930846)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.DayStartedEvent, Werewolf.GameEngine","DayNumber":2,"PhaseLength":0,"DiscussionLength":0,"GameId":"bot-484","TimeStamp":"\/Date(1562767930846)\/"},{"__type":"Werewolf.GameEngine.Roles.DiseasedAssignedEvent, Werewolf.GameEngine","PlayerName":"khaleesi","GameId":"bot-484","TimeStamp":"\/Date(1562767930846)\/"},{"__type":"Werewolf.GameEngine.Roles.DisplacedAssignedEvent, Werewolf.GameEngine","PlayerName":"Him_Him","EssenceThiefName":"khaleesi","GameId":"bot-484","TimeStamp":"\/Date(1562767930846)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Him_Him","Message":"Yo","GameId":"bot-484","TimeStamp":"\/Date(1562767942372)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Superplayer","Message":"hey","GameId":"bot-484","TimeStamp":"\/Date(1562767952311)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.VillageNominationsOpenedEvent, Werewolf.GameEngine","TimeLeft":0,"GameId":"bot-484","TimeStamp":"\/Date(1562767955795)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.NoLynchOptionAvailable, Werewolf.GameEngine","GameId":"bot-484","TimeStamp":"\/Date(1562767955795)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Superplayer","Message":"so","GameId":"bot-484","TimeStamp":"\/Date(1562767958347)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"EchoFall","Message":"Hi","GameId":"bot-484","TimeStamp":"\/Date(1562767965329)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Superplayer","Message":"person ded is not diseased","GameId":"bot-484","TimeStamp":"\/Date(1562767978597)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Superplayer","Message":"its the thief","GameId":"bot-484","TimeStamp":"\/Date(1562767983112)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Him_Him","Message":"Uh how do you know?","GameId":"bot-484","TimeStamp":"\/Date(1562767986909)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"EchoFall","Message":"Yeah?","GameId":"bot-484","TimeStamp":"\/Date(1562767997905)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Superplayer","Message":"cos im pretty big","GameId":"bot-484","TimeStamp":"\/Date(1562768027306)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Superplayer","Message":"and muscular","GameId":"bot-484","TimeStamp":"\/Date(1562768032108)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Him_Him","Message":"Ok, got it","GameId":"bot-484","TimeStamp":"\/Date(1562768038958)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Superplayer","Message":"so","GameId":"bot-484","TimeStamp":"\/Date(1562768044005)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"EchoFall","Message":"Ok?","GameId":"bot-484","TimeStamp":"\/Date(1562768048286)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Him_Him","Message":"Counters anyone?","GameId":"bot-484","TimeStamp":"\/Date(1562768050461)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Superplayer","Message":"actually","GameId":"bot-484","TimeStamp":"\/Date(1562768051666)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Superplayer","Message":"whoever wereolf kils","GameId":"bot-484","TimeStamp":"\/Date(1562768058265)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Superplayer","Message":"tonight","GameId":"bot-484","TimeStamp":"\/Date(1562768060874)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Superplayer","Message":"is dea","GameId":"bot-484","TimeStamp":"\/Date(1562768063155)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Him_Him","Message":"Thanks Sherlock","GameId":"bot-484","TimeStamp":"\/Date(1562768069937)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Superplayer","Message":"wolf will die","GameId":"bot-484","TimeStamp":"\/Date(1562768070030)\/"},{"__type":"Werewolf.GameEngine.Phases.Night.NightStartsSoonWarningGiven, Werewolf.GameEngine","FlavourText":"The hour of dusk approaches...","GameId":"bot-484","TimeStamp":"\/Date(1562768075812)\/"},{"__type":"Werewolf.GameEngine.Phases.VoteForNoLynchCast, Werewolf.GameEngine","PlayerName":"Superplayer","GameId":"bot-484","TimeStamp":"\/Date(1562768077374)\/"},{"__type":"Werewolf.GameEngine.Phases.VoteForNoLynchCast, Werewolf.GameEngine","PlayerName":"EchoFall","GameId":"bot-484","TimeStamp":"\/Date(1562768082515)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Him_Him","Message":"Yeah no I'm getting my role back you thief","GameId":"bot-484","TimeStamp":"\/Date(1562768087108)\/"},{"__type":"Werewolf.GameEngine.Phases.VoteForNoLynchCast, Werewolf.GameEngine","PlayerName":"Him_Him","GameId":"bot-484","TimeStamp":"\/Date(1562768091327)\/"},{"__type":"Werewolf.GameEngine.Phases.Night.NightStartedEvent, Werewolf.GameEngine","NightNumber":2,"PhaseLength":0,"GameId":"bot-484","TimeStamp":"\/Date(1562768111191)\/"},{"__type":"Werewolf.GameEngine.Phases.NoPlayerLynched, Werewolf.GameEngine","GameId":"bot-484","TimeStamp":"\/Date(1562768111191)\/"},{"__type":"Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine","PlayerWithRole":"EchoFall","PlayerNames":["Superplayer","Him_Him"],"ActionName":"Kill","Message":"The wolfpack have 1 kill tonight","GameId":"bot-484","TimeStamp":"\/Date(1562768111191)\/"},{"__type":"Werewolf.GameEngine.Items.ItemAvailable, Werewolf.GameEngine","ItemIndex":0,"ItemName":"Accurrum","Description":"The Accurrum can be used once per game. The day after it is activated will be shorter than normal","PlayerWithItem":"Him_Him","ActionName":"Activate","PlayerNames":["Him_Him"],"GameId":"bot-484","TimeStamp":"\/Date(1562768111191)\/"},{"__type":"Werewolf.GameEngine.Roles.NightTargetChosenEvent, Werewolf.GameEngine","PlayerWithRole":"Him_Him","Role":"Displaced","Target":"Superplayer","GameId":"bot-484","TimeStamp":"\/Date(1562768116285)\/"},{"__type":"Werewolf.GameEngine.Phases.Night.WerewolfVoteEvent, Werewolf.GameEngine","Werewolf":"EchoFall","Target":"Him_Him","Recipients":["EchoFall"],"MaxKillCount":1,"ThisKill":1,"GameId":"bot-484","TimeStamp":"\/Date(1562768128135)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.DayStartsSoonWarningGiven, Werewolf.GameEngine","FlavourText":"The sun begins to rise...","GameId":"bot-484","TimeStamp":"\/Date(1562768135801)\/"},{"__type":"Werewolf.GameEngine.Items.ItemStolen, Werewolf.GameEngine","ItemId":"16b21aa490364e709e52e4e288ca4a7c","ItemName":"Accurrum","OldBearer":"Him_Him","NewBearer":"EchoFall","GameId":"bot-484","TimeStamp":"\/Date(1562768171195)\/"},{"__type":"Werewolf.GameEngine.Phases.Night.PlayerKilledEvent, Werewolf.GameEngine","PlayerName":"Him_Him","CauseOfDeath":"Werewolf","GameId":"bot-484","TimeStamp":"\/Date(1562768171195)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.DayStartedEvent, Werewolf.GameEngine","DayNumber":3,"PhaseLength":0,"DiscussionLength":0,"GameId":"bot-484","TimeStamp":"\/Date(1562768171195)\/"},{"__type":"Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine","PlayerName":"Him_Him","Message":"What","Recipients":["khaleesi","Him_Him"],"GameId":"bot-484","TimeStamp":"\/Date(1562768179958)\/"},{"__type":"Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine","PlayerName":"Him_Him","Message":"He was actually telling the truth","Recipients":["khaleesi","Him_Him"],"GameId":"bot-484","TimeStamp":"\/Date(1562768186351)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"EchoFall","Message":"Uh ","GameId":"bot-484","TimeStamp":"\/Date(1562768187727)\/"},{"__type":"Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine","PlayerName":"Him_Him","Message":"Oh wow","Recipients":["khaleesi","Him_Him"],"GameId":"bot-484","TimeStamp":"\/Date(1562768188321)\/"},{"__type":"Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine","PlayerName":"Superplayer","Message":"cool","GameId":"bot-484","TimeStamp":"\/Date(1562768195589)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.VillageNominationsOpenedEvent, Werewolf.GameEngine","TimeLeft":0,"GameId":"bot-484","TimeStamp":"\/Date(1562768195823)\/"},{"__type":"Werewolf.GameEngine.Phases.Day.NoLynchOptionAvailable, Werewolf.GameEngine","GameId":"bot-484","TimeStamp":"\/Date(1562768195823)\/"},{"__type":"Werewolf.GameEngine.Phases.After.VillageVictoryEvent, Werewolf.GameEngine","WinningPlayers":["khaleesi","Superplayer"],"GameId":"bot-484","TimeStamp":"\/Date(1562768195823)\/"},{"__type":"Werewolf.GameEngine.Phases.After.WerewolfVictoryEvent, Werewolf.GameEngine","GameId":"bot-484","TimeStamp":"\/Date(1562768195823)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"so","PlayerName":"Superplayer","OriginalName":"Superplayer","GameId":"bot-484","TimeStamp":"\/Date(1562768197109)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"I can't believe it","PlayerName":"Him_Him","OriginalName":"Him_Him","GameId":"bot-484","TimeStamp":"\/Date(1562768206183)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"You actually told the truth","PlayerName":"Him_Him","OriginalName":"Him_Him","GameId":"bot-484","TimeStamp":"\/Date(1562768211002)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"gg","PlayerName":"Him_Him","OriginalName":"Him_Him","GameId":"bot-484","TimeStamp":"\/Date(1562768218191)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"wait what","PlayerName":"Superplayer","OriginalName":"Superplayer","GameId":"bot-484","TimeStamp":"\/Date(1562768220442)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"Was not expecting that","PlayerName":"EchoFall","OriginalName":"EchoFall","GameId":"bot-484","TimeStamp":"\/Date(1562768228349)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"You're strong!","PlayerName":"Him_Him","OriginalName":"Him_Him","GameId":"bot-484","TimeStamp":"\/Date(1562768231117)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"I'm Hercules!","PlayerName":"Superplayer","OriginalName":"Superplayer","GameId":"bot-484","TimeStamp":"\/Date(1562768238008)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"Same, operative","PlayerName":"Him_Him","OriginalName":"Him_Him","GameId":"bot-484","TimeStamp":"\/Date(1562768239242)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"Wait","PlayerName":"EchoFall","OriginalName":"EchoFall","GameId":"bot-484","TimeStamp":"\/Date(1562768241070)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"wait how did wolf not die","PlayerName":"Superplayer","OriginalName":"Superplayer","GameId":"bot-484","TimeStamp":"\/Date(1562768251057)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"What do you mean","PlayerName":"Him_Him","OriginalName":"Him_Him","GameId":"bot-484","TimeStamp":"\/Date(1562768256514)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"if diseased is dead","PlayerName":"Superplayer","OriginalName":"Superplayer","GameId":"bot-484","TimeStamp":"\/Date(1562768256967)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"Sheriff was diseased?","PlayerName":"EchoFall","OriginalName":"EchoFall","GameId":"bot-484","TimeStamp":"\/Date(1562768259889)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"How could I still kill?","PlayerName":"EchoFall","OriginalName":"EchoFall","GameId":"bot-484","TimeStamp":"\/Date(1562768271333)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"ooh","PlayerName":"Superplayer","OriginalName":"Superplayer","GameId":"bot-484","TimeStamp":"\/Date(1562768272085)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"No, Echo you killed Sheriff as he stole my role (diseased)","PlayerName":"Him_Him","OriginalName":"Him_Him","GameId":"bot-484","TimeStamp":"\/Date(1562768274502)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"Ohh","PlayerName":"EchoFall","OriginalName":"EchoFall","GameId":"bot-484","TimeStamp":"\/Date(1562768280377)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"Confusing","PlayerName":"EchoFall","OriginalName":"EchoFall","GameId":"bot-484","TimeStamp":"\/Date(1562768298247)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"Gg","PlayerName":"EchoFall","OriginalName":"EchoFall","GameId":"bot-484","TimeStamp":"\/Date(1562768309050)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"yea lol","PlayerName":"Superplayer","OriginalName":"Superplayer","GameId":"bot-484","TimeStamp":"\/Date(1562768309972)\/"},{"__type":"Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine","Message":"himhim you were diseased before?","PlayerName":"Superplayer","OriginalName":"Superplayer","GameId":"bot-484","TimeStamp":"\/Date(1562768377623)\/"}]
+[
+    {
+        "__type": "Werewolf.GameEngine.Creation.GameCreatedEvent, Werewolf.GameEngine",
+        "CreatedBy": "SpeedGameBot",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767520385)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "SpeedGameBot",
+        "Message": "Game is ready. Once this game has enough players, the activity check can be completed using $$check in this lobby, and once this passes the game can be started with $$go",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767531943)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine",
+        "PlayerName": "Superplayer",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767542730)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine",
+        "PlayerName": "khaleesi",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767544667)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine",
+        "PlayerName": "EchoFall",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767546261)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.PlayerJoinedEvent, Werewolf.GameEngine",
+        "PlayerName": "Him_Him",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767663352)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Superplayer",
+        "Message": "$$go",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767673887)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "SpeedGameBot",
+        "Message": "Unable to start game: Game has not been activity-checked.",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767674043)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Superplayer",
+        "Message": "$$chec",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767681423)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Superplayer",
+        "Message": "$$check",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767686016)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "SpeedGameBot",
+        "Message": "Starting activity check, all players must say something in the next 5 minutes.",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767686173)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Him_Him",
+        "Message": ".",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767687094)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Superplayer",
+        "Message": "mmm",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767692266)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "khaleesi",
+        "Message": "hey",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767737317)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "EchoFall",
+        "Message": "Hhhhh",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767760068)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "SpeedGameBot",
+        "Message": "Activity check complete!",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767760240)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "Superplayer",
+        "Message": "$$go",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767766397)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PendingGameMessage, Werewolf.GameEngine",
+        "PlayerName": "SpeedGameBot",
+        "Message": "Attempting to start 4 player game.",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767766522)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.GameSpyJoinedEvent, Werewolf.GameEngine",
+        "PlayerName": "SpeedGameBot",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767767678)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.GameStartedEvent, Werewolf.GameEngine",
+        "FirstDayLength": 0,
+        "NightLength": 0,
+        "DayLength": 0,
+        "DayDiscussionLength": 0,
+        "DefenceLength": 0,
+        "TrialLength": 0,
+        "LynchType": "MostVotes",
+        "PhaseTimeType": "VariableSpud",
+        "RoleAnnouncementMessageType": "Full",
+        "RoleList": [
+            "Werewolf",
+            "EssenceThief",
+            "Diseased",
+            "Strongman"
+        ],
+        "Host": "SpeedGameBot",
+        "NumberOfMasonLeaders": 0,
+        "NumberOfDirewolves": 0,
+        "NumberOfWolves": 0,
+        "NumberOfShapeshifters": 0,
+        "NumberOfBloodhounds": 0,
+        "NumberOfLycans": 0,
+        "NumberOfSeers": 0,
+        "NumberOfProtectors": 0,
+        "NumberOfHuntsmen": 0,
+        "NumberOfGravediggers": 0,
+        "NumberOfGraverobbers": 0,
+        "NumberOfRevivers": 0,
+        "NumberOfHarlots": 0,
+        "NumberOfVampires": 0,
+        "NumberOfFamiliarStalkers": 0,
+        "NumberOfAlphaWolves": 0,
+        "NumberOfStalkers": 0,
+        "NumberOfMilitia": 0,
+        "NumberOfMessiahs": 0,
+        "NumberOfDjinn": 0,
+        "NumberOfSuccubi": 0,
+        "NumberOfWitches": 0,
+        "NumberOfShamans": 0,
+        "NumberOfPuppetmasters": 0,
+        "NumberOfTarotReaders": 0,
+        "NumberOfWitchHunters": 0,
+        "NumberOfBeholders": 0,
+        "NumberOfZealots": 0,
+        "NumberOfSleepWalkers": 0,
+        "NumberOfDemonlords": 0,
+        "NumberOfHellhounds": 0,
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767767678)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.NoLynchEnabled, Werewolf.GameEngine",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767767694)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.GameSetToVariableLengthSpeedGameCycle, Werewolf.GameEngine",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767767709)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Core.AnonymisedGameStartedEvent, Werewolf.GameEngine",
+        "ThemeId": "Firefly",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767767725)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine",
+        "OriginalName": "Superplayer",
+        "NewName": "Niska",
+        "NewAvatarUrl": "/content/images/avatars/Firefly/Niska.png",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767767725)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine",
+        "OriginalName": "EchoFall",
+        "NewName": "Operative",
+        "NewAvatarUrl": "/content/images/avatars/Firefly/Operative.png",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767767756)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine",
+        "OriginalName": "khaleesi",
+        "NewName": "SheriffBourne",
+        "NewAvatarUrl": "/content/images/avatars/Firefly/SheriffBourne.png",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767767787)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Core.NewIdentityAssignedEvent, Werewolf.GameEngine",
+        "OriginalName": "Him_Him",
+        "NewName": "ShepherdBook",
+        "NewAvatarUrl": "/content/images/avatars/Firefly/ShepherdBook.png",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767767818)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.PlayerActivity.InactivitySmitingEnabled, Werewolf.GameEngine",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767767850)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.WerewolfAssignedEvent, Werewolf.GameEngine",
+        "PlayerName": "EchoFall",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767767850)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.EssenceThiefAssignedEvent, Werewolf.GameEngine",
+        "PlayerName": "khaleesi",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767767865)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.StrongmanAssignedEvent, Werewolf.GameEngine",
+        "PlayerName": "Superplayer",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767767881)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.DiseasedAssignedEvent, Werewolf.GameEngine",
+        "PlayerName": "Him_Him",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767767897)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Items.AccurrumAllocated, Werewolf.GameEngine",
+        "PlayerName": "Him_Him",
+        "ItemId": "16b21aa490364e709e52e4e288ca4a7c",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767767912)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Core.ModeratorMessageEvent, Werewolf.GameEngine",
+        "Message": "There are: 1 Werewolf, 1 EssenceThief, 1 Strongman and 1 Diseased.",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767767912)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Items.ItemsInGameAnnounced, Werewolf.GameEngine",
+        "RandomlyAssigned": [
+            "Accurrum"
+        ],
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767767928)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Creation.GameSetupFinished, Werewolf.GameEngine",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767767928)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.WerewolfNightMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "EchoFall",
+        "Message": "I am a Werewolf",
+        "Recipients": [
+            "EchoFall"
+        ],
+        "Eavesdroppers": [
+            "Default-Eavesdropper",
+            "Default-Eavesdropper"
+        ],
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767767975)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "khaleesi",
+        "Message": "hey",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767824432)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "EchoFall",
+        "Message": "Hello",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767835276)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Night.NightStartsSoonWarningGiven, Werewolf.GameEngine",
+        "FlavourText": "An owl hoots...",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767835791)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Night.NightStartedEvent, Werewolf.GameEngine",
+        "NightNumber": 1,
+        "PhaseLength": 0,
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767870811)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "EchoFall",
+        "PlayerNames": [
+            "khaleesi",
+            "Superplayer",
+            "Him_Him"
+        ],
+        "ActionName": "Kill",
+        "Message": "The wolfpack have 1 kill tonight",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767870811)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Items.ItemAvailable, Werewolf.GameEngine",
+        "ItemIndex": 0,
+        "ItemName": "Accurrum",
+        "Description": "The Accurrum can be used once per game. The day after it is activated will be shorter than normal",
+        "PlayerWithItem": "Him_Him",
+        "ActionName": "Activate",
+        "PlayerNames": [
+            "Him_Him"
+        ],
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767870811)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Night.WerewolfVoteEvent, Werewolf.GameEngine",
+        "Werewolf": "EchoFall",
+        "Target": "khaleesi",
+        "Recipients": [
+            "EchoFall"
+        ],
+        "MaxKillCount": 1,
+        "ThisKill": 1,
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767873029)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.NightTargetChosenEvent, Werewolf.GameEngine",
+        "PlayerWithRole": "khaleesi",
+        "Role": "EssenceThief",
+        "Target": "Him_Him",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767882201)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.DayStartsSoonWarningGiven, Werewolf.GameEngine",
+        "FlavourText": "The cockerel stirs...",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767896198)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Night.PlayerKilledEvent, Werewolf.GameEngine",
+        "PlayerName": "khaleesi",
+        "CauseOfDeath": "Werewolf",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767930846)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.DayStartedEvent, Werewolf.GameEngine",
+        "DayNumber": 2,
+        "PhaseLength": 0,
+        "DiscussionLength": 0,
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767930846)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.DiseasedAssignedEvent, Werewolf.GameEngine",
+        "PlayerName": "khaleesi",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767930846)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.DisplacedAssignedEvent, Werewolf.GameEngine",
+        "PlayerName": "Him_Him",
+        "EssenceThiefName": "khaleesi",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767930846)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Him_Him",
+        "Message": "Yo",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767942372)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Superplayer",
+        "Message": "hey",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767952311)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.VillageNominationsOpenedEvent, Werewolf.GameEngine",
+        "TimeLeft": 0,
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767955795)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.NoLynchOptionAvailable, Werewolf.GameEngine",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767955795)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Superplayer",
+        "Message": "so",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767958347)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "EchoFall",
+        "Message": "Hi",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767965329)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Superplayer",
+        "Message": "person ded is not diseased",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767978597)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Superplayer",
+        "Message": "its the thief",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767983112)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Him_Him",
+        "Message": "Uh how do you know?",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767986909)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "EchoFall",
+        "Message": "Yeah?",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562767997905)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Superplayer",
+        "Message": "cos im pretty big",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768027306)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Superplayer",
+        "Message": "and muscular",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768032108)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Him_Him",
+        "Message": "Ok, got it",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768038958)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Superplayer",
+        "Message": "so",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768044005)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "EchoFall",
+        "Message": "Ok?",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768048286)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Him_Him",
+        "Message": "Counters anyone?",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768050461)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Superplayer",
+        "Message": "actually",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768051666)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Superplayer",
+        "Message": "whoever wereolf kils",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768058265)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Superplayer",
+        "Message": "tonight",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768060874)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Superplayer",
+        "Message": "is dea",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768063155)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Him_Him",
+        "Message": "Thanks Sherlock",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768069937)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Superplayer",
+        "Message": "wolf will die",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768070030)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Night.NightStartsSoonWarningGiven, Werewolf.GameEngine",
+        "FlavourText": "The hour of dusk approaches...",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768075812)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.VoteForNoLynchCast, Werewolf.GameEngine",
+        "PlayerName": "Superplayer",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768077374)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.VoteForNoLynchCast, Werewolf.GameEngine",
+        "PlayerName": "EchoFall",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768082515)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Him_Him",
+        "Message": "Yeah no I'm getting my role back you thief",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768087108)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.VoteForNoLynchCast, Werewolf.GameEngine",
+        "PlayerName": "Him_Him",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768091327)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Night.NightStartedEvent, Werewolf.GameEngine",
+        "NightNumber": 2,
+        "PhaseLength": 0,
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768111191)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.NoPlayerLynched, Werewolf.GameEngine",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768111191)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.ValidPrimaryNightTargetsShown, Werewolf.GameEngine",
+        "PlayerWithRole": "EchoFall",
+        "PlayerNames": [
+            "Superplayer",
+            "Him_Him"
+        ],
+        "ActionName": "Kill",
+        "Message": "The wolfpack have 1 kill tonight",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768111191)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Items.ItemAvailable, Werewolf.GameEngine",
+        "ItemIndex": 0,
+        "ItemName": "Accurrum",
+        "Description": "The Accurrum can be used once per game. The day after it is activated will be shorter than normal",
+        "PlayerWithItem": "Him_Him",
+        "ActionName": "Activate",
+        "PlayerNames": [
+            "Him_Him"
+        ],
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768111191)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Roles.NightTargetChosenEvent, Werewolf.GameEngine",
+        "PlayerWithRole": "Him_Him",
+        "Role": "Displaced",
+        "Target": "Superplayer",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768116285)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Night.WerewolfVoteEvent, Werewolf.GameEngine",
+        "Werewolf": "EchoFall",
+        "Target": "Him_Him",
+        "Recipients": [
+            "EchoFall"
+        ],
+        "MaxKillCount": 1,
+        "ThisKill": 1,
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768128135)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.DayStartsSoonWarningGiven, Werewolf.GameEngine",
+        "FlavourText": "The sun begins to rise...",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768135801)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Items.ItemStolen, Werewolf.GameEngine",
+        "ItemId": "16b21aa490364e709e52e4e288ca4a7c",
+        "ItemName": "Accurrum",
+        "OldBearer": "Him_Him",
+        "NewBearer": "EchoFall",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768171195)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Night.PlayerKilledEvent, Werewolf.GameEngine",
+        "PlayerName": "Him_Him",
+        "CauseOfDeath": "Werewolf",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768171195)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.DayStartedEvent, Werewolf.GameEngine",
+        "DayNumber": 3,
+        "PhaseLength": 0,
+        "DiscussionLength": 0,
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768171195)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Him_Him",
+        "Message": "What",
+        "Recipients": [
+            "khaleesi",
+            "Him_Him"
+        ],
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768179958)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Him_Him",
+        "Message": "He was actually telling the truth",
+        "Recipients": [
+            "khaleesi",
+            "Him_Him"
+        ],
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768186351)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "EchoFall",
+        "Message": "Uh ",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768187727)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.GhostMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Him_Him",
+        "Message": "Oh wow",
+        "Recipients": [
+            "khaleesi",
+            "Him_Him"
+        ],
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768188321)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.VillageMessageEvent, Werewolf.GameEngine",
+        "PlayerName": "Superplayer",
+        "Message": "cool",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768195589)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.VillageNominationsOpenedEvent, Werewolf.GameEngine",
+        "TimeLeft": 0,
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768195823)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.Day.NoLynchOptionAvailable, Werewolf.GameEngine",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768195823)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.After.VillageVictoryEvent, Werewolf.GameEngine",
+        "WinningPlayers": [
+            "khaleesi",
+            "Superplayer"
+        ],
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768195823)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Phases.After.WerewolfVictoryEvent, Werewolf.GameEngine",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768195823)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "so",
+        "PlayerName": "Superplayer",
+        "OriginalName": "Superplayer",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768197109)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "I can't believe it",
+        "PlayerName": "Him_Him",
+        "OriginalName": "Him_Him",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768206183)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "You actually told the truth",
+        "PlayerName": "Him_Him",
+        "OriginalName": "Him_Him",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768211002)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "gg",
+        "PlayerName": "Him_Him",
+        "OriginalName": "Him_Him",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768218191)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "wait what",
+        "PlayerName": "Superplayer",
+        "OriginalName": "Superplayer",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768220442)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "Was not expecting that",
+        "PlayerName": "EchoFall",
+        "OriginalName": "EchoFall",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768228349)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "You're strong!",
+        "PlayerName": "Him_Him",
+        "OriginalName": "Him_Him",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768231117)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "I'm Hercules!",
+        "PlayerName": "Superplayer",
+        "OriginalName": "Superplayer",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768238008)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "Same, operative",
+        "PlayerName": "Him_Him",
+        "OriginalName": "Him_Him",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768239242)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "Wait",
+        "PlayerName": "EchoFall",
+        "OriginalName": "EchoFall",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768241070)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "wait how did wolf not die",
+        "PlayerName": "Superplayer",
+        "OriginalName": "Superplayer",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768251057)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "What do you mean",
+        "PlayerName": "Him_Him",
+        "OriginalName": "Him_Him",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768256514)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "if diseased is dead",
+        "PlayerName": "Superplayer",
+        "OriginalName": "Superplayer",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768256967)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "Sheriff was diseased?",
+        "PlayerName": "EchoFall",
+        "OriginalName": "EchoFall",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768259889)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "How could I still kill?",
+        "PlayerName": "EchoFall",
+        "OriginalName": "EchoFall",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768271333)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "ooh",
+        "PlayerName": "Superplayer",
+        "OriginalName": "Superplayer",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768272085)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "No, Echo you killed Sheriff as he stole my role (diseased)",
+        "PlayerName": "Him_Him",
+        "OriginalName": "Him_Him",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768274502)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "Ohh",
+        "PlayerName": "EchoFall",
+        "OriginalName": "EchoFall",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768280377)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "Confusing",
+        "PlayerName": "EchoFall",
+        "OriginalName": "EchoFall",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768298247)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "Gg",
+        "PlayerName": "EchoFall",
+        "OriginalName": "EchoFall",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768309050)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "yea lol",
+        "PlayerName": "Superplayer",
+        "OriginalName": "Superplayer",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768309972)\/"
+    },
+    {
+        "__type": "Werewolf.GameEngine.Chatting.PostGameMessageEvent, Werewolf.GameEngine",
+        "Message": "himhim you were diseased before?",
+        "PlayerName": "Superplayer",
+        "OriginalName": "Superplayer",
+        "GameId": "bot-484",
+        "TimeStamp": "\/Date(1562768377623)\/"
+    }
+]
